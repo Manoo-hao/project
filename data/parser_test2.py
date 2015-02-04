@@ -2,16 +2,16 @@
 #!/usr/bin/python
 
 # step 1. open the data file
-#dataset = 'GDS4479_full.soft'
-fh = open('GDS4479_full.soft') #don't quite understand why this line doesn't work when I open 'dataset'
+dataset = 'GDS4479_full.soft'
+fh = open(dataset) #don't quite understand why this line doesn't work when I open 'dataset'
 
 
 #step 2. read the first line and then read more lines while the line doesn't match a specific pattern
 line = fh.readline()
-while line[0:] != 'dataset_table_begin' : #need to complete this
+while line[:20] != 'dataset_table_begin': #need to complete this
     line=fh.readline()
 
-header= fh.readline().strip()
+header = fh.readline().strip()
 
 #capture the column names
 colnames={}
@@ -23,9 +23,9 @@ for title in header.split('\t'):
     index=index+1
 
 #open our output files, one per table.
-genes = open('genes.txt','w')
-expressions = open ('expression.txt','w')
-probes = open('probes.txt','w')
+genefile=open('genes.txt','w')
+expressionfile=open ('expression.txt','w')
+probefile=open('probes.txt','w')
 
 #defines which columns are to go in each output file. For samples it is the 3rd header until the gene title header and they will be separated by '\t'
 genefields=['Gene ID', 'Gene symbol', 'Gene title']
@@ -63,7 +63,7 @@ def build_expression(row, samples):
 
     #initialise a counter to count how many probe rows were processed.
     #writes the data to the files
-probecount = 0
+rows = 0
 for line in fh.readlines():
     try:
         if line[0]=='!':
@@ -71,17 +71,15 @@ for line in fh.readlines():
         row=line.strip().split('\t')
         genefile.write(buildrow(row, genefields))
         probefile.write(buildrow(row,probefields))
-        expressionfile.write(build_expression(row, samples))	
-        probecount = probecount +1 #increment the row counter
+        expressionfile.write(build_expression(row, samples))
+        rows = rows +1 #increment the row counter
     except:
         pass
 
     #close the created files after the data has been writen to them
-fh.close()
-genes.close()
-expressions.close()
-probes.close()
+genefile.close()
+expressionfile.close()
+probefile.close()
 
     #print out a message to indicate success with outputting the data.
-print ('So what next!?','\n')
-print(str(probecount))
+print '%s rows processed'%rows
