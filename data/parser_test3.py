@@ -9,7 +9,7 @@ fh = open(dataset) #don't quite understand why this line doesn't work when I ope
 
 #step 2. read the first line and then read more lines while the line doesn't match a specific pattern
 line = fh.readline()
-while line[:20] != '!dataset_table_begin': #need to complete this
+while line[:20] != '!dataset_table_begin': #check first 20 characters, if it doesn't match this, read next line.
     line=fh.readline()
 
 header = fh.readline().strip()
@@ -72,7 +72,7 @@ for line in fh.readlines():
         row=line.replace('\n','').split('\t')
         if row[int(colnames['Gene ID'])] =='': #genes originally spat out a lot of empty lines. This statement gets rid of lines that contain nothing.
             continue
-        genefile.write(buildrow(row, genefields))
+        genefile.write(buildrow(row,genefields))
         probefile.write(buildrow(row,probefields))
         expressionfile.write(build_expression(row, samples))
         rows = rows +1 #increment the row counter

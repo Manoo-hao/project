@@ -72,7 +72,7 @@ for line in fh.readlines():
         row=line.replace('\n','').split('\t')
         if row[int(colnames['Gene ID'])] =='': #genes originally spat out a lot of empty lines. This statement gets rid of lines that contain nothing.
             continue
-        genefile.write(buildrow(row, genefields))
+        genefile.write(buildrow(row,genefields))
         probefile.write(buildrow(row,probefields))
         expressionfile.write(build_expression(row, samples))
         rows = rows +1 #increment the row counter
