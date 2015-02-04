@@ -42,7 +42,6 @@ def buildrow(row, fields):
     '''
     newrow=[]
     for f in fields:
-        # print(str(colnames[f])+" "+row[int(colnames[f])]) <-- was there for bugfixing reasons
         newrow.append(row[int(colnames[f])])
     return "\t".join(newrow)+"\n"
 
@@ -73,15 +72,12 @@ for line in fh.readlines():
         row=line.replace('\n','').split('\t')
         if row[int(colnames['Gene ID'])] =='': #genes originally spat out a lot of empty lines. This statement gets rid of lines that contain nothing.
             continue
-        #print(line) <-- was there for bugfixing reasons
-        #textout=buildrow(row, genefields) <-- was there for bugfixing reasons
-        #print(":"+textout) <-- was there for bugfixing reasons
         genefile.write(buildrow(row, genefields))
         probefile.write(buildrow(row,probefields))
         expressionfile.write(build_expression(row, samples))
         rows = rows +1 #increment the row counter
-    except #Exception, e: <-- was there for bugfixing reasons
-        pass #print e <-- was there for bugfixing reasons
+    except:
+        pass
 
     #close the created files after the data has been writen to them
 genefile.close()

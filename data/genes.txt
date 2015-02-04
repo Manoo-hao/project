@@ -1,0 +1,4522 @@
+1468917	PF1051	ATP-dependent helicase
+1468941	PF1075	hypothetical protein
+1468992	PF1123	hypothetical protein
+1469014	PF1145	Mrp/Nbp35 family ATP-binding protein
+1469035	PF1166	exonuclease
+1467939	PF0110	DNA primase small subunit
+1467955	PF0126	DNA repair protein rad25
+1469379	PF1503	hypothetical protein
+1469383	PF1507	cell division protein FtsZ
+1469418	PF1542	small nuclear ribonucleoprotein
+1467969	PF0137	methyltransferase
+1469455	PF1579	DNA topoisomerase VI subunit B
+1469757	PF1878	methylated-DNA--protein-cysteine methyltransferase
+1467845	cdc6	cell division control protein 6
+1469806	radA	DNA repair and recombination protein RadA
+1469818	PF1938	malE-like sugar binding protein
+1469865	PF1983	hypothetical protein
+1469905	PF2020	replication factor A
+1468100	PF0266	tRNA-splicing endonuclease subunit alpha
+1468139	PF0304	DEXX-box atpase
+1468174	PF0339	methyltransferase
+1468192	PF0356	beta-galactosidase
+1468199	PF0363	beta-galactosidase
+1468207	PF0371	transporter
+1468025	PF0193	ABC transport ATP binding protein
+1468027	PF0195	hypothetical protein
+1468029	PF0197	phosphoribosylformylglycinamidine synthase subunit PurS
+1468031	PF0199	phosphoribosylformylglycinamidine synthase II
+1468033	PF0201	aconitate hydratase
+1468035	PF0203	citrate synthase
+1468049	rpl44e	50S ribosomal protein L44
+1468051	PF0219	6-pyruvoyl tetrahydrobiopterin synthase
+1468053	PF0221	hypothetical protein
+1468056	PF0223	hypothetical protein
+1468058	PF0225	N-acetyltransferase
+1468061	PF0227	hypothetical protein
+1468075	PF0241	tryptophanyl-tRNA synthetase
+1468077	PF0243	DEXX-box atpase
+1468079	PF0245	hypothetical protein
+1468081	PF0247	HTH transcription regulator
+1468083	PF0249	deoxyribonucleotide triphosphate pyrophosphatase
+1468085	PF0251	hypothetical protein
+1468099	PF0265	2-amino-3-ketobutyrate CoA ligase
+1468101	PF0267	ribosomal protein s18 alanine acetyltransferase
+1468103	PF0269	hypothetical protein
+1468105	PF0271	hypothetical protein
+1468107	PF0273	n-type ATP pyrophosphatase superfamily protein
+1468109	PF0275	Na+/H+ antiporter
+1468423	PF0581	hypothetical protein
+1468425	PF0583	daunorubicin resistance ATP-binding protein
+1468427	PF0585	DEXX-box atpase
+1468429	PF0587	hypothetical protein
+1468432	PF0589	mannose-6-phosphate isomerase
+1468434	PF0591	mannosyl-3-phosphoglycerate synthase
+1468448	PF0605	transposase
+1468451	PF0607	hypothetical protein
+1468453	PF0609	hypothetical protein
+1468455	PF0611	hypothetical protein
+1468457	PF0613	hypothetical protein
+1468459	hypA	hydrogenase nickel incorporation protein
+1468473	PF0629	hypothetical protein
+1468475	PF0631	hypothetical protein
+1468477	PF0633	flavodoxin
+1468479	PF0635	DEXX-box atpase
+1468481	PF0637	hypothetical protein
+1468483	PF0639	hypothetical protein
+1468497	PF0653	hypothetical protein
+1468499	PF0655	serine/threonine-protein kinase
+1468502	PF0657	dihydrodipicolinate synthase
+1468504	PF0659	hypothetical protein
+1468506	PF0661	hypothetical protein
+1468508	PF0663	hypothetical protein
+1468839	PF0974	hypothetical protein
+1468841	PF0976	transmembrane protein
+1468843	PF0978	hypothetical protein
+1468845	PF0980	aspartate racemase
+1468847	PF0982	hypothetical protein
+1468849	PF0984	hypothetical protein
+1468863	PF0998	GTP-binding protein
+1468865	PF1000	oligopeptide transport system permease protein appc
+1468867	PF1002	hypothetical protein
+1468869	PF1004	alkaline phosphatase
+1468871	PF1006	phosphate transport system permease C
+1468873	PF1008	phosphate ABC transporter ATP-binding protein
+1468888	PF1022	AsnC family transcriptional regulator
+1468891	PF1025	hypothetical protein
+1468893	PF1027	hypothetical protein
+1468895	PF1029	hypothetical protein
+1468897	PF1031	divalent cation tolerance protein
+1468899	PF1033	peroxiredoxin
+1468913	PF1047	hypothetical protein
+1468915	PF1049	hypothetical protein
+1468917	PF1051	ATP-dependent helicase
+1468919	PF1053	aspartate kinase
+1468921	PF1055	threonine synthase
+1468923	pgk	phosphoglycerate kinase
+1469239	PF1363	glycosyl transferase family protein
+1469241	PF1365	hypothetical protein
+1469244	rps28e	30S ribosomal protein S28
+1469246	PF1370	hypothetical protein
+1469248	PF1372	hypothetical protein
+1469250	PF1374	lipoate-protein ligase A
+1469264	PF1388	hypothetical protein
+1469266	PF1390	hypothetical protein
+1469268	PF1392	hypothetical protein
+1469270	PF1394	phosphoglycerate dehydrogenase
+1469272	PF1396	2-dehydropantoate 2-reductase
+1469274	PF1398	hypothetical protein
+1469288	PF1412	dipeptide transport ATP-binding protein
+1469290	PF1414	flap endonuclease-1
+1469292	PF1416	hypothetical protein
+1469294	PF1418	hypothetical protein
+1469296	PF1420	hypothetical protein
+1469298	PF1422	thioredoxin reductase
+1469312	PF1436	NADH-plastoquinone oxidoreductase subunit
+1469314	PF1438	hypothetical protein
+1469316	PF1440	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1469318	PF1442	NADH dehydrogenase subunit D
+1469320	PF1444	NADH dehydrogenase subunit B
+1469322	PF1446	NADH dehydrogenase subunit M
+1469627	PF1749	sulfate transport integral membrane protein
+1469629	PF1751	solute binding lipoprotein
+1469632	PF1754	fumarate hydratase
+1469635	PF1756	hypothetical protein
+1469637	PF1758	n-type ATP pyrophosphatase superfamily protein
+1469639	PF1760	hypothetical protein
+1469653	PF1774	iron ABC transporter ATP-binding protein
+1469655	PF1776	hypothetical protein
+1469657	glyA	serine hydroxymethyltransferase
+1469659	PF1780	ABC transporter
+1469661	PF1782	hypothetical protein
+1469663	PF1784	ADP-specific phosphofructokinase
+1469677	PF1798	sarcosine oxidase subunit beta
+1469679	PF1800	adenylate kinase
+1469681	rpl15p	50S ribosomal protein L15
+1469683	rps5p	30S ribosomal protein S5
+1469685	rpl19e	50S ribosomal protein L19
+1469687	rpl6p	50S ribosomal protein L6
+1469701	rpl2p	50S ribosomal protein L2
+1469703	rpl4lp	50S ribosomal protein L4
+1469705	PF1826	hypothetical protein
+1469707	PF1828	hypothetical protein
+1469709	PF1830	regulatory protein
+1469711	PF1832	GTP cyclohydrolase
+1468024	PF0192	oligopeptide transporter permease appc
+1468022	PF0190	hypothetical protein
+1468020	PF0188	dihydroorotate dehydrogenase electron transfer subunit
+1468018	PF0186	n-type ATP pyrophosphatase superfamily protein
+1468016	PF0184	V-type ATP synthase subunit D
+1468014	PF0182	V-type ATP synthase subunit A
+1468000	PF0168	hypothetical protein
+1467998	PF0166	oxidoreductase
+1467996	PF0164	nifS protein
+1467994	PF0162	hypothetical protein
+1467992	PF0160	TLDD - like protein
+1467990	PF0158	hypothetical protein
+1467976	PF0144	hypothetical protein
+1467974	PF0142	asparaginase
+1467972	PF0140	sugar transporter protein
+1467970	PF0138	hypothetical protein
+1467968	PF0136	hypothetical protein
+1467966	PF0134	hypothetical protein
+1467949	PF0120	hypothetical protein
+1467947	PF0118	ABC transporter permease
+1467945	PF0116	multiple sugar transport protein
+1467943	PF0114	GTP-binding protein
+1467941	PF0112	hypothetical protein
+1467939	PF0110	DNA primase small subunit
+1468422	PF0580	hypothetical protein
+1468420	PF0578	hypothetical protein
+1468418	PF0576	hypothetical protein
+1468416	PF0574	hypothetical protein
+1468414	PF0572	dna2-nam7 helicase family protein
+1468412	PF0570	hypothetical protein
+1468397	PF0555	hypothetical protein
+1468395	PF0553	arsenate reductase
+1468393	PF0551	hypothetical protein
+1468391	PF0549	hydrogenase expression/formation protein
+1468389	PF0547	hypothetical protein
+1468387	PF0545	hypothetical protein
+1468372	PF0531	cobalamin biosynthesis protein m
+1468370	PF0529	hypothetical protein
+1468368	PF0527	hypothetical protein
+1468366	PF0525	cell division protein FtsZ
+1468364	PF0523	hypothetical protein
+1468362	PF0521	hypothetical protein
+1468348	PF0507	hypothetical protein
+1468346	PF0505	hypothetical protein
+1468344	PF0503	iron ABC transporter
+1468342	PF0501	NTPase
+1468340	PF0499	arginase
+1468338	PF0497	hypothetical protein
+1468838	PF0973	acetyl-CoA acetyltransferase
+1468836	PF0971	pyruvate/ketoisovalerate ferredoxin oxidoreductase subunit gamma
+1468834	vorA	2-ketoisovalerate ferredoxin oxidoreductase subunit alpha
+1468832	porD	pyuvate ferredoxin oxidoreductase subunit delta
+1468830	PF0965	pyruvate ferredoxin oxidoreductase subunit beta
+1468828	PF0963	cell division protein CDC48
+1468813	PF0949	hypothetical protein
+1468811	PF0947	hypothetical protein
+1468808	PF0944	hypothetical protein
+1468806	PF0942	dihydroxy-acid dehydratase
+1468804	PF0940	3-isopropylmalate dehydrogenase
+1468802	PF0938	3-isopropylmalate dehydratase large subunit
+1468788	PF0924	hypothetical protein
+1468786	PF0922	hypothetical protein
+1468784	PF0920	nucleotidyltransferase
+1468782	truA	tRNA pseudouridine synthase A
+1468780	PF0916	hypothetical protein
+1468778	PF0914	hypothetical protein
+1468763	PF0900	hypothetical protein
+1468759	PF0897	hypothetical protein
+1468757	PF0895	ABC transporter
+1468755	PF0893	sulfhydrogenase subunit delta
+1468753	PF0891	sulfhydrogenase subunit beta
+1468751	PF0889	hypothetical protein
+1469238	PF1362	hypothetical protein
+1469236	PF1360	hypothetical protein
+1469234	PF1358	glycosyl transferase family protein
+1469231	PF1356	glucose-1-phosphate uridylyltransferase
+1469229	PF1354	oligosaccharide transporter
+1469227	PF1352	hypothetical protein
+1469213	PF1338	transcriptional activator
+1469211	PF1336	cytosine permease
+1469209	thiE	thiamine-phosphate pyrophosphorylase
+1469207	PF1332	hydrogenase subunit alpha
+1469205	PF1330	cytochrome-c3 hydrogenase subunit gamma
+1469203	PF1328	ferredoxin-NADP reductase
+1469188	PF1314	hypothetical protein
+1469186	PF1312	hypothetical protein
+1469184	PF1310	hypothetical protein
+1469181	PF1308	hypothetical protein
+1469179	PF1306	hypothetical protein
+1469177	PF1304	hypothetical protein
+1469163	PF1290	hypothetical protein
+1469161	PF1288	thiamin biosynthesis protein thiI
+1469159	PF1286	hypothetical protein
+1469157	PF1284	hypothetical protein
+1469155	PF1282	rubredoxin
+1469153	PF1280	hypothetical protein
+1469626	PF1748	sulfate transport system permease, ABC transporter
+1469624	PF1746	hypothetical protein
+1469622	PF1744	trehalose/maltose transport ATP-hydrolyzing
+1469620	PF1742	trehalose synthase
+1469618	PF1740	trehalose/maltose transport inner membrane protein
+1469616	PF1738	sugar kinase
+1469600	PF1723	hypothetical protein
+1469598	PF1721	hypothetical protein
+1469596	PF1719	intracellular protease
+1469594	PF1717	translation initiation factor IF-2
+1469592	PF1715	pyrroline-5-carboxylate reductase
+1469590	PF1713	carbamoyl phosphate synthase small subunit
+1469576	PF1699	3-phosphoshikimate 1-carboxyvinyltransferase
+1469574	PF1697	ribose/galactose ABC transporter
+1469572	PF1695	lipoprotein
+1469570	aroE	shikimate 5-dehydrogenase
+1469568	aroB	3-dehydroquinate synthase
+1469566	PF1689	transketolase
+1469552	PF1675	aspartate racemase
+1469550	PF1673	protoporphyrinogen oxidase
+1469548	PF1671	hypothetical protein
+1469546	PF1669	hypothetical protein
+1469544	PF1667	hypothetical protein
+1469542	PF1665	histidinol-phosphate aminotransferase
+1469952	PF2063	aminopeptidase
+1469950	PF2061	ABC transporter
+1469947	PF2059	aminopeptidase
+1469945	PF2057	hypothetical protein
+1469943	PF2055	hypothetical protein
+1469940	PF2053	AsnC family transcriptional regulator
+1468545	PF0697	multidrug resistance protein
+1468543	PF0695	hypothetical protein
+1468541	PF0693	hypothetical protein
+1468539	PF0691	hypothetical protein
+1469722	PF1843	chromosome segregation protein smc
+1468346	PF0505	hypothetical protein
+1468360	PF0519	hypothetical protein
+1468374	PF0533	indolepyruvate ferredoxin oxidoreductase subunit a
+1468384	PF0542	molybdenum cofactor biosynthesis protein
+1468400	PF0558	cation efflux system protein
+1468496	PF0652	DEXX-box atpase
+1468508	PF0663	hypothetical protein
+1468523	PF0677	ski2-like helicase
+1467894	PF0065	hypothetical protein
+1468658	PF0802	hypothetical protein
+1467907	PF0078	2-phosphoglycerate kinase
+1469741	PF1862	DNA-binding protein
+1469031	PF1162	hypothetical protein
+1468123	PF0289	phosphoenolpyruvate carboxykinase
+1468125	PF0291	prephenate dehydratase
+1468127	PF0293	aminotransferase
+1468129	PF0295	n-type ATP pyrophosphatase superfamily protein
+1468131	PF0297	hypothetical protein
+1468134	cobS	cobalamin synthase
+1468148	PF0313	signal sequence peptidase I
+1468150	PF0315	hypothetical protein
+1468152	PF0317	hypothetical protein
+1468154	PF0319	glyoxylate reductase
+1468156	PF0321	inosine monophosphate dehydrogenase-like protein
+1468158	PF0323	hypothetical protein
+1468172	PF0337	flagellin
+1468174	PF0339	methyltransferase
+1468176	PF0341	hypothetical protein
+1468178	PF0343	S-adenosyl-L-homocysteine hydrolase
+1468180	PF0345	molybdopterin converting factor subunit 1
+1468197	PF0361	oligopeptide ABC transporter
+1468199	PF0363	beta-galactosidase
+1468201	PF0365	hypothetical protein
+1468203	PF0367	hypothetical protein
+1468205	PF0369	endoglucanase
+1468207	PF0371	transporter
+1468523	PF0677	ski2-like helicase
+1468525	PF0679	hypothetical protein
+1468527	PF0681	hypothetical protein
+1468530	PF0684	hypothetical protein
+1468532	PF0686	hypothetical protein
+1468536	PF0688	subtilisin-like protease
+1468550	PF0702	x-pro dipeptidase
+1468552	PF0704	hypothetical protein
+1468554	PF0706	hypothetical protein
+1468557	PF0708	hypothetical protein
+1468559	PF0710	hypothetical protein
+1468561	PF0712	hypothetical protein
+1468575	PF0726	hypothetical protein
+1468577	PF0728	hypothetical protein
+1468579	PF0730	hypothetical protein
+1468582	PF0732	daunorubicin resistance ATP-binding protein
+1468585	PF0734	hypothetical protein
+1468587	PF0736	hypothetical protein
+1468603	PF0750	NADH oxidase
+1468605	PF0752	thioredoxin peroxidase
+1468607	PF0754	2-keto acid:ferredoxin oxidoreductase subunit alpha
+1468610	PF0757	hypothetical protein
+1468612	PF0759	hypothetical protein
+1468614	PF0761	hypothetical protein
+1468937	PF1071	asparagine synthetase
+1468939	PF1073	hypothetical protein
+1468941	PF1075	hypothetical protein
+1468943	PF1077	hypothetical protein
+1468945	PF1079	hypothetical protein
+1468947	PF1081	hypothetical protein
+1468963	PF1095	hypothetical protein
+1468965	PF1097	hypothetical protein
+1468967	PF1099	formamidase (formamide amidohydrolase)
+1468969	PF1101	hypothetical protein
+1468971	ppnK	inorganic polyphosphate/ATP-NAD kinase
+1468973	PF1105	pyrazinamidase/nicotinamidase pxnc
+1468988	PF1119	hypothetical protein
+1468990	PF1121	hypothetical protein
+1468992	PF1123	hypothetical protein
+1468994	PF1125	hypothetical protein
+1468996	PF1127	hypothetical protein
+1468998	PF1129	hypothetical protein
+1469012	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1469014	PF1145	Mrp/Nbp35 family ATP-binding protein
+1469016	PF1147	monovalent cation/H+ antiporter subunit D
+1469018	PF1149	monovalent cation/H+ antiporter subunit B
+1469020	PF1151	monovalent cation/H+ antiporter subunit G
+1469022	PF1153	monovalent cation/H+ antiporter subunit E
+1469336	PF1460	hypothetical protein
+1469338	PF1462	glutamyl-tRNA(Gln) amidotransferase subunit E
+1469340	PF1464	hypothetical protein
+1469342	PF1466	hypothetical protein
+1469344	PF1468	hypothetical protein
+1469346	PF1470	hypothetical protein
+1469360	PF1484	hypothetical protein
+1469362	PF1486	hypothetical protein
+1469364	PF1488	hypothetical protein
+1469366	PF1490	hypothetical protein
+1469368	PF1492	glycine cleavage system protein H
+1469370	PF1494	hypothetical protein
+1469384	PF1508	hypothetical protein
+1469386	PF1510	hypothetical protein
+1469388	PF1512	hypothetical protein
+1469390	PF1514	hypothetical protein
+1469392	PF1516	GMP synthase
+1469394	PF1518	thiamin-binding periplasmic protein
+1469408	PF1532	NADH oxidase
+1469410	PF1534	stomatin
+1469412	PF1536	hypothetical protein
+1469414	PF1538	N-ethylammeline chlorohydrolase
+1469416	PF1540	ADP forming acetyl coenzyme A synthetase
+1469418	PF1542	small nuclear ribonucleoprotein
+1469725	PF1846	hypothetical protein
+1469727	PF1848	3-hydroxy-3-methylglutaryl-CoA reductase
+1469729	PF1850	damage-inducible protein DinF
+1469731	PF1852	glutamate synthase subunit beta
+1469733	moaC	molybdenum cofactor biosynthesis protein MoaC
+1469735	PF1856	trk system potassium uptake protein
+1469750	PF1871	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+1469752	PF1873	hypothetical protein
+1469754	PF1875	hypothetical protein
+1469756	PF1877	thiamine monophosphate kinase
+1469758	PF1879	o-linked GlcNAc transferase
+1469760	PF1881	DNA/RNA-binding protein albA
+1469774	PF1895	biotin synthetase
+1469776	PF1897	hypothetical protein
+1469779	PF1899	2-deoxy-d-gluconate 3-dehydrogenase
+1469781	PF1901	oxygen-independent coproporphyrinogen III oxidase
+1469783	PF1903	translation initiation factor IF-2
+1469785	PF1905	protease
+1469799	PF1919	dehydrogenase
+1469801	PF1921	phosphoserine phosphatase
+1469803	PF1923	hypothetical protein
+1469805	PF1925	hypothetical protein
+1469807	PF1927	hypothetical protein
+1469809	PF1929	hypothetical protein
+1467925	PF0096	hypothetical protein
+1467923	PF0094	glutaredoxin-like protein
+1467921	PF0092	replication factor C large subunit
+1467919	moaA	molybdenum cofactor biosynthesis protein A
+1467917	PF0088	icc related protein
+1467915	PF0086	hypothetical protein
+1467901	PF0072	hypothetical protein
+1467899	PF0070	hypothetical protein
+1467897	PF0068	cobalt transport ATP-binding protein
+1467895	PF0066	hypothetical protein
+1467893	PF0064	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1467891	PF0062	riboflavin-specific deaminase
+1467877	PF0048	succinoglycan biosynthesis regulator
+1467875	PF0046	hypothetical protein
+1467873	PF0044	hypothetical protein
+1467871	PF0042	metal-dependent hydrolase
+1467869	PF0040	type II phosphatidic acid phosphatase
+1467867	PF0038	glyoxalase II
+1467853	PF0024	glycerate kinase
+1467850	PF0022	RNase E
+1467848	PF0020	hypothetical protein
+1467846	PF0018	DNA polymerase II small subunit
+1467844	PF0016	5'-methylthioadenosine phosphorylase
+1467842	PF0014	hypothetical protein
+1468324	PF0483	hypothetical protein
+1468322	PF0481	translation initiation factor IF-2
+1468320	PF0479	hypothetical protein
+1468318	PF0477	alpha-amylase
+1468316	PF0475	translation initiation factor IF-2
+1468314	PF0473	o-sialoglycoprotein endopeptidase
+1468300	PF0459	hypothetical protein
+1468298	PF0457	metalloprotease
+1468296	PF0455	hypothetical protein
+1468294	PF0453	hypothetical protein
+1468292	PF0451	hypothetical protein
+1468290	PF0449	hypothetical protein
+1468272	PF0434	hypothetical protein
+1468270	PF0432	sugar-catabolism phosphotransferase
+1468268	purT	phosphoribosylglycinamide formyltransferase 2
+1468265	PF0428	hypothetical protein
+1468263	PF0426	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1468261	PF0424	hypothetical protein
+1468247	PF0410	hypothetical protein
+1468244	PF0407	hypothetical protein
+1468241	PF0405	methanol dehydrogenase regulatory protein
+1468239	PF0403	hypothetical protein
+1468237	PF0401	methyltransferase
+1468235	PF0399	s1p family ribosomal protein
+1468735	PF0875	hypothetical protein
+1468733	PF0873	hypothetical protein
+1468731	PF0871	hypothetical protein
+1468729	aspC	aspartyl-tRNA synthetase
+1468727	PF0867	hypothetical protein
+1468725	PF0865	aromatic acid decarboxylase
+1468709	PF0851	iron-dependent repressor
+1468707	PF0849	hypothetical protein
+1468705	PF0847	hypothetical protein
+1468703	PF0845	2-keto acid:ferredoxin oxidoreductase subunit alpha
+1468701	PF0843	hypothetical protein
+1468697	PF0841	hypothetical protein
+1468683	PF0827	RNA methyltransferase
+1468681	PF0825	prolyl endopeptidase
+1468679	PF0823	hypothetical protein
+1468677	rpl34e	50S ribosomal protein L34
+1468675	PF0819	50S ribosomal protein L14
+1468672	PF0816	hypothetical protein
+1468658	PF0802	hypothetical protein
+1468654	PF0798	glycosyl transferase family protein
+1468652	PF0796	galactoside o-acetyltransferase
+1468650	PF0794	UDP-n-acetylglucosamine 2-epimerase
+1468648	PF0792	hypothetical protein
+1468646	PF0790	hypothetical protein
+1469139	PF1266	cystathionine gamma-synthase
+1469137	PF1264	translation initiation factor IF-5A
+1469135	PF1262	ribosome biogenesis protein
+1469133	PF1260	hypothetical protein
+1469131	PF1258	ribose-5-phosphate isomerase A
+1469129	PF1256	hypothetical protein
+1469113	upp	uracil phosphoribosyltransferase
+1469111	PF1239	hypothetical protein
+1469109	PF1237	hypothetical protein
+1469107	ccrB	camphor resistance protein CrcB
+1469105	PF1233	chitinase
+1469103	PF1231	AsnC family transcriptional regulator
+1469086	PF1215	hypothetical protein
+1469083	PF1213	oligopeptide ABC transporter
+1469081	PF1211	dipeptide ABC transporter permease
+1469079	PF1209	oligopeptide ABC transporter
+1469077	PF1207	hypothetical protein
+1469075	PF1205	hypothetical protein
+1469060	PF1190	hypothetical protein
+1469058	PF1188	pyruvate kinase
+1469056	PF1186	NADH oxidase
+1469054	PF1184	hypothetical protein
+1469051	PF1182	hypothetical protein
+1469049	PF1180	threonine synthase
+1469528	PF1651	hypothetical protein
+1469526	rps4p	30S ribosomal protein S4
+1469524	PF1647	DNA-directed RNA polymerase subunit D
+1469522	rpl13p	50S ribosomal protein L13
+1469520	PF1643	DNA-directed RNA polymerase subunit N
+1469518	PF1641	hypothetical protein
+1469504	PF1627	glycyl-tRNA synthetase
+1469502	PF1625	hypothetical protein
+1469500	PF1623	pyruvoyl-dependent arginine decarboxylase
+1469498	PF1621	hypothetical protein
+1469496	PF1619	hypothetical protein
+1469494	PF1617	hypothetical protein
+1469479	PF1603	Na antiporter
+1469477	PF1601	AsnC family transcriptional regulator
+1469475	PF1599	undecaprenyl diphosphate synthase
+1469473	PF1597	heat shock protein x
+1469471	PF1595	hypothetical protein
+1469469	PF1593	peptide chain release factor 1
+1469455	PF1579	DNA topoisomerase VI subunit B
+1469453	PF1577	hypothetical protein
+1469451	PF1575	hypothetical protein
+1469449	PF1573	hypothetical protein
+1469447	PF1571	proteasome subunit alpha
+1469445	PF1569	exosome complex RNA-binding protein Rrp4
+1469924	PF2039	hypothetical protein
+1469922	PF2037	hypothetical protein
+1469919	PF2034	hypothetical protein
+1469917	PF2032	hypothetical protein
+1469915	PF2030	ferredoxin-family protein
+1469913	PF2028	nitrogenase reductase (n-terminus)
+1469899	PF2014	bifunctional inositol-1 monophosphatase/fructose-1,6-bisphosphatase
+1469897	PF2012	elongation factor EF-2
+1469895	PF2010	ribosomal biogenesis protein
+1469893	rpl37ae	50S ribosomal protein L37
+1469891	PF2006	NADH oxidase
+1469889	glpK	glycerol kinase
+1469874	nusG	transcription antitermination protein NusG
+1469872	PF1988	cell division protein FtsZ
+1469870	PF1986	hypothetical protein
+1469866	PF1984	hypothetical protein
+1469864	PF1982	hypothetical protein
+1469862	PF1980	hypothetical protein
+1469848	PF1966	hypothetical protein
+1469846	PF1964	hypothetical protein
+1469844	PF1962	hypothetical protein
+1469842	PF1960	aldose reductase
+1469840	PF1958	hypothetical protein
+1469838	PF1956	fructose-bisphosphate aldolase
+1469781	PF1901	oxygen-independent coproporphyrinogen III oxidase
+1469706	PF1827	hypothetical protein
+1469628	PF1750	sugar-binding transport ATP-binding protein
+1469615	PF1737	hypothetical protein
+1469539	PF1662	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1469488	PF1612	hypothetical protein
+1468600	PF0747	proline dipeptidase
+1468531	PF0685	hypothetical protein
+1468528	PF0682	hypothetical protein
+1468472	PF0628	hypothetical protein
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1468369	PF0528	cobalt transport ATP-binding protein
+1468241	PF0405	methanol dehydrogenase regulatory protein
+1468218	PF0382	prefoldin
+1468175	PF0340	HTH transcription regulator
+1468154	PF0319	glyoxylate reductase
+1468027	PF0195	hypothetical protein
+1467994	PF0162	hypothetical protein
+1468938	PF1072	hypothetical protein
+1468975	PF1107	hit family protein
+1469004	PF1135	heat shock protein HtpX
+1469033	PF1164	Na+/H+ antiporter
+1469036	PF1167	chromosome segregation protein
+1469079	PF1209	oligopeptide ABC transporter
+1469290	PF1414	flap endonuclease-1
+1469380	PF1504	large helicase-like protein
+1469416	PF1540	ADP forming acetyl coenzyme A synthetase
+1469429	PF1553	nol1-nop2-sun family nucleolar protein I
+1469454	PF1578	DNA topoisomerase VI subunit A
+1469466	PF1590	mutt
+1469761	PF1882	cell division protein CDC48
+1469782	PF1902	DNA repair helicase
+1469812	PF1932	hypothetical protein
+1468001	PF0169	nol1-nop2-sun family nucleolar protein III
+1469900	PF2015	Hef nuclease
+1469908	PF2023	DNA invertase
+1468134	cobS	cobalamin synthase
+1468165	PF0330	flagellar assembly protein J
+1468176	PF0341	hypothetical protein
+1468193	PF0357	dipeptide-binding protein
+1468201	PF0365	hypothetical protein
+1468236	PF0400	hypothetical protein
+1468026	PF0194	dipeptide ABC transporter ATP-binding protein
+1468028	PF0196	glucose-6-phosphate isomerase
+1468030	PF0198	phosphoribosylformylglycinamidine synthase I
+1468032	PF0200	hypothetical protein
+1468034	PF0202	isocitrate dehydrogenase
+1468036	PF0204	hypothetical protein
+1468050	rps27e	30S ribosomal protein S27
+1468052	PF0220	hexulose-6-phosphate synthase
+1468054	PF0222	hydrolase related to 2-haloalkanoic acid dehalogenase
+1468057	PF0224	hypothetical protein
+1468059	PF0226	hypothetical protein
+1468062	PF0228	hypothetical protein
+1468076	PF0242	transposase
+1468078	PF0244	hypothetical protein
+1468080	PF0246	hypothetical protein
+1468082	PF0248	hypothetical protein
+1468084	PF0250	Lrp family transcriptional regulator
+1468086	PF0252	30S ribosomal protein S27
+1468100	PF0266	tRNA-splicing endonuclease subunit alpha
+1468102	PF0268	Na+/H+ antiporter-like protein
+1468104	alaS	alanyl-tRNA synthetase
+1468106	PF0272	alpha-amylase
+1468108	PF0274	transposase
+1468110	PF0276	oxidoreductase
+1468424	PF0582	daunorubicin resistance membrane protein
+1468426	PF0584	hypothetical protein
+1468428	PF0586	hypothetical protein
+1468431	PF0588	phospho-sugar mutase
+1468433	PF0590	mannosyl-3-phosphoglycerate phosphatase
+1468435	PF0592	ATP-dependent RNA helicase
+1468450	PF0606	hypothetical protein
+1468452	PF0608	alcohol dehydrogenase
+1468454	PF0610	hypothetical protein
+1468456	PF0612	hypothetical protein
+1468458	PF0614	inosine-5'-monophosphate dehydrogenase
+1468460	PF0616	Mrp/NBP35 family nucleotide-binding protein
+1468474	PF0630	hypothetical protein
+1468476	PF0632	hypothetical protein
+1468478	PF0634	DEXX-box atpase
+1468480	PF0636	DEXX-box atpase
+1468482	PF0638	hypothetical protein
+1468484	PF0640	ATP-dependent RNA helicase
+1468498	PF0654	hypothetical protein
+1468501	PF0656	hypothetical protein
+1468503	PF0658	hypothetical protein
+1468505	PF0660	iron-sulfur cluster binding protein
+1468507	PF0662	hypothetical protein
+1468509	PF0664	hypothetical protein
+1468840	PF0975	hypothetical protein
+1468842	PF0977	hypothetical protein
+1468844	PF0979	hypothetical protein
+1468846	PF0981	efflux transport protein
+1468848	PF0983	DNA polymerase sliding clamp
+1468850	PF0985	haloacid dehalogenase
+1468864	PF0999	oligopeptide transport system permease appc, c-terminal fragment
+1468866	PF1001	oligopeptide transport system permease
+1468868	PF1003	phosphate-binding periplasmic protein
+1468870	PF1005	hypothetical protein
+1468872	PF1007	phosphate transport system permease psta
+1468874	PF1009	hypothetical protein
+1468890	cysS	cysteinyl-tRNA synthetase
+1468892	PF1026	malate oxidoreductase
+1468894	PF1028	hypothetical protein
+1468896	metG	methionyl-tRNA synthetase
+1468898	PF1032	hypothetical protein
+1468900	pyrE	orotate phosphoribosyltransferase
+1468914	PF1048	hypothetical protein
+1468916	PF1050	hypothetical protein
+1468918	PF1052	aspartate kinase
+1468920	PF1054	homoserine kinase
+1468922	PF1056	aspartate-semialdehyde dehydrogenase
+1468924	PF1058	hypothetical protein
+1469240	PF1364	hypothetical protein
+1469243	rpl7ae	50S ribosomal protein L7
+1469245	PF1369	50S ribosomal protein L24
+1469247	PF1371	hypothetical protein
+1469249	PF1373	cation transporter
+1469251	PF1375	elongation factor 1-alpha
+1469265	PF1389	hypothetical protein
+1469267	PF1391	hypothetical protein
+1469269	PF1393	hypothetical protein
+1469271	PF1395	hypothetical protein
+1469273	PF1397	hypothetical protein
+1469275	PF1399	ATPase, vanadate-sensitive
+1469289	PF1413	hypothetical protein
+1469291	PF1415	met-10+ protein
+1469293	PF1417	hypothetical protein
+1469295	PF1419	phosphoglycolate phosphatase
+1469297	PF1421	4-aminobutyrate aminotransferase
+1469299	PF1423	monovalent cation/H+ antiporter subunit E
+1469313	PF1437	hypothetical protein
+1469315	PF1439	hypothetical protein
+1469317	PF1441	NADH dehydrogenase subunit I
+1469319	PF1443	NADH dehydrogenase subunit C
+1469321	PF1445	NADH dehydrogenase subunit
+1469323	PF1447	NADH dehydrogenase subunit N
+1469628	PF1750	sugar-binding transport ATP-binding protein
+1469631	gltX	glutamyl-tRNA synthetase
+1469633	PF1755	fumarate hydratase
+1469636	PF1757	hypothetical protein
+1469638	PF1759	hypothetical protein
+1469640	PF1761	hypothetical protein
+1469654	PF1775	small multidrug export protein
+1469656	PF1777	hydrolase related to 2-haloalkanoic acid dehalogenase
+1469658	PF1779	ABC transporter
+1469660	rnhB	ribonuclease HII
+1469662	PF1783	molybdenum cofactor biosynthesis protein
+1469664	PF1785	H/ACA RNA-protein complex component Cbf5p
+1469678	PF1799	hypothetical protein
+1469680	PF1801	preprotein translocase subunit SecY
+1469682	rpl30p	50S ribosomal protein L30
+1469684	rpl18p	50S ribosomal protein L18
+1469686	rpl32e	50S ribosomal protein L32
+1469688	rps8p	30S ribosomal protein S8
+1469702	rplW	50S ribosomal protein L23
+1469704	rpl3p	50S ribosomal protein L3P
+1469706	PF1827	hypothetical protein
+1469708	PF1829	nucleotidyltransferase
+1469710	PF1831	histone a1
+1469712	PF1833	hypothetical protein
+1468023	PF0191	oligopeptide transport system permease
+1468021	PF0189	dihydroorotase
+1468019	PF0187	cofactor synthesis protein
+1468017	PF0185	hypothetical protein
+1468015	PF0183	V-type ATP synthase subunit B
+1468013	PF0181	V-type ATP synthase subunit F
+1467999	PF0167	metalloprotease
+1467997	PF0165	hydrolase related to 2-haloalkanoic acid dehalogenase
+1467995	PF0163	hypothetical protein
+1467993	PF0161	hypothetical protein
+1467991	PF0159	multicatalytic endopeptidase complex beta subunit
+1467989	PF0157	glucosamine--fructose-6-phosphate aminotransferase
+1467975	PF0143	quinolone resistance protein norA - like protein
+1467973	PF0141	hypothetical protein
+1467971	PF0139	indolepyruvate oxidoreductase subunit B
+1467969	PF0137	methyltransferase
+1467967	lysK	lysyl-tRNA synthetase
+1467965	PF0133	hypothetical protein
+1467948	PF0119	perplasmic sugar binding protein
+1467946	PF0117	sugar transport protein
+1467944	PF0115	proteasome-activating nucleotidase
+1467942	PF0113	hypothetical protein
+1467940	PF0111	DNA primase large subunit
+1467938	PF0109	hypothetical protein
+1468421	PF0579	hypothetical protein
+1468419	PF0577	ATP-binding transport protein
+1468417	PF0575	hypothetical protein
+1468415	PF0573	hypothetical protein
+1468413	PF0571	hypothetical protein
+1468411	PF0569	hypothetical protein
+1468396	PF0554	hypothetical protein
+1468394	PF0552	arsenical-resistance protein acr3
+1468392	PF0550	NADH oxidase
+1468390	PF0548	hydrogenase expression/formation protein
+1468388	PF0546	hypothetical protein
+1468386	PF0544	hypothetical protein
+1468371	PF0530	hypothetical protein
+1468369	PF0528	cobalt transport ATP-binding protein
+1468367	PF0526	Soj family protein
+1468365	PF0524	hypothetical protein
+1468363	PF0522	aspartate aminotransferase
+1468361	PF0520	hypothetical protein
+1468347	PF0506	hypothetical protein
+1468345	PF0504	DNA helicase
+1468343	PF0502	iron(III) dicitrate transport system permease fece
+1468341	PF0500	met-10+ protein
+1468339	PF0498	hypothetical protein
+1468337	PF0496	hypothetical protein
+1468837	PF0972	hypothetical protein
+1468835	vorD	2-ketoisovalerate ferredoxin oxidoreductase subunit delta
+1468833	PF0968	2-ketoisovalerate ferredoxin oxidoreductase subunit beta
+1468831	porA	pyruvate ferredoxin oxidoreductase subunit alpha
+1468829	PF0964	hypothetical protein
+1468827	PF0962	hypothetical protein
+1468812	PF0948	hypothetical protein
+1468809	PF0945	hypothetical protein
+1468807	PF0943	hypothetical protein
+1468805	PF0941	alpha-isopropylmalate/homocitrate synthase family transferase
+1468803	leuD	3-isopropylmalate dehydratase small subunit
+1468801	PF0937	2-isopropylmalate synthase
+1468787	PF0923	hypothetical protein
+1468785	PF0921	ABC transporter
+1468783	PF0919	hypothetical protein
+1468781	PF0917	hypothetical protein
+1468779	PF0915	hypothetical protein
+1468777	PF0913	hypothetical protein
+1468762	PF0899	hypothetical protein
+1468758	PF0896	hypothetical protein
+1468756	PF0894	sulfhydrogenase subunit alpha
+1468754	PF0892	cytochrome-c3 hydrogenase subunit gamma
+1468752	leuS	leucyl-tRNA synthetase
+1468750	PF0888	hypothetical protein
+1469237	PF1361	glycosyl transferase family protein
+1469235	PF1359	glycosyl transferase family protein
+1469232	PF1357	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+1469230	PF1355	NDP-sugar dehydrogenase
+1469228	PF1353	hypothetical protein
+1469226	PF1351	threonyl-tRNA synthetase
+1469212	PF1337	transcriptional activator
+1469210	PF1335	hydroxyethylthiazole kinase
+1469208	PF1333	phosphomethylpyrimidine kinase
+1469206	PF1331	hydrogenase subunit delta
+1469204	PF1329	hydrogenase subunit beta
+1469202	PF1327	oxidoreductase
+1469187	PF1313	DNA processing SMF protein
+1469185	PF1311	hypothetical protein
+1469182	PF1309	hypothetical protein
+1469180	PF1307	hypothetical protein
+1469178	PF1305	hypothetical protein
+1469176	PF1303	hypothetical protein
+1469162	PF1289	molybdopterin biosynthesis protein moeb
+1469160	PF1287	ABC transporter
+1469158	PF1285	hypothetical protein
+1469156	PF1283	rubrerythrin
+1469154	PF1281	superoxide reductase
+1469152	rpl10e	50S ribosomal protein L10
+1469625	PF1747	hypothetical protein
+1469623	PF1745	hypothetical protein
+1469621	PF1743	hypothetical protein
+1469619	PF1741	trehalose/maltose transport inner membrane protein
+1469617	PF1739	trehalose/maltose binding protein
+1469615	PF1737	hypothetical protein
+1469599	PF1722	histone a2
+1469597	PF1720	hypothetical protein
+1469595	PF1718	tRNA-modifying protein
+1469593	PF1716	hypothetical protein
+1469591	carB	carbamoyl phosphate synthase large subunit
+1469589	PF1712	hypothetical protein
+1469575	PF1698	ribose ABC transporter
+1469573	PF1696	ABC sugar transporter
+1469571	PF1694	shikimate kinase
+1469569	aroD	3-dehydroquinate dehydratase
+1469567	PF1690	3-deoxy-7-phosphoheptulonate synthase
+1469565	PF1688	transketolase
+1469551	PF1674	hypothetical protein
+1469549	PF1672	hypothetical protein
+1469547	PF1670	alkaline serine protease
+1469545	PF1668	hypothetical protein
+1469543	PF1666	hypothetical protein
+1469541	PF1664	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+1469951	PF2062	hypothetical protein
+1469948	PF2060	hypothetical protein
+1469946	PF2058	hypothetical protein
+1469944	rps15p	30S ribosomal protein S15
+1469941	PF2054	30S ribosomal protein S3
+1469939	PF2052	regulatory protein
+1468546	PF0698	hypothetical protein
+1468544	PF0696	carbohydrate-binding protein
+1468542	PF0694	flavoprotein
+1468540	PF0692	hydroxylamine reductase
+1468533	PF0687	transcription initiation factor IIB chain b
+1468345	PF0504	DNA helicase
+1468352	PF0511	3-methyladenine DNA glycosylase
+1468366	PF0525	cell division protein FtsZ
+1468378	PF0537	hypothetical protein
+1467878	PF0049	cytosine-specific DNA-methyltransferase
+1468405	PF0563	hypothetical protein
+1468506	PF0661	hypothetical protein
+1468511	PF0666	nol1-nop2-sun family nucleolar protein IV
+1468561	PF0712	hypothetical protein
+1468617	PF0764	DEXX-box atpase
+1468710	PF0852	hypothetical protein
+1468741	PF0880	DEXX-box atpase
+1469255	PF1379	cell division protein pelota
+1468124	valS	valyl-tRNA synthetase
+1468126	PF0292	deoxyhypusine synthase
+1468128	PF0294	low temperature requirement C - like protein
+1468130	cobD	cobalamin biosynthesis protein
+1468132	PF0298	hypothetical protein
+1468135	PF0300	hypothetical protein
+1468149	PF0314	signal peptidase
+1468151	PF0316	hypothetical protein
+1468153	PF0318	acylaminoacyl peptidase
+1468155	PF0320	hypothetical protein
+1468157	PF0322	nickel responsive regulator
+1468159	PF0324	hypothetical protein
+1468173	PF0338	flagellin
+1468175	PF0340	HTH transcription regulator
+1468177	PF0342	hypothetical protein
+1468179	PF0344	tungsten-containing aldehyde ferredoxin oxidoreductase cofactor modifying protein
+1468181	PF0346	aldehyde:ferredoxin oxidoreductase
+1468183	PF0348	transposase
+1468198	PF0362	glucosamine-fructose-6-phosphate aminotransferase
+1468200	PF0364	tyrosine-protein kinase
+1468202	PF0366	hypothetical protein
+1468204	PF0368	hypothetical protein
+1468206	PF0370	2-hydroxyacid dehydrogenase
+1468208	PF0372	molybdenum cofactor biosynthesis protein
+1468524	PF0678	hypothetical protein
+1468526	PF0680	hypothetical protein
+1468528	PF0682	hypothetical protein
+1468531	PF0685	hypothetical protein
+1468533	PF0687	transcription initiation factor IIB chain b
+1468537	PF0689	hypothetical protein
+1468551	PF0703	hypothetical protein
+1468553	PF0705	cytochrome c-type biogenesis protein
+1468555	PF0707	hypothetical protein
+1468558	PF0709	hypothetical protein
+1468560	PF0711	hypothetical protein
+1468562	PF0713	hypothetical protein
+1468576	PF0727	hypothetical protein
+1468578	PF0729	mulitcopper oxidase domain-containing protein
+1468580	PF0731	copper-transporting atpase, p-type
+1468584	PF0733	ABC transporter
+1468586	PF0735	hypothetical protein
+1468589	PF0737	hypothetical protein
+1468604	PF0751	flavoprotein
+1468606	PF0753	2-oxoacid:ferredoxin oxidoreductase subunit beta
+1468608	PF0755	non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase
+1468611	PF0758	hypothetical protein
+1468613	PF0760	hypothetical protein
+1468615	PF0762	hypothetical protein
+1468938	PF1072	hypothetical protein
+1468940	PF1074	hypothetical protein
+1468942	PF1076	hypothetical protein
+1468944	PF1078	hypothetical protein
+1468946	PF1080	hypothetical protein
+1468948	PF1082	hypothetical protein
+1468964	ileS	isoleucyl-tRNA synthetase
+1468966	PF1098	hypothetical protein
+1468968	PF1100	hypothetical protein
+1468970	PF1102	bifunctional short chain isoprenyl diphosphate synthase
+1468972	PF1104	homoserine dehydrogenase
+1468974	PF1106	hypothetical protein
+1468989	PF1120	ATP-dependent RNA helicase
+1468991	PF1122	hypothetical protein
+1468993	PF1124	hypothetical protein
+1468995	PF1126	hypothetical protein
+1468997	PF1128	hypothetical protein
+1468999	PF1130	hypothetical protein
+1469013	PF1144	hypothetical protein
+1469015	PF1146	hypothetical protein
+1469017	PF1148	monovalent cation/H+ antiporter subunit C
+1469019	PF1150	monovalent cation/H+ antiporter subunit B
+1469021	PF1152	monovalent cation/H+ antiporter subunit F
+1469023	PF1154	NAD-dependent deacetylase
+1469337	PF1461	glutamyl-tRNA(Gln) amidotransferase subunit D
+1469339	PF1463	hypothetical protein
+1469341	PF1465	hypothetical protein
+1469343	PF1467	ABC transporter
+1469345	PF1469	glutamate/aspartate transport protein
+1469347	PF1471	hypothetical protein
+1469361	PF1485	hypothetical protein
+1469363	PF1487	thiamine biosynthesis protein ThiI
+1469365	PF1489	hypothetical protein
+1469367	rps17E	30S ribosomal protein S17
+1469369	PF1493	hypothetical protein
+1469371	PF1495	gtp1/obg family GTP-binding protein
+1469385	PF1509	hypothetical protein
+1469387	PF1511	hypothetical protein
+1469389	PF1513	hypothetical protein
+1469391	PF1515	GMP synthase
+1469393	purP	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1469395	PF1519	sugar-binding transport ATP-binding protein
+1469409	PF1533	nodulation protein nfeD
+1469411	PF1535	alpha-glucan phosphorylase
+1469413	PF1537	hypothetical protein
+1469415	PF1539	dihydroorotate dehydrogenase 1B
+1469417	rpl37e	50S ribosomal protein L37
+1469419	PF1543	AsnC family transcriptional regulator
+1469726	PF1847	tbp-interacting protein tip49
+1469728	PF1849	cell division inhibitor minD
+1469730	PF1851	hypothetical protein
+1469732	PF1853	glucose-1-dehydrogenase
+1469734	PF1855	transcription-associated protein TFIIS
+1469736	PF1857	cobalt transport ATP-binding protein cbio
+1469751	PF1872	50S ribosomal protein L35
+1469753	PF1874	glyceraldehyde-3-phosphate dehydrogenase
+1469755	PF1876	hypothetical protein
+1469757	PF1878	methylated-DNA--protein-cysteine methyltransferase
+1469759	PF1880	hypothetical protein
+1469761	PF1882	cell division protein CDC48
+1469775	PF1896	l-isoaspartyl protein carboxyl methyltransferase
+1469778	PF1898	hypothetical protein
+1469780	PF1900	hypothetical protein
+1469782	PF1902	DNA repair helicase
+1469784	PF1904	nicotinate phosphoribosyltransferase
+1469786	PF1906	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1469800	PF1920	triosephosphate isomerase
+1469802	pcm	protein-L-isoaspartate O-methyltransferase
+1469804	PF1924	d-aminopeptidase
+1469806	radA	DNA repair and recombination protein RadA
+1469808	PF1928	ATP-binding protein phnp
+1469810	PF1930	S-adenosylmethionine decarboxylase
+1467924	PF0095	hypothetical protein
+1467922	PF0093	replication factor C small subunit
+1467920	PF0091	hypothetical protein
+1467918	PF0089	met-10+ protein
+1467916	PF0087	inosine-5'-monophosphate dehydrogenase
+1467914	PF0085	DNA helicase
+1467900	PF0071	hypothetical protein
+1467898	PF0069	transposase
+1467896	PF0067	cobalt transport ABC transporter integral membrane component
+1467894	PF0065	hypothetical protein
+1467892	ribH	6,7-dimethyl-8-ribityllumazine synthase
+1467890	PF0061	riboflavin synthase subunit alpha
+1467876	PF0047	hypothetical protein
+1467874	PF0045	hypothetical protein
+1467872	PF0043	phosphoenolpyruvate synthase
+1467870	PF0041	oxidative cyclase
+1467868	PF0039	xanthine-guanine phosphoribosyltransferase
+1467866	PF0037	hypothetical protein
+1467851	PF0023	hypothetical protein
+1467849	radB	DNA repair and recombination protein RadB
+1467847	PF0019	DNA polymerase II large subunit
+1467845	cdc6	cell division control protein 6
+1467843	PF0015	hypothetical protein
+1467841	PF0013	transposase
+1468323	PF0482	cell division control protein 21
+1468321	PF0480	lysophospholipase
+1468319	PF0478	alpha-amylase
+1468317	PF0476	competence damage-inducible protein A
+1468315	PF0474	DNA mismatch repair protein
+1468313	PF0472	hypothetical protein
+1468299	PF0458	nicotinamide-nucleotide adenylyltransferase
+1468297	PF0456	carboxypeptidase 1
+1468295	PF0454	bacteriochlorophyll synthase, 43 kDa subunit
+1468293	PF0452	hypothetical protein
+1468291	PF0450	glutamine synthetase i
+1468289	PF0448	mannose-1-phosphate guanyltransferase
+1468271	PF0433	methyl-accepting chemotaxis-like protein
+1468269	PF0431	phosphoribosylaminoimidazole synthetase
+1468266	PF0429	proline permease
+1468264	PF0427	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1468262	PF0425	hypothetical protein
+1468260	PF0423	hypothetical protein
+1468246	PF0409	hypothetical protein
+1468242	PF0406	hypothetical protein
+1468240	PF0404	hypothetical protein
+1468238	PF0402	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+1468236	PF0400	hypothetical protein
+1468234	PF0398	hypothetical protein
+1468734	PF0874	membrane dipeptidase
+1468732	PF0872	hypothetical protein
+1468730	PF0870	hypothetical protein
+1468728	PF0868	NDP-sugar synthase
+1468726	PF0866	hypothetical protein
+1468724	PF0864	AsnC family transcriptional regulator
+1468708	PF0850	hypothetical protein
+1468706	PF0848	hypothetical protein
+1468704	PF0846	hypothetical protein
+1468702	PF0844	hypothetical protein
+1468699	PF0842	hypothetical protein
+1468696	PF0840	nucleotidyltransferase
+1468682	PF0826	transport membrane protein
+1468680	PF0824	hypothetical protein
+1468678	PF0822	hypothetical protein
+1468676	PF0820	cytidylate kinase
+1468674	PF0818	aminohydrolase
+1468671	PF0815	hypothetical protein
+1468655	PF0799	hypothetical protein
+1468653	PF0797	hypothetical protein
+1468651	PF0795	capsular polysaccharide biosynthesis protein
+1468649	PF0793	hypothetical protein
+1468647	PF0791	hypothetical protein
+1468645	PF0789	hypothetical protein
+1469138	PF1265	nol1-nop2-sun family nucleolar protein II
+1469136	PF1263	hypothetical protein
+1469134	PF1261	hypothetical protein
+1469132	PF1259	hypothetical protein
+1469130	PF1257	nol1-nop2-sun family nucleolar protein III
+1469128	PF1255	hypothetical protein
+1469112	PF1240	purine permease
+1469110	PF1238	ABC transporter
+1469108	PF1236	hypothetical protein
+1469106	PF1234	chitinase
+1469104	PF1232	4-aminobutyrate aminotransferase
+1469102	PF1230	atpase
+1469084	nusA	transcription elongation factor NusA-like protein
+1469082	PF1212	peptide ABC uptake protein
+1469080	PF1210	dipeptide ABC transporter permease
+1469078	PF1208	beta-mannosidase
+1469076	PF1206	hypothetical protein
+1469074	PF1204	seryl-tRNA synthetase
+1469059	PF1189	hypothetical protein
+1469057	PF1187	hypothetical protein
+1469055	PF1185	acetylornithine deacetylase
+1469053	PF1183	hypothetical protein
+1469050	PF1181	hypothetical protein
+1469048	PF1179	hypothetical protein
+1469527	rps13p	30S ribosomal protein S13
+1469525	rps11p	30S ribosomal protein S11
+1469523	PF1646	50S ribosomal protein L18
+1469521	rps9p	30S ribosomal protein S9
+1469519	rpoK	DNA-directed RNA polymerase subunit K
+1469517	rps2P	30S ribosomal protein S2
+1469503	PF1626	hypothetical protein
+1469501	PF1624	hypothetical protein
+1469499	PF1622	n-type ATP pyrophosphatase superfamily protein
+1469497	PF1620	hypothetical protein
+1469495	PF1618	ATP-binding protein phnp
+1469493	PF1616	myo-inositol-1-phosphate synthase
+1469478	PF1602	glutamate dehydrogenase
+1469476	PF1600	ferripyochelin binding protein
+1469474	PF1598	dCMP deaminase
+1469472	PF1596	hypothetical protein
+1469470	PF1594	dolichol-phosphate mannose synthase
+1469468	PF1592	tryptophan synthase subunit beta
+1469454	PF1578	DNA topoisomerase VI subunit A
+1469452	PF1576	hypothetical protein
+1469450	PF1574	hypothetical protein
+1469448	PF1572	hypothetical protein
+1469446	PF1570	RNA-associated protein
+1469444	PF1568	exosome complex exonuclease Rrp41
+1469923	PF2038	cob(I)yrinic acid a,c-diamide adenosyltransferase
+1469921	PF2036	magnesium and cobalt transporter
+1469918	PF2033	hypothetical protein
+1469916	PF2031	iron-sulfur cluster binding protein
+1469914	PF2029	nitrogenase reductase (c-terminus)
+1469912	PF2027	hypothetical protein
+1469898	PF2013	hypothetical protein
+1469896	PF2011	hypothetical protein
+1469894	PF2009	DNA-directed RNA polymerase subunit P
+1469892	PF2007	hypothetical protein
+1469890	PF2005	glycerol-3-phosphate dehydrogenase
+1469888	PF2003	glycerophosphodiester phosphodiesterase
+1469873	secE	preprotein translocase subunit SecE
+1469871	PF1987	hypothetical protein
+1469867	PF1985	hypothetical protein
+1469865	PF1983	hypothetical protein
+1469863	PF1981	hypothetical protein
+1469861	PF1979	hypothetical protein
+1469847	ef1B	elongation factor 1-beta
+1469845	ubiA	prenyltransferase UbiA-like protein
+1469843	PF1961	tungsten-containing formaldehyde ferredoxin oxidoreductase wor4
+1469841	PF1959	cofactor-independent phosphoglycerate mutase
+1469839	PF1957	agmatinase
+1469837	PF1955	hypothetical protein
+1469767	PF1888	hypothetical protein
+1469705	PF1826	hypothetical protein
+1469627	PF1749	sulfate transport integral membrane protein
+1469551	PF1674	hypothetical protein
+1469518	PF1641	hypothetical protein
+1469475	PF1599	undecaprenyl diphosphate synthase
+1468532	PF0686	hypothetical protein
+1468530	PF0684	hypothetical protein
+1468527	PF0681	hypothetical protein
+1468453	PF0609	hypothetical protein
+1468389	PF0547	hypothetical protein
+1468364	PF0523	hypothetical protein
+1468222	PF0386	hypothetical protein
+1468211	PF0375	prefoldin subunit alpha
+1468160	PF0325	hypothetical protein
+1468129	PF0295	n-type ATP pyrophosphatase superfamily protein
+1468026	PF0194	dipeptide ABC transporter ATP-binding protein
+1467882	PF0053	ATP dependent RNA helicase
+1467852	PF0001	hypothetical protein
+1467831	PF0003	moeB-like protein
+1467833	PF0005	ABC transporter ATP-binding protein
+1467835	PF0007	hypothetical protein
+1467837	PF0009	hypothetical protein
+1467839	PF0011	ABC transporter transmembrane component
+1467854	PF0025	hypothetical protein
+1467856	PF0027	integral membrane transport protein
+1467858	PF0029	hypothetical protein
+1467860	PF0031	threonine synthase
+1467862	PF0033	hypothetical protein
+1467864	PF0035	daunorubicin resistance ATP-binding protein
+1467878	PF0049	cytosine-specific DNA-methyltransferase
+1467880	PF0051	hypothetical protein
+1467882	PF0053	ATP dependent RNA helicase
+1467884	PF0055	HTH transcription regulator
+1467886	PF0057	hypothetical protein
+1467888	PF0059	fibrillarin
+1467902	PF0073	beta-glucosidase
+1467904	PF0075	alcohol dehydrogenase
+1467906	PF0077	biotin--protein ligase
+1467908	PF0079	cyclic 2,3-diphospoglycerate-synthetase
+1467910	PF0081	sulfate/thiosulfate transport-like protein
+1467912	PF0083	RNA 2'-phosphotransferase-like protein
+1468221	PF0385	hypothetical protein
+1468223	PF0387	carbohydrate-binding protein
+1468226	PF0390	hypothetical protein
+1468228	PF0392	metalloprotease
+1468230	PF0394	UDP-n-acetylglucosamine-dolichyl-phosphate n-acetylglucosaminephosphotransferase
+1468232	PF0396	hypothetical protein
+1468248	PF0411	protein-export membrane protein
+1468250	PF0413	hypothetical protein
+1468252	PF0415	dehydrogenase
+1468254	PF0417	hypothetical protein
+1468256	PF0419	hypothetical protein
+1468258	purP	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1468274	PF0435	DEXX-box atpase
+1468276	PF0437	hypothetical protein
+1468279	PF0439	hypothetical protein
+1468282	PF0441	galactose-1-phosphate uridylyltransferase
+1468284	PF0443	membrane transport protein
+1468286	PF0445	galactokinase
+1468301	PF0460	hypothetical protein
+1468303	PF0462	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1468305	PF0464	glyceraldehyde-3-phosphate:ferredoxin oxidoreductase
+1468307	PF0466	hypothetical protein
+1468309	PF0468	hypothetical protein
+1468311	PF0470	hypothetical protein
+1468628	PF0775	hypothetical protein
+1468630	PF0777	hypothetical protein
+1468633	PF0779	hypothetical protein
+1468636	PF0782	hypothetical protein
+1468638	PF0784	hypothetical protein
+1468641	PF0787	hypothetical protein
+1468659	PF0803	hypothetical protein
+1468661	PF0805	hypothetical protein
+1468663	PF0807	hypothetical protein
+1468665	PF0809	hypothetical protein
+1468667	PF0811	hypothetical protein
+1468669	PF0813	hypothetical protein
+1468684	PF0828	n-type ATP pyrophosphatase superfamily protein
+1468686	PF0830	hypothetical protein
+1468688	PF0832	hypothetical protein
+1468690	PF0834	hypothetical protein
+1468692	PF0836	cobalamin synthase
+1468694	PF0838	hypothetical protein
+1468710	PF0852	hypothetical protein
+1468712	PF0854	endo-1,4-beta-glucanase b
+1468714	PF0856	isopentenyl pyrophosphate isomerase
+1468717	PF0858	hypothetical protein
+1468719	PF0860	btpA family protein
+1468722	PF0862	tyrosyl-tRNA synthetase
+1469036	PF1167	chromosome segregation protein
+1469038	PF1169	hypothetical protein
+1469040	PF1171	hypothetical protein
+1469042	PF1173	hypothetical protein
+1469044	PF1175	hypothetical protein
+1469046	PF1177	gtp1/obg family GTP-binding protein
+1469061	PF1191	hypothetical protein
+1469063	PF1193	DNA protection protein DPS
+1469065	PF1195	hypothetical protein
+1469067	PF1197	NADH oxidase /nitrite reductase
+1469069	PF1199	hypothetical protein
+1469072	PF1202	hypothetical protein
+1469087	PF1216	hypothetical protein
+1469089	PF1218	hypothetical protein
+1469092	PF1220	sulfate adenylyltransferase
+1469094	PF1222	hypothetical protein
+1469096	PF1224	hypothetical protein
+1469100	PF1228	hypothetical protein
+1469114	PF1242	dehydrogenase subunit alpha
+1469116	PF1244	hypothetical protein
+1469118	PF1246	sarcosine oxidase subunit beta
+1469122	PF1249	ABC transporter
+1469124	PF1251	hypothetical protein
+1469126	PF1253	aspartate aminotransferase
+1469432	PF1556	peptidyl-tRNA hydrolase
+1469434	PF1558	30S ribosomal protein S7
+1469436	nusA	transcription elongation factor NusA-like protein
+1469438	PF1562	DNA-directed RNA polymerase subunit A''
+1469440	PF1564	DNA-directed RNA polymerase subunit B
+1469442	PF1566	hypothetical protein
+1469456	PF1580	RNA-processing protein
+1469458	PF1582	translation initiation factor IF-1
+1469460	PF1584	hypothetical protein
+1469462	PF1586	hydrogenase expression/formation protein
+1469464	PF1588	hypothetical protein
+1469466	PF1590	mutt
+1469480	PF1604	hypothetical protein
+1469482	PF1606	dolichol-phosphate mannose synthase
+1469484	PF1608	hypothetical protein
+1469486	PF1610	hypothetical protein
+1469488	PF1612	hypothetical protein
+1469491	PF1614	hypothetical protein
+1469505	PF1628	molybdenum cofactor biosynthesis protein A
+1469507	PF1630	UDP-n-acetylglucosamine 2-epimerase
+1469509	PF1632	hypothetical protein
+1469511	PF1634	hypothetical protein
+1469513	PF1636	acetylglutamate kinase
+1469515	PF1638	hypothetical protein
+1469825	PF1943	hypothetical protein
+1469827	PF1945	hypothetical protein
+1469829	PF1947	hypothetical protein
+1469831	PF1949	hypothetical protein
+1469833	PF1951	asparagine synthetase A
+1469835	PF1953	inosine-5'-monophosphate dehydrogenase
+1469849	PF1967	hypothetical protein
+1469851	PF1969	sugar ABC transporter permease
+1469853	PF1971	anaerobic ribonucleoside triphosphate reductase
+1469855	PF1973	hypothetical protein
+1469857	PF1975	phosphoenolpyruvate carboxylase
+1469859	PF1977	quinolinate synthetase
+1469875	rpl11p	50S ribosomal protein L11
+1469877	rplP0	acidic ribosomal protein P0
+1469879	PF1995	hypothetical protein
+1469881	PF1997	hypothetical protein
+1469883	PF1999	glycine dehydrogenase subunit 1
+1469886	PF2001	hypothetical protein
+1469900	PF2015	Hef nuclease
+1469902	PF2017	hypothetical protein
+1469904	PF2019	hypothetical protein
+1469906	PF2021	hypothetical protein
+1469908	PF2023	DNA invertase
+1469910	PF2025	hypothetical protein
+1468246	PF0409	hypothetical protein
+1468260	PF0423	hypothetical protein
+1468270	PF0432	sugar-catabolism phosphotransferase
+1468284	PF0443	membrane transport protein
+1468300	PF0459	hypothetical protein
+1468311	PF0470	hypothetical protein
+1468633	PF0779	hypothetical protein
+1468718	PF0859	hypothetical protein
+1469102	PF1230	atpase
+1469309	PF1433	membrane bound hydrogenase beta
+1469328	PF1452	monovalent cation/H+ antiporter subunit F
+1469413	PF1537	hypothetical protein
+1468103	PF0269	hypothetical protein
+1467861	PF0032	permease
+1467922	PF0093	replication factor C small subunit
+1468865	PF1000	oligopeptide transport system permease protein appc
+1468828	PF0963	cell division protein CDC48
+1467914	PF0085	DNA helicase
+1468493	PF0649	hypothetical protein
+1468480	PF0636	DEXX-box atpase
+1468460	PF0616	Mrp/NBP35 family nucleotide-binding protein
+1468435	PF0592	ATP-dependent RNA helicase
+1468414	PF0572	dna2-nam7 helicase family protein
+1468409	PF0567	hypothetical protein
+1468220	PF0384	hypothetical protein
+1468218	PF0382	prefoldin
+1468216	PF0380	hypothetical protein
+1468214	PF0378	50S ribosomal protein L31
+1468212	rplX	50S ribosomal protein LX
+1468210	PF0374	translation-associated GTPase
+1468196	PF0360	oligopeptide ABC transporter
+1468194	PF0358	oppbc family ABC transporter
+1468192	PF0356	beta-galactosidase
+1468189	PF0354	hypothetical protein
+1468187	PF0352	hypothetical protein
+1468185	PF0350	cation antiporter
+1468171	PF0336	hypothetical protein
+1468169	PF0334	flagella-like protein
+1468167	PF0332	flagellar accessory protein FlaH
+1468165	PF0330	flagellar assembly protein J
+1468163	PF0328	hypothetical protein
+1468161	PF0326	hypothetical protein
+1468147	PF0312	ADP-dependent glucokinase
+1468145	PF0310	daunorubicin resistance ATP-binding protein drrA
+1468143	PF0308	adenylosuccinate synthetase
+1468141	PF0306	sua5 superfamily-like protein
+1468139	PF0304	DEXX-box atpase
+1468137	PF0302	co-factor modifying protein
+1468627	PF0774	hypothetical protein
+1468625	PF0772	hypothetical protein
+1468623	PF0770	glucose-1-phosphate uridylyltransferase
+1468621	PF0768	acetyl / acyl transferase-like protein
+1468619	PF0766	dehydrogenase
+1468617	PF0764	DEXX-box atpase
+1468602	PF0749	hypothetical protein
+1468600	PF0747	proline dipeptidase
+1468598	PF0745	hypothetical protein
+1468596	PF0743	hypothetical protein
+1468594	PF0741	hypothetical protein
+1468592	PF0739	AsnC family transcriptional regulator
+1468574	PF0725	hypothetical protein
+1468572	PF0723	hypothetical protein
+1468570	PF0721	hypothetical protein
+1468568	PF0719	hypothetical protein
+1468566	PF0717	methyltransferase
+1468564	PF0715	NAD(P)H oxidase
+1468549	PF0701	x-pro dipeptidase, N-terminal fragment
+1468547	PF0699	hypothetical protein
+1468545	PF0697	multidrug resistance protein
+1468543	PF0695	hypothetical protein
+1468541	PF0693	hypothetical protein
+1468539	PF0691	hypothetical protein
+1469035	PF1166	exonuclease
+1469033	PF1164	Na+/H+ antiporter
+1469031	PF1162	hypothetical protein
+1469029	PF1160	hypothetical protein
+1469027	PF1158	hypothetical protein
+1469025	rbcL	ribulose bisophosphate carboxylase
+1469011	PF1142	hypothetical protein
+1469009	PF1140	translation initiation factor IF-2
+1469007	PF1138	hypothetical protein
+1469005	PF1136	hypothetical protein
+1469003	PF1134	kinase
+1469001	PF1132	carbamoyl transferase
+1468987	PF1118	hypothetical protein
+1468985	PF1116	glycerol-3-phosphate cytidyltransferase
+1468983	PF1114	OMP decarboxylase; OMPDCase; OMPdecase
+1468980	PF1112	hypothetical protein
+1468978	PF1110	hypothetical protein
+1468976	PF1108	alpha-dextrin endo-1, 6-alpha-glucosidase
+1468961	PF1094	hypothetical protein
+1468959	PF1092	hypothetical protein
+1468957	PF1090	ABC transporter
+1468955	PF1088	hypothetical protein
+1468953	PF1086	hypothetical protein
+1468950	PF1084	phosphopantetheine adenylyltransferase
+1469431	truD	tRNA pseudouridine synthase D
+1469429	PF1553	nol1-nop2-sun family nucleolar protein I
+1469427	PF1551	hypothetical protein
+1469425	PF1549	RNA 3'-terminal-phosphate cyclase
+1469423	PF1547	endoglucanase
+1469421	nac	nascent polypeptide-associated complex protein
+1469407	PF1531	thiamine biosynthesis protein ThiC
+1469405	PF1529	pyridoxal biosynthesis lyase PdxS
+1469403	PF1527	hypothetical protein
+1469401	PF1525	hypothetical protein
+1469399	PF1523	hypothetical protein
+1469397	PF1521	formate dehydrogenase subunit alpha
+1469383	PF1507	cell division protein FtsZ
+1469381	PF1505	hypothetical protein
+1469379	PF1503	hypothetical protein
+1469377	PF1501	hypothetical protein
+1469375	PF1499	30S ribosomal protein S19
+1469373	PF1497	alanine aminotransferase
+1469359	PF1483	hypothetical protein
+1469357	PF1481	hypothetical protein
+1469355	PF1479	oxidoreductase, Fe-S subunit
+1469353	PF1477	methylmalonyl-CoA mutase
+1469351	rpl40e	50S ribosomal protein L40
+1469349	PF1473	hypothetical protein
+1469824	PF1942	hypothetical protein
+1469821	PF1940	hypothetical protein
+1469818	PF1938	malE-like sugar binding protein
+1469816	PF1936	malg-like sugar transport inner membrane protein
+1469814	PF1934	hypothetical protein
+1469812	PF1932	hypothetical protein
+1469798	PF1918	hypothetical protein
+1469796	PF1916	hypothetical protein
+1469794	PF1914	ribonuclease P protein component 3
+1469792	PF1912	hypothetical protein
+1469790	PF1910	oxidoreductase
+1469788	PF1908	hypothetical protein
+1469773	PF1894	signal recognition particle protein Srp19
+1469771	PF1892	hypothetical protein
+1469769	PF1890	hypothetical protein
+1469767	PF1888	hypothetical protein
+1469765	PF1886	sugar kinase
+1469763	PF1884	ABC transporter
+1469749	PF1870	hypothetical protein
+1469747	PF1868	integrase-recombinase protein
+1469745	PF1866	S-adenosylmethionine synthetase
+1469742	ksgA	dimethyladenosine transferase
+1469740	PF1861	endo-1,4-beta-glucanase-like protein
+1469738	PF1859	hypothetical protein
+1467926	PF0097	43 kDa subunit bacteriochlorophyll synthase-like protein
+1467928	PF0099	hypothetical protein
+1467930	PF0101	hypothetical protein
+1467932	PF0103	hypothetical protein
+1467934	PF0105	hypothetical protein
+1467936	PF0107	hypothetical protein
+1467950	PF0121	aspartate aminotransferase
+1467952	PF0123	hypothetical protein
+1467954	PF0125	hypothetical protein
+1467956	speE	spermidine synthase
+1467958	PF0129	hypothetical protein
+1467960	PF0131	hypothetical protein
+1467977	PF0145	hypothetical protein
+1467979	PF0147	potassium channel-like protein
+1467981	PF0149	short chain dehydrogenase
+1467983	PF0151	hypothetical protein
+1467985	PF0153	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1467987	asnC	asparaginyl-tRNA synthetase
+1468001	PF0169	nol1-nop2-sun family nucleolar protein III
+1468003	PF0171	hypothetical protein
+1468005	PF0173	preprotein translocase subunit SecF
+1468007	PF0175	trk system potassium uptake - like protein
+1468009	PF0177	V-type ATP synthase subunit I
+1468011	PF0179	V-type ATP synthase subunit E
+1468325	PF0484	GTPase
+1468327	PF0486	hypothetical protein
+1468329	PF0488	30S ribosomal protein S6
+1468331	PF0490	hypothetical protein
+1468333	PF0492	hypothetical protein
+1468335	PF0494	DNA topoisomerase I
+1468349	PF0508	integral membrane glycosyltransferase
+1468351	PF0510	nucleotide pyrophosphohydrolase
+1468353	PF0512	transcription factor
+1468355	PF0514	d-alanine glycine permease
+1468357	PF0516	hypothetical protein
+1468359	PF0518	hypothetical protein
+1468373	PF0532	hypothetical protein
+1468375	PF0534	indolepyruvate oxidoreductase subunit beta
+1468377	PF0536	transposase
+1468379	PF0538	hypothetical protein
+1468382	thyX	FAD-dependent thymidylate synthase
+1468384	PF0542	molybdenum cofactor biosynthesis protein
+1468398	PF0556	hypothetical protein
+1468400	PF0558	cation efflux system protein
+1468402	PF0560	hypothetical protein
+1468405	PF0563	hypothetical protein
+1468407	PF0565	hypothetical protein
+1468409	PF0567	hypothetical protein
+1468736	PF0876	50S ribosomal protein L15
+1468739	PF0878	hypothetical protein
+1468741	PF0880	DEXX-box atpase
+1468743	PF0882	hypothetical protein
+1468745	PF0884	hypothetical protein
+1468748	PF0886	hypothetical protein
+1468765	PF0901	hypothetical protein
+1468767	PF0903	hypothetical protein
+1468769	PF0905	ABC transporter
+1468771	PF0907	hypothetical protein
+1468773	PF0909	ferric enterobactin transport ATP-binding protein
+1468775	PF0911	iron (III) ABC transporter
+1468789	PF0925	heme biosynthesis protein
+1468791	PF0927	hypothetical protein
+1468793	PF0929	hypothetical protein
+1468795	ndk	nucleoside diphosphate kinase
+1468797	PF0933	DNA repair helicase rad3
+1468799	PF0935	acetolactate synthase
+1468814	PF0950	hypothetical protein
+1468816	PF0952	hypothetical protein
+1468818	PF0954	hypothetical protein
+1468820	PF0956	hypothetical protein
+1468822	PF0958	hypothetical protein
+1468825	PF0960	hypothetical protein
+1469140	PF1267	hypothetical protein
+1469142	PF1269	methionine synthase
+1469144	PF1271	hypothetical protein
+1469146	PF1273	hypothetical protein
+1469148	PF1275	hypothetical protein
+1469150	PF1277	hypothetical protein
+1469164	PF1291	hypothetical protein
+1469166	PF1293	prolyl-tRNA synthetase
+1469168	PF1295	transcription factor
+1469170	PF1297	hypothetical protein
+1469172	PF1299	pyrrolidone-carboxylate peptidase
+1469174	PF1301	hypothetical protein
+1469189	PF1315	hypothetical protein
+1469191	PF1317	hypothetical protein
+1469193	PF1319	hypothetical protein
+1469196	PF1321	DEXX-box atpase
+1469198	PF1323	hypothetical protein
+1469200	PF1325	hypothetical protein
+1469214	PF1339	hypothetical protein
+1469216	gcvT	glycine cleavage system aminomethyltransferase T
+1469218	PF1343	Xaa-Pro dipeptidase
+1469220	PF1345	ribonuclease Z
+1469222	PF1347	hypothetical protein
+1469224	PF1349	translation initiation factor IF-2
+1469529	PF1652	hypothetical protein
+1469531	PF1654	ABC transporter
+1469533	PF1656	NADH oxidase
+1469535	hisG	ATP phosphoribosyltransferase
+1469537	hisB	imidazoleglycerol-phosphate dehydratase
+1469539	PF1662	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1469553	PF1676	biotin operon repressor/biotin--[acetyl CoA carboxylase] ligase
+1469555	PF1678	2-isopropylmalate synthase
+1469557	leuD	3-isopropylmalate dehydratase small subunit
+1469559	PF1682	ribosomal protein s6 modification protein
+1469561	PF1684	acetylglutamate/acetylaminoadipate kinase
+1469563	PF1686	acetyl-lysine deacetylase
+1469577	PF1700	chorismate synthase
+1469579	PF1702	aspartate aminotransferase
+1469581	PF1704	hypothetical protein
+1469583	PF1706	tryptophan synthase subunit beta
+1469585	PF1708	anthranilate synthase component II
+1469587	trpD	anthranilate phosphoribosyltransferase
+1469601	PF1724	hypothetical protein
+1469603	PF1726	hypothetical protein
+1469605	PF1728	NDP-sugar synthase
+1469607	tmk	thymidylate kinase
+1469609	PF1732	AsnC family transcriptional regulator
+1469611	PF1734	AsnC family transcriptional regulator
+1469925	PF2040	hypothetical protein
+1469927	PF2042	hypothetical protein
+1469929	PF2044	glycogen synthase
+1469931	PF2046	hypothetical protein
+1469934	PF2048	peptidase
+1469937	PF2050	hypothetical protein
+1469953	PF2064	arylsulfatase
+1469839	PF1957	agmatinase
+1469854	PF1972	hypothetical protein
+1468335	PF0494	DNA topoisomerase I
+1468324	PF0483	hypothetical protein
+1467872	PF0043	phosphoenolpyruvate synthase
+1468315	PF0474	DNA mismatch repair protein
+1468274	PF0435	DEXX-box atpase
+1468246	PF0409	hypothetical protein
+1468092	PF0258	endonuclease IV
+1468083	PF0249	deoxyribonucleotide triphosphate pyrophosphatase
+1467849	radB	DNA repair and recombination protein RadB
+1468048	maf	Maf-like protein
+1468043	PF0211	hypothetical protein
+1468022	PF0190	hypothetical protein
+1469747	PF1868	integrase-recombinase protein
+1469728	PF1849	cell division inhibitor minD
+1469670	PF1791	H/ACA RNA-protein complex component Gar1
+1469660	rnhB	ribonuclease HII
+1469549	PF1672	hypothetical protein
+1469487	PF1611	cell division inhibitor minD
+1467953	PF0124	hypothetical protein
+1467952	PF0123	hypothetical protein
+1469187	PF1313	DNA processing SMF protein
+1469138	PF1265	nol1-nop2-sun family nucleolar protein II
+1469130	PF1257	nol1-nop2-sun family nucleolar protein III
+1469104	PF1232	4-aminobutyrate aminotransferase
+1468122	PF0288	hypothetical protein
+1468120	PF0286	hypothetical protein
+1468118	PF0284	hypothetical protein
+1468116	PF0282	hypothetical protein
+1468114	PF0280	hypothetical protein
+1468112	PF0278	hypothetical protein
+1468098	hisS	histidyl-tRNA synthetase
+1468096	PF0262	MFS family transporter
+1468094	PF0260	hypothetical protein
+1468092	PF0258	endonuclease IV
+1468090	PF0256	DNA-directed RNA polymerase subunit E'
+1468088	PF0254	hypothetical protein
+1468074	PF0240	hypothetical protein
+1468072	PF0238	hypothetical protein
+1468070	PF0236	ribose-phosphate pyrophosphokinase
+1468068	PF0234	hypothetical protein
+1468066	PF0232	ArsR family transcriptional regulator
+1468064	PF0230	ArsR family transcriptional regulator
+1468048	maf	Maf-like protein
+1468046	PF0214	n-type ATP pyrophosphatase
+1468044	PF0212	DNA-directed DNA polymerase
+1468042	PF0210	oxidative cyclase
+1468040	PF0208	argininosuccinate lyase
+1468038	PF0206	hypothetical protein
+1468522	PF0676	carbamate kinase-like carbamoyl phosphate synthetase
+1468520	PF0674	ion gradient-generating decarboxylase subunit beta
+1468518	PF0672	hypothetical protein
+1468515	PF0670	ATPase RIL
+1468513	PF0668	hypothetical protein
+1468511	PF0666	nol1-nop2-sun family nucleolar protein IV
+1468496	PF0652	DEXX-box atpase
+1468494	PF0650	hypothetical protein
+1468492	PF0648	hypothetical protein
+1468490	PF0646	hypothetical protein
+1468488	PF0644	hypothetical protein
+1468486	PF0642	hypothetical protein
+1468472	PF0628	hypothetical protein
+1468470	PF0626	hypothetical protein
+1468468	PF0624	hypothetical protein
+1468466	PF0622	hypothetical protein
+1468464	PF0620	hypothetical protein
+1468462	mobA	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1468447	PF0604	hydrogenase expression/formation protein
+1468445	PF0602	hypothetical protein
+1468443	PF0600	hypothetical protein
+1468441	PF0598	aspartate carbamoyltransferase
+1468439	PF0596	mRNA 3'-end processing factor
+1468437	PF0594	ornithine carbamoyltransferase
+1468936	PF1070	hypothetical protein
+1468934	PF1068	hypothetical protein
+1468932	PF1066	aminotransferase
+1468930	PF1064	hypothetical protein
+1468928	PF1062	hypothetical protein
+1468926	PF1060	hypothetical protein
+1468912	PF1046	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+1468910	PF1044	hypothetical protein
+1468908	PF1042	hypothetical protein
+1468906	PF1040	hypothetical protein
+1468904	PF1038	hypothetical protein
+1468902	PF1036	hypothetical protein
+1468887	PF1021	hypothetical protein
+1468885	PF1019	hypothetical protein
+1468883	PF1017	hypothetical protein
+1468880	PF1015	transposase b - like protein
+1468878	PF1013	hypothetical protein
+1468876	PF1011	daunorubicin resistance ATP-binding protein drrA
+1468862	PF0997	hypothetical protein
+1468860	PF0995	hypothetical protein
+1468858	PF0993	hypothetical protein
+1468856	tdh	L-threonine 3-dehydrogenase
+1468854	pheS	phenylalanyl-tRNA synthetase subunit alpha
+1468852	PF0987	hypothetical protein
+1469335	PF1459	hypothetical protein
+1469333	PF1457	glutaredoxin/thioredoxin-like protein
+1469331	PF1455	hypothetical protein
+1469329	PF1453	monovalent cation/H+ antiporter subunit E
+1469327	PF1451	monovalent cation/H+ antiporter subunit G
+1469325	PF1449	monovalent cation/H+ antiporter subunit B
+1469311	PF1435	mbh13 NADH dehydrogenase subunit
+1469309	PF1433	membrane bound hydrogenase beta
+1469307	PF1431	hypothetical protein
+1469305	PF1429	monovalent cation/H+ antiporter subunit C
+1469303	PF1427	hypothetical protein
+1469301	PF1425	monovalent cation/H+ antiporter subunit G
+1469287	PF1411	dipeptide transport ATP-binding protein
+1469285	PF1409	dipeptide transport system permease
+1469283	pyrH	uridylate kinase
+1469281	PF1405	cleavage and polyadenylation specifity factor protein
+1469279	PF1403	hypothetical protein
+1469277	PF1401	peptidyl-prolyl cis-trans isomerase
+1469263	PF1387	hypothetical protein
+1469261	PF1385	DNA polymerase
+1469259	PF1383	hypothetical protein
+1469257	PF1381	hypothetical protein
+1469255	PF1379	cell division protein pelota
+1469253	tfb	transcription initiation factor IIB
+1469724	PF1845	murein hydrolase
+1469722	PF1843	chromosome segregation protein smc
+1469720	PF1841	hypothetical protein
+1469718	pyrG	CTP synthase
+1469716	PF1837	hypothetical protein
+1469714	PF1835	hypothetical protein
+1469700	rps19p	30S ribosomal protein S19
+1469698	rps3p	30S ribosomal protein S3
+1469696	PF1817	translation initiation factor Sui1
+1469694	rps17p	30S ribosomal protein S17
+1469692	rpl24p	50S ribosomal protein L24
+1469690	rpl5p	50S ribosomal protein L5
+1469676	PF1797	d-nopaline dehydrogenase
+1469674	PF1795	sarcosine oxidase subunit alpha
+1469672	PF1793	hypothetical protein
+1469670	PF1791	H/ACA RNA-protein complex component Gar1
+1469668	PF1789	hydrolase related to 2-haloalkanoic acid dehalogenase
+1469666	PF1787	acetyl-CoA synthetase
+1469652	PF1773	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1469650	PF1771	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1469648	PF1769	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1469646	PF1767	2-keto acid:ferredoxin oxidoreductase subunit delta
+1469644	PF1765	hypothetical protein
+1469642	PF1763	gtp1/obg family GTP-binding protein
+1467830	PF0002	hypothetical protein
+1467832	PF0004	hypothetical protein
+1467834	PF0006	ABC transporter
+1467836	PF0008	hit family protein
+1467838	PF0010	1-aminocyclopropane-1-carboxylate deaminase
+1467840	PF0012	hypothetical protein
+1467855	PF0026	tRNA CCA-pyrophosphorylase
+1467857	PF0028	acetyl transferase
+1467859	PF0030	hypothetical protein
+1467861	PF0032	permease
+1467863	PF0034	hypothetical protein
+1467865	PF0036	daunorubicin resistance membrane protein
+1467879	PF0050	DNA-directed RNA polymerase subunit L
+1467881	PF0052	exosome complex RNA-binding protein Csl4
+1467883	PF0054	AsnC family transcriptional regulator
+1467885	PF0056	carbohydrate binding protein
+1467887	PF0058	dolichol monophosphate mannose synthase
+1467889	PF0060	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+1467903	PF0074	alcohol dehydrogenase
+1467905	PF0076	endo-beta-1,3-glucanase
+1467907	PF0078	2-phosphoglycerate kinase
+1467909	PF0080	molybdate ABC transporter periplasmic substrate-binding protein
+1467911	PF0082	hypothetical protein
+1467913	PF0084	hypothetical protein
+1468222	PF0386	hypothetical protein
+1468224	PF0388	hypothetical protein
+1468227	PF0391	hypothetical protein
+1468229	PF0393	hypothetical protein
+1468231	PF0395	oxetanocin-like protein
+1468233	PF0397	GTP-binding protein
+1468249	PF0412	hypothetical protein
+1468251	PF0414	hypothetical protein
+1468253	PF0416	hypothetical protein
+1468255	PF0418	methanol dehydrogenase regulatory protein
+1468257	PF0420	hypothetical protein
+1468259	PF0422	phosphoribosylamine--glycine ligase
+1468275	PF0436	hypothetical protein
+1468278	PF0438	hypothetical protein
+1468281	PF0440	ribonucleotide-diphosphate reductase subunit alpha
+1468283	PF0442	beta-glucosidase
+1468285	PF0444	hydrolase
+1468287	PF0446	NDP-sugar synthase
+1468302	PF0461	tRNA 2'-O-methylase
+1468304	PF0463	hydrolase related to 2-haloalkanoic acid dehalogenase
+1468306	PF0465	glycosyl transferase
+1468308	PF0467	ATP-dependent protease LA
+1468310	PF0469	hypothetical protein
+1468312	PF0471	hypothetical protein
+1468629	PF0776	hypothetical protein
+1468632	PF0778	hypothetical protein
+1468635	PF0781	hypothetical protein
+1468637	PF0783	hypothetical protein
+1468640	PF0786	transposase
+1468644	PF0788	glycosyl transferase family protein
+1468660	PF0804	methanol dehydrogenase regulator
+1468662	PF0806	hypothetical protein
+1468664	PF0808	hypothetical protein
+1468666	PF0810	hypothetical protein
+1468668	PF0812	hypothetical protein
+1468670	PF0814	hypothetical protein
+1468685	PF0829	hypothetical protein
+1468687	PF0831	hypothetical protein
+1468689	PF0833	low temperature requirement C - like protein
+1468691	PF0835	daunorubicin resistance ATP-binding protein drrA
+1468693	PF0837	cobalamin (5'-phosphate) synthase, c-terminal fragment
+1468695	PF0839	hypothetical protein
+1468711	PF0853	5'-methylthioadenosine phosphorylase
+1468713	PF0855	hypothetical protein
+1468716	PF0857	ferrous iron transport protein B
+1468718	PF0859	hypothetical protein
+1468720	glmM	phosphoglucosamine mutase
+1468723	PF0863	hypothetical protein
+1469037	PF1168	hypothetical protein
+1469039	PF1170	hypothetical protein
+1469041	PF1172	RNA methyltransferase
+1469043	PF1174	hypothetical protein
+1469045	PF1176	hypothetical protein
+1469047	PF1178	Na-dependent transporter
+1469062	PF1192	hypothetical protein
+1469064	PF1194	FUR family transcriptional regulator
+1469066	PF1196	hypothetical protein
+1469068	PF1198	sugar fermentation stimulation protein A
+1469071	PF1201	hypothetical protein
+1469073	PF1203	formaldehyde:ferredoxin oxidoreductase
+1469088	PF1217	hypothetical protein
+1469090	PF1219	hypothetical protein
+1469093	PF1221	dissimilatory sulfate adenylyltransferase
+1469095	PF1223	hypothetical protein
+1469097	PF1225	hypothetical protein
+1469101	PF1229	glycosylase
+1469115	PF1243	hypothetical protein
+1469117	PF1245	d-nopaline dehydrogenase
+1469119	PF1247	hypothetical protein
+1469123	PF1250	hypothetical protein
+1469125	PF1252	hypothetical protein
+1469127	PF1254	sodium dependent transporter
+1469433	PF1557	hypothetical protein
+1469435	rps12P	30S ribosomal protein S12
+1469437	PF1561	50S ribosomal protein L30
+1469439	PF1563	DNA-directed RNA polymerase subunit A'
+1469441	rpoH	DNA-directed RNA polymerase subunit H
+1469443	PF1567	exosome complex RNA-binding protein Rrp42
+1469457	PF1581	rio1 protein
+1469459	PF1583	endopeptidase IV
+1469461	PF1585	hypothetical protein
+1469463	PF1587	hypothetical protein
+1469465	PF1589	hypothetical protein
+1469467	PF1591	dipeptide transport protein
+1469481	PF1605	hypothetical protein
+1469483	PF1607	thymidine phosphorylase
+1469485	PF1609	hypothetical protein
+1469487	PF1611	cell division inhibitor minD
+1469490	PF1613	ribonuclease P protein component 4
+1469492	PF1615	hypothetical protein
+1469506	PF1629	hypothetical protein
+1469508	PF1631	NDP-sugar dehydrogenase
+1469510	PF1633	hypothetical protein
+1469512	PF1635	ATP-dependent DNA ligase
+1469514	PF1637	mevalonate kinase
+1469516	PF1639	threonine synthase
+1469826	PF1944	hypothetical protein
+1469828	PF1946	methylmalonyl-CoAmutase subunit alpha
+1469830	PF1948	hypothetical protein
+1469832	PF1950	xanthine-guanine phosphoribosyltransferase
+1469834	PF1952	hypothetical protein
+1469836	PF1954	molybdopterin-guanine dinucleotide biosynthesis protein MobB/FeS domain-containing protein
+1469850	PF1968	sugar transport membrane protein
+1469852	PF1970	multiple sugar-binding transport ATP-binding protein
+1469854	PF1972	hypothetical protein
+1469856	PF1974	thermosome, single subunit
+1469858	PF1976	L-aspartate oxidase
+1469860	PF1978	nicotinate-nucleotide pyrophosphorylase
+1469876	rpl1P	50S ribosomal protein L1
+1469878	rpl12p	50S ribosomal protein L12
+1469880	dcd	deoxycytidine triphosphate deaminase
+1469882	PF1998	hypothetical protein
+1469884	PF2000	glycine dehydrogenase subunit 2
+1469887	PF2002	sucrose transport protein
+1469901	PF2016	preprotein translocase subunit SecG
+1469903	PF2018	hypothetical protein
+1469905	PF2020	replication factor A
+1469907	PF2022	hypothetical protein
+1469909	PF2024	transposase
+1469911	PF2026	polyferredoxin
+1468247	PF0410	hypothetical protein
+1468264	PF0427	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1468274	PF0435	DEXX-box atpase
+1468295	PF0454	bacteriochlorophyll synthase, 43 kDa subunit
+1468307	PF0466	hypothetical protein
+1468331	PF0490	hypothetical protein
+1468687	PF0831	hypothetical protein
+1468880	PF1015	transposase b - like protein
+1469286	PF1410	dipeptide transport system permease
+1469317	PF1441	NADH dehydrogenase subunit I
+1469334	PF1458	sugar kinase
+1469450	PF1574	hypothetical protein
+1468103	PF0269	hypothetical protein
+1468478	PF0634	DEXX-box atpase
+1467921	PF0092	replication factor C large subunit
+1468848	PF0983	DNA polymerase sliding clamp
+1468797	PF0933	DNA repair helicase rad3
+1467836	PF0008	hit family protein
+1467888	PF0059	fibrillarin
+1468479	PF0635	DEXX-box atpase
+1467883	PF0054	AsnC family transcriptional regulator
+1468427	PF0585	DEXX-box atpase
+1467882	PF0053	ATP dependent RNA helicase
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1468219	PF0383	hypothetical protein
+1468217	PF0381	hypothetical protein
+1468215	rpl39e	50S ribosomal protein L39
+1468213	PF0377	translation initiation factor IF-6
+1468211	PF0375	prefoldin subunit alpha
+1468209	PF0373	ABC transporter periplasmic binding protein
+1468195	PF0359	oligopeptide ABC transporter permease
+1468193	PF0357	dipeptide-binding protein
+1468190	PF0355	hypothetical protein
+1468188	PF0353	hypothetical protein
+1468186	PF0351	hypothetical protein
+1468184	PF0349	hypothetical protein
+1468170	PF0335	flagella-related protein D
+1468168	PF0333	flagella-related protein g
+1468166	PF0331	type II secretion system protein
+1468164	PF0329	hypothetical protein
+1468162	PF0327	hypothetical protein
+1468160	PF0325	hypothetical protein
+1468146	PF0311	hypothetical protein
+1468144	PF0309	ABC transporter
+1468142	PF0307	glycosyltransferase
+1468140	PF0305	hypothetical protein
+1468138	PF0303	hypothetical protein
+1468136	PF0301	cobyric acid synthase
+1468626	PF0773	hypothetical protein
+1468624	PF0771	NDP-sugar dehydrogenase
+1468622	PF0769	glycosyl transferase family protein
+1468620	PF0767	pleiotropic regulatory protein degT
+1468618	PF0765	NDP-sugar dehydrogenase
+1468616	PF0763	hypothetical protein
+1468601	PF0748	hypothetical protein
+1468599	PF0746	hypothetical protein
+1468597	PF0744	ABC transporter
+1468595	PF0742	ferritin
+1468593	PF0740	heavy-metal transporting cpx-type atpase
+1468590	PF0738	ubiquinone/menaquinone biosynthesis methyltransferase
+1468573	PF0724	hypothetical protein
+1468571	PF0722	alkyl hydroperoxide reductase
+1468569	PF0720	hypothetical protein
+1468567	PF0718	hypothetical protein
+1468565	PF0716	3-hydroxyisobutyrate dehydrogenase
+1468563	PF0714	hypothetical protein
+1468548	PF0700	x-pro dipeptidase, N-terminal fragment
+1468546	PF0698	hypothetical protein
+1468544	PF0696	carbohydrate-binding protein
+1468542	PF0694	flavoprotein
+1468540	PF0692	hydroxylamine reductase
+1468538	PF0690	hypothetical protein
+1469034	PF1165	hypothetical protein
+1469032	PF1163	hypothetical protein
+1469030	PF1161	hypothetical protein
+1469028	PF1159	L-tyrosine decarboxylase
+1469026	PF1157	hypothetical protein
+1469024	PF1155	hypothetical protein
+1469010	PF1141	H/ACA RNA-protein complex component Nop10p
+1469008	PF1139	pseudouridylate synthase
+1469006	PF1137	translation initiation factor IF-2
+1469004	PF1135	heat shock protein HtpX
+1469002	PF1133	hypothetical protein
+1469000	PF1131	hypothetical protein
+1468986	PF1117	hypothetical protein
+1468984	PF1115	RNA-binding protein
+1468982	PF1113	hypothetical protein
+1468979	PF1111	hypothetical protein
+1468977	PF1109	hypothetical protein
+1468975	PF1107	hit family protein
+1468960	PF1093	hypothetical protein
+1468958	PF1091	hypothetical protein
+1468956	PF1089	hypothetical protein
+1468954	PF1087	hypothetical protein
+1468951	PF1085	hypothetical protein
+1468949	PF1083	hypothetical protein
+1469430	PF1554	hypothetical protein
+1469428	PF1552	hypothetical protein
+1469426	PF1550	hypothetical protein
+1469424	PF1548	hypothetical protein
+1469422	PF1546	hypothetical protein
+1469420	PF1544	hypothetical protein
+1469406	PF1530	ribulose-1,5-biphosphate synthetase
+1469404	PF1528	glutamine amidotransferase subunit PdxT
+1469402	PF1526	hypothetical protein
+1469400	PF1524	hypothetical protein
+1469398	PF1522	ABC transporter
+1469396	PF1520	ABC transporter
+1469382	PF1506	hypothetical protein
+1469380	PF1504	large helicase-like protein
+1469378	PF1502	hypothetical protein
+1469376	PF1500	hypothetical protein
+1469374	PF1498	hypothetical protein
+1469372	PF1496	hypothetical protein
+1469358	PF1482	hypothetical protein
+1469356	PF1480	formaldehyde:ferredoxin oxidoreductase wor5
+1469354	PF1478	hypothetical protein
+1469352	PF1476	hypothetical protein
+1469350	PF1474	hypothetical protein
+1469348	PF1472	aspartate/serine transaminase
+1469823	PF1941	dihydropteroate synthase
+1469819	PF1939	neopullulanase (alpha-amylase II)
+1469817	PF1937	malf-like sugar transport inner membrane protein
+1469815	PF1935	amylopullulanase
+1469813	PF1933	sugar transport ATP-hydrolyzing
+1469811	PF1931	hypothetical protein
+1469797	PF1917	dehydrogenase
+1469795	PF1915	hypothetical protein
+1469793	PF1913	hypothetical protein
+1469791	PF1911	ferredoxin-NADP reductase
+1469789	PF1909	ferredoxin
+1469787	PF1907	hypothetical protein
+1469772	PF1893	AsnC family transcriptional regulator
+1469770	PF1891	hypothetical protein
+1469768	PF1889	daunorubicin resistance ATP-binding protein drrA
+1469766	PF1887	hypothetical protein
+1469764	PF1885	glycosyl transferase family protein
+1469762	PF1883	small heat shock protein
+1469748	PF1869	hypothetical protein
+1469746	PF1867	hypothetical protein
+1469744	PF1865	regulatory protein
+1469741	PF1862	DNA-binding protein
+1469739	PF1860	archaemetzincin-like protein
+1469737	PF1858	cysteine synthase
+1467927	nadE	NAD synthetase
+1467929	PF0100	molybdopterin converting factor subunit 2
+1467931	PF0102	hypothetical protein
+1467933	PF0104	hypothetical protein
+1467935	PF0106	hypothetical protein
+1467937	PF0108	L-fuculose phosphate aldolase
+1467951	PF0122	translation initiation factor IF-2
+1467953	PF0124	hypothetical protein
+1467955	PF0126	DNA repair protein rad25
+1467957	PF0128	hypothetical protein
+1467959	PF0130	hypothetical protein
+1467964	PF0132	hypothetical protein
+1467978	PF0146	potassium channel
+1467980	PF0148	hypothetical protein
+1467982	PF0150	hypothetical protein
+1467984	PF0152	hypothetical protein
+1467986	PF0154	amidophosphoribosyltransferase
+1467988	PF0156	oligosaccharyl transferase stt3 subunit related protein
+1468002	PF0170	hypothetical protein
+1468004	PF0172	DNA-binding/iron metalloprotein/AP endonuclease
+1468006	secD	preprotein translocase subunit SecD
+1468008	PF0176	V-type ATP synthase subunit H
+1468010	PF0178	V-type ATP synthase subunit K
+1468012	PF0180	V-type ATP synthase subunit C
+1468326	PF0485	cell division inhibitor minD - like protein
+1468328	PF0487	autolysin-like protein
+1468330	PF0489	hypothetical protein
+1468332	PF0491	transcription initiation factor E subunit alpha
+1468334	PF0493	hypothetical protein
+1468336	PF0495	reverse gyrase
+1468350	PF0509	integral membrane glycosyltransferase
+1468352	PF0511	3-methyladenine DNA glycosylase
+1468354	PF0513	4-aminobutyrate aminotransferase
+1468356	PF0515	hypothetical protein
+1468358	PF0517	methanol dehydrogenase regulatory protein
+1468360	PF0519	hypothetical protein
+1468374	PF0533	indolepyruvate ferredoxin oxidoreductase subunit a
+1468376	tfx	transcriptional regulator
+1468378	PF0537	hypothetical protein
+1468381	PF0539	transposase
+1468383	PF0541	methionine aminopeptidase
+1468385	PF0543	molybdopterin converting factor subunit 1
+1468399	fabG	3-ketoacyl-ACP reductase
+1468401	PF0559	hydrogenase expression/formation regulatory protein
+1468403	PF0561	hypothetical protein
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1468408	PF0566	hypothetical protein
+1468410	PF0568	hypothetical protein
+1468737	PF0877	hypothetical protein
+1468740	PF0879	hypothetical protein
+1468742	PF0881	ABC transporter
+1468744	PF0883	hypothetical protein
+1468747	PF0885	hypothetical protein
+1468749	PF0887	hypothetical protein
+1468766	PF0902	hypothetical protein
+1468768	PF0904	N-glycosylase/DNA lyase
+1468770	PF0906	hypothetical protein
+1468772	PF0908	hypothetical protein
+1468774	PF0910	iron ABC transporter permease
+1468776	PF0912	hypothetical protein
+1468790	PF0926	hypothetical protein
+1468792	PF0928	hypothetical protein
+1468794	PF0930	hypothetical protein
+1468796	PF0932	hypothetical protein
+1468798	PF0934	hypothetical protein
+1468800	PF0936	ketol-acid reductoisomerase
+1468815	PF0951	hypothetical protein
+1468817	PF0953	hypothetical protein
+1468819	PF0955	hypothetical protein
+1468821	PF0957	hypothetical protein
+1468824	PF0959	hypothetical protein
+1468826	PF0961	hypothetical protein
+1469141	PF1268	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1469143	PF1270	hypothetical protein
+1469145	PF1272	LamB/YcsF family protein
+1469147	PF1274	urea amidolyase
+1469149	PF1276	hypothetical protein
+1469151	PF1278	hypothetical protein
+1469165	PF1292	hypothetical protein
+1469167	PF1294	hypothetical protein
+1469169	PF1296	dihydropteroate synthase
+1469171	PF1298	endonuclease
+1469173	PF1300	hypothetical protein
+1469175	PF1302	hypothetical protein
+1469190	PF1316	hypothetical protein
+1469192	PF1318	hypothetical protein
+1469194	PF1320	hypothetical protein
+1469197	PF1322	hypothetical protein
+1469199	PF1324	hypothetical protein
+1469201	PF1326	hypothetical protein
+1469215	PF1340	hypothetical protein
+1469217	PF1342	hypothetical protein
+1469219	PF1344	maleate cis-trans isomerase
+1469221	PF1346	pheromone shutdown protein
+1469223	PF1348	hypothetical protein
+1469225	PF1350	hypothetical protein
+1469530	PF1653	hypothetical protein
+1469532	PF1655	ABC transporter
+1469534	PF1657	histidyl-tRNA synthetase
+1469536	hisD	histidinol dehydrogenase
+1469538	hisH	imidazole glycerol phosphate synthase subunit HisH
+1469540	PF1663	imidazole glycerol phosphate synthase subunit HisF
+1469554	PF1677	hypothetical protein
+1469556	PF1679	3-isopropylmalate dehydratase large subunit
+1469558	PF1681	hypothetical protein
+1469560	argC	N-acetyl-gamma-glutamyl-phosphate reductase
+1469562	argD	acetylornithine/acetyl-lysine aminotransferase
+1469564	PF1687	hypothetical protein
+1469578	PF1701	chorismate mutase
+1469580	PF1703	prephenate dehydrogenase
+1469582	trpA	tryptophan synthase subunit alpha
+1469584	PF1707	N-(5'-phosphoribosyl)anthranilate isomerase
+1469586	PF1709	anthranilate synthase component I
+1469588	trpC	indole-3-glycerol phosphate synthase
+1469602	PF1725	DNA primase
+1469604	PF1727	hypothetical protein
+1469606	PF1729	phospho-sugar mutase
+1469608	PF1731	signal recognition particle protein Srp54
+1469610	PF1733	hypothetical protein
+1469612	PF1735	adenine phosphoribosyltransferase
+1469926	PF2041	hypothetical protein
+1469928	PF2043	hypothetical protein
+1469930	PF2045	hypothetical protein
+1469932	PF2047	l-asparaginase
+1469936	PF2049	hypothetical protein
+1469938	PF2051	transcription regulator ArsR
+1469954	PF2065	aminopeptidase
+1469842	PF1960	aldose reductase
+1469951	PF2062	hypothetical protein
+1468326	PF0485	cell division inhibitor minD - like protein
+1468323	PF0482	cell division control protein 21
+1468317	PF0476	competence damage-inducible protein A
+1468281	PF0440	ribonucleotide-diphosphate reductase subunit alpha
+1468248	PF0411	protein-export membrane protein
+1468237	PF0401	methyltransferase
+1467851	PF0023	hypothetical protein
+1468077	PF0243	DEXX-box atpase
+1468053	PF0221	hypothetical protein
+1467847	PF0019	DNA polymerase II large subunit
+1468044	PF0212	DNA-directed DNA polymerase
+1467846	PF0018	DNA polymerase II small subunit
+1469729	PF1850	damage-inducible protein DinF
+1469722	PF1843	chromosome segregation protein smc
+1469664	PF1785	H/ACA RNA-protein complex component Cbf5p
+1469617	PF1739	trehalose/maltose binding protein
+1469512	PF1635	ATP-dependent DNA ligase
+1469478	PF1602	glutamate dehydrogenase
+1469261	PF1385	DNA polymerase
+1469196	PF1321	DEXX-box atpase
+1469171	PF1298	endonuclease
+1467944	PF0115	proteasome-activating nucleotidase
+1469113	upp	uracil phosphoribosyltransferase
+1469101	PF1229	glycosylase
+1468121	PF0287	pyrolysin
+1468119	PF0285	inosine 5'-monophosphate dehydrogenase
+1468117	PF0283	acylphosphatase
+1468115	PF0281	hypothetical protein
+1468113	PF0279	ABC transporter
+1468111	PF0277	hypothetical protein
+1468097	PF0263	hypothetical protein
+1468095	PF0261	hypothetical protein
+1468093	PF0259	hypothetical protein
+1468091	PF0257	inorganic pyrophosphatase
+1468089	PF0255	DNA-directed RNA polymerase subunit E''
+1468087	rps24e	30S ribosomal protein S24
+1468073	PF0239	hypothetical protein
+1468071	PF0237	hypothetical protein
+1468069	PF0235	glucose-1-phosphate thymidylyltransferase
+1468067	PF0233	hypothetical protein
+1468065	PF0231	hypothetical protein
+1468063	PF0229	hypothetical protein
+1468047	eno	phosphopyruvate hydratase
+1468045	PF0213	hypothetical protein
+1468043	PF0211	hypothetical protein
+1468041	PF0209	ribosomal protein s6 modification protein
+1468039	PF0207	argininosuccinate synthase
+1468037	PF0205	glutamate synthase subunit alpha
+1468521	PF0675	hypothetical protein
+1468519	PF0673	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1468517	PF0671	methylmalonyl-coadecarboxylase subunit alpha
+1468514	PF0669	hypothetical protein
+1468512	PF0667	adenylosuccinate lyase
+1468510	PF0665	hypothetical protein
+1468495	PF0651	hypothetical protein
+1468493	PF0649	hypothetical protein
+1468491	PF0647	heme biosynthesis protein
+1468489	PF0645	hypothetical protein
+1468487	PF0643	hypothetical protein
+1468485	PF0641	hypothetical protein
+1468471	PF0627	hypothetical protein
+1468469	PF0625	hypothetical protein
+1468467	PF0623	hypothetical protein
+1468465	PF0621	hypothetical protein
+1468463	PF0619	hypothetical protein
+1468461	PF0617	hydrogenase maturation protease
+1468446	PF0603	hypothetical protein
+1468444	PF0601	phosphomethylpyrimidine kinase
+1468442	pyrB	aspartate carbamoyltransferase
+1468440	PF0597	IAA-amino acid hydrolase
+1468438	PF0595	diphthine synthase
+1468436	PF0593	hypothetical protein
+1468935	PF1069	30S ribosomal protein S8
+1468933	PF1067	hypothetical protein
+1468931	PF1065	hypothetical protein
+1468929	PF1063	hypothetical protein
+1468927	PF1061	sulfur carrier protein ThiS
+1468925	PF1059	hypothetical protein
+1468911	adk	adenylate kinase
+1468909	PF1043	hypothetical protein
+1468907	PF1041	ATPase
+1468905	PF1039	geranylgeranylglyceryl phosphate synthase
+1468903	PF1037	hypothetical protein
+1468901	PF1035	50S ribosomal protein L21
+1468886	PF1020	phosphate transport protein pitb
+1468884	PF1018	50S ribosomal protein L41
+1468882	PF1016	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+1468879	PF1014	hypothetical protein
+1468877	PF1012	ABC transporter
+1468875	PF1010	phosphate ABC transporter regulatory protein
+1468861	PF0996	hypothetical protein
+1468859	PF0994	type II secretion system protein
+1468857	PF0992	hypothetical protein
+1468855	pheT	phenylalanyl-tRNA synthetase subunit beta
+1468853	PF0988	hypothetical protein
+1468851	PF0986	DNA-directed RNA polymerase subunit M
+1469334	PF1458	sugar kinase
+1469332	PF1456	hypothetical protein
+1469330	PF1454	hypothetical protein
+1469328	PF1452	monovalent cation/H+ antiporter subunit F
+1469326	PF1450	hypothetical protein
+1469324	PF1448	monovalent cation/H+ antiporter subunit C
+1469310	PF1434	membrane bound hydrogenase alpha
+1469308	PF1432	mbh10 NADH dehydrogenase subunit
+1469306	PF1430	monovalent cation/H+ antiporter subunit D
+1469304	PF1428	monovalent cation/H+ antiporter subunit B
+1469302	PF1426	hypothetical protein
+1469300	PF1424	monovalent cation/H+ antiporter subunit F
+1469286	PF1410	dipeptide transport system permease
+1469284	PF1408	dipeptide-binding protein
+1469282	PF1406	threonine synthase
+1469280	PF1404	proteasome subunit beta (multicatalytic endopeptidase complex beta subunit)
+1469278	PF1402	hypothetical protein
+1469276	PF1400	hypothetical protein
+1469262	PF1386	hypothetical protein
+1469260	PF1384	hypothetical protein
+1469258	egsA	NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+1469256	argS	arginyl-tRNA synthetase
+1469254	PF1378	ribonuclease P protein component 2
+1469252	rps10p	30S ribosomal protein S10
+1469723	PF1844	hypothetical protein
+1469721	PF1842	hypothetical protein
+1469719	PF1840	hypothetical protein
+1469717	PF1838	hypothetical protein
+1469715	PF1836	hypothetical protein
+1469713	PF1834	hypothetical protein
+1469699	rpl22p	50S ribosomal protein L22
+1469697	rpmC	50S ribosomal protein L29
+1469695	PF1816	ribonuclease P protein component 1
+1469693	rpl14p	50S ribosomal protein L14
+1469691	PF1812	30S ribosomal protein S4
+1469689	rps14P	30S ribosomal protein S14
+1469675	PF1796	polyferredoxin
+1469673	PF1794	inosine-5'-monophosphate dehydrogenase
+1469671	PF1792	5'-cyclic-nucleotide phosphodiesterase
+1469669	PF1790	ArsR family transcriptional regulator
+1469667	PF1788	NDP-sugar dehydratase or epimerase
+1469665	PF1786	hypothetical protein
+1469651	PF1772	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1469649	PF1770	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1469647	PF1768	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1469645	PF1766	signal recognition particle receptor
+1469643	PF1764	metal-dependent hydrolase
+1469641	PF1762	hypothetical protein
+1469101	PF1229	glycosylase
+1469113	upp	uracil phosphoribosyltransferase
+1467944	PF0115	proteasome-activating nucleotidase
+1469171	PF1298	endonuclease
+1469196	PF1321	DEXX-box atpase
+1469261	PF1385	DNA polymerase
+1469478	PF1602	glutamate dehydrogenase
+1469512	PF1635	ATP-dependent DNA ligase
+1469617	PF1739	trehalose/maltose binding protein
+1469664	PF1785	H/ACA RNA-protein complex component Cbf5p
+1469722	PF1843	chromosome segregation protein smc
+1469729	PF1850	damage-inducible protein DinF
+1467846	PF0018	DNA polymerase II small subunit
+1468044	PF0212	DNA-directed DNA polymerase
+1467847	PF0019	DNA polymerase II large subunit
+1468053	PF0221	hypothetical protein
+1468077	PF0243	DEXX-box atpase
+1467851	PF0023	hypothetical protein
+1468237	PF0401	methyltransferase
+1468248	PF0411	protein-export membrane protein
+1468281	PF0440	ribonucleotide-diphosphate reductase subunit alpha
+1468317	PF0476	competence damage-inducible protein A
+1468323	PF0482	cell division control protein 21
+1468326	PF0485	cell division inhibitor minD - like protein
+1468037	PF0205	glutamate synthase subunit alpha
+1468039	PF0207	argininosuccinate synthase
+1468041	PF0209	ribosomal protein s6 modification protein
+1468043	PF0211	hypothetical protein
+1468045	PF0213	hypothetical protein
+1468047	eno	phosphopyruvate hydratase
+1468063	PF0229	hypothetical protein
+1468065	PF0231	hypothetical protein
+1468067	PF0233	hypothetical protein
+1468069	PF0235	glucose-1-phosphate thymidylyltransferase
+1468071	PF0237	hypothetical protein
+1468073	PF0239	hypothetical protein
+1468087	rps24e	30S ribosomal protein S24
+1468089	PF0255	DNA-directed RNA polymerase subunit E''
+1468091	PF0257	inorganic pyrophosphatase
+1468093	PF0259	hypothetical protein
+1468095	PF0261	hypothetical protein
+1468097	PF0263	hypothetical protein
+1468111	PF0277	hypothetical protein
+1468113	PF0279	ABC transporter
+1468115	PF0281	hypothetical protein
+1468117	PF0283	acylphosphatase
+1468119	PF0285	inosine 5'-monophosphate dehydrogenase
+1468121	PF0287	pyrolysin
+1468436	PF0593	hypothetical protein
+1468438	PF0595	diphthine synthase
+1468440	PF0597	IAA-amino acid hydrolase
+1468442	pyrB	aspartate carbamoyltransferase
+1468444	PF0601	phosphomethylpyrimidine kinase
+1468446	PF0603	hypothetical protein
+1468461	PF0617	hydrogenase maturation protease
+1468463	PF0619	hypothetical protein
+1468465	PF0621	hypothetical protein
+1468467	PF0623	hypothetical protein
+1468469	PF0625	hypothetical protein
+1468471	PF0627	hypothetical protein
+1468485	PF0641	hypothetical protein
+1468487	PF0643	hypothetical protein
+1468489	PF0645	hypothetical protein
+1468491	PF0647	heme biosynthesis protein
+1468493	PF0649	hypothetical protein
+1468495	PF0651	hypothetical protein
+1468510	PF0665	hypothetical protein
+1468512	PF0667	adenylosuccinate lyase
+1468514	PF0669	hypothetical protein
+1468517	PF0671	methylmalonyl-coadecarboxylase subunit alpha
+1468519	PF0673	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1468521	PF0675	hypothetical protein
+1468851	PF0986	DNA-directed RNA polymerase subunit M
+1468853	PF0988	hypothetical protein
+1468855	pheT	phenylalanyl-tRNA synthetase subunit beta
+1468857	PF0992	hypothetical protein
+1468859	PF0994	type II secretion system protein
+1468861	PF0996	hypothetical protein
+1468875	PF1010	phosphate ABC transporter regulatory protein
+1468877	PF1012	ABC transporter
+1468879	PF1014	hypothetical protein
+1468882	PF1016	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+1468884	PF1018	50S ribosomal protein L41
+1468886	PF1020	phosphate transport protein pitb
+1468901	PF1035	50S ribosomal protein L21
+1468903	PF1037	hypothetical protein
+1468905	PF1039	geranylgeranylglyceryl phosphate synthase
+1468907	PF1041	ATPase
+1468909	PF1043	hypothetical protein
+1468911	adk	adenylate kinase
+1468925	PF1059	hypothetical protein
+1468927	PF1061	sulfur carrier protein ThiS
+1468929	PF1063	hypothetical protein
+1468931	PF1065	hypothetical protein
+1468933	PF1067	hypothetical protein
+1468935	PF1069	30S ribosomal protein S8
+1469252	rps10p	30S ribosomal protein S10
+1469254	PF1378	ribonuclease P protein component 2
+1469256	argS	arginyl-tRNA synthetase
+1469258	egsA	NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+1469260	PF1384	hypothetical protein
+1469262	PF1386	hypothetical protein
+1469276	PF1400	hypothetical protein
+1469278	PF1402	hypothetical protein
+1469280	PF1404	proteasome subunit beta (multicatalytic endopeptidase complex beta subunit)
+1469282	PF1406	threonine synthase
+1469284	PF1408	dipeptide-binding protein
+1469286	PF1410	dipeptide transport system permease
+1469300	PF1424	monovalent cation/H+ antiporter subunit F
+1469302	PF1426	hypothetical protein
+1469304	PF1428	monovalent cation/H+ antiporter subunit B
+1469306	PF1430	monovalent cation/H+ antiporter subunit D
+1469308	PF1432	mbh10 NADH dehydrogenase subunit
+1469310	PF1434	membrane bound hydrogenase alpha
+1469324	PF1448	monovalent cation/H+ antiporter subunit C
+1469326	PF1450	hypothetical protein
+1469328	PF1452	monovalent cation/H+ antiporter subunit F
+1469330	PF1454	hypothetical protein
+1469332	PF1456	hypothetical protein
+1469334	PF1458	sugar kinase
+1469641	PF1762	hypothetical protein
+1469643	PF1764	metal-dependent hydrolase
+1469645	PF1766	signal recognition particle receptor
+1469647	PF1768	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1469649	PF1770	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1469651	PF1772	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1469665	PF1786	hypothetical protein
+1469667	PF1788	NDP-sugar dehydratase or epimerase
+1469669	PF1790	ArsR family transcriptional regulator
+1469671	PF1792	5'-cyclic-nucleotide phosphodiesterase
+1469673	PF1794	inosine-5'-monophosphate dehydrogenase
+1469675	PF1796	polyferredoxin
+1469689	rps14P	30S ribosomal protein S14
+1469691	PF1812	30S ribosomal protein S4
+1469693	rpl14p	50S ribosomal protein L14
+1469695	PF1816	ribonuclease P protein component 1
+1469697	rpmC	50S ribosomal protein L29
+1469699	rpl22p	50S ribosomal protein L22
+1469713	PF1834	hypothetical protein
+1469715	PF1836	hypothetical protein
+1469717	PF1838	hypothetical protein
+1469719	PF1840	hypothetical protein
+1469721	PF1842	hypothetical protein
+1469723	PF1844	hypothetical protein
+1468012	PF0180	V-type ATP synthase subunit C
+1468010	PF0178	V-type ATP synthase subunit K
+1468008	PF0176	V-type ATP synthase subunit H
+1468006	secD	preprotein translocase subunit SecD
+1468004	PF0172	DNA-binding/iron metalloprotein/AP endonuclease
+1468002	PF0170	hypothetical protein
+1467988	PF0156	oligosaccharyl transferase stt3 subunit related protein
+1467986	PF0154	amidophosphoribosyltransferase
+1467984	PF0152	hypothetical protein
+1467982	PF0150	hypothetical protein
+1467980	PF0148	hypothetical protein
+1467978	PF0146	potassium channel
+1467964	PF0132	hypothetical protein
+1467959	PF0130	hypothetical protein
+1467957	PF0128	hypothetical protein
+1467955	PF0126	DNA repair protein rad25
+1467953	PF0124	hypothetical protein
+1467951	PF0122	translation initiation factor IF-2
+1467937	PF0108	L-fuculose phosphate aldolase
+1467935	PF0106	hypothetical protein
+1467933	PF0104	hypothetical protein
+1467931	PF0102	hypothetical protein
+1467929	PF0100	molybdopterin converting factor subunit 2
+1467927	nadE	NAD synthetase
+1468410	PF0568	hypothetical protein
+1468408	PF0566	hypothetical protein
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1468403	PF0561	hypothetical protein
+1468401	PF0559	hydrogenase expression/formation regulatory protein
+1468399	fabG	3-ketoacyl-ACP reductase
+1468385	PF0543	molybdopterin converting factor subunit 1
+1468383	PF0541	methionine aminopeptidase
+1468381	PF0539	transposase
+1468378	PF0537	hypothetical protein
+1468376	tfx	transcriptional regulator
+1468374	PF0533	indolepyruvate ferredoxin oxidoreductase subunit a
+1468360	PF0519	hypothetical protein
+1468358	PF0517	methanol dehydrogenase regulatory protein
+1468356	PF0515	hypothetical protein
+1468354	PF0513	4-aminobutyrate aminotransferase
+1468352	PF0511	3-methyladenine DNA glycosylase
+1468350	PF0509	integral membrane glycosyltransferase
+1468336	PF0495	reverse gyrase
+1468334	PF0493	hypothetical protein
+1468332	PF0491	transcription initiation factor E subunit alpha
+1468330	PF0489	hypothetical protein
+1468328	PF0487	autolysin-like protein
+1468326	PF0485	cell division inhibitor minD - like protein
+1468826	PF0961	hypothetical protein
+1468824	PF0959	hypothetical protein
+1468821	PF0957	hypothetical protein
+1468819	PF0955	hypothetical protein
+1468817	PF0953	hypothetical protein
+1468815	PF0951	hypothetical protein
+1468800	PF0936	ketol-acid reductoisomerase
+1468798	PF0934	hypothetical protein
+1468796	PF0932	hypothetical protein
+1468794	PF0930	hypothetical protein
+1468792	PF0928	hypothetical protein
+1468790	PF0926	hypothetical protein
+1468776	PF0912	hypothetical protein
+1468774	PF0910	iron ABC transporter permease
+1468772	PF0908	hypothetical protein
+1468770	PF0906	hypothetical protein
+1468768	PF0904	N-glycosylase/DNA lyase
+1468766	PF0902	hypothetical protein
+1468749	PF0887	hypothetical protein
+1468747	PF0885	hypothetical protein
+1468744	PF0883	hypothetical protein
+1468742	PF0881	ABC transporter
+1468740	PF0879	hypothetical protein
+1468737	PF0877	hypothetical protein
+1469225	PF1350	hypothetical protein
+1469223	PF1348	hypothetical protein
+1469221	PF1346	pheromone shutdown protein
+1469219	PF1344	maleate cis-trans isomerase
+1469217	PF1342	hypothetical protein
+1469215	PF1340	hypothetical protein
+1469201	PF1326	hypothetical protein
+1469199	PF1324	hypothetical protein
+1469197	PF1322	hypothetical protein
+1469194	PF1320	hypothetical protein
+1469192	PF1318	hypothetical protein
+1469190	PF1316	hypothetical protein
+1469175	PF1302	hypothetical protein
+1469173	PF1300	hypothetical protein
+1469171	PF1298	endonuclease
+1469169	PF1296	dihydropteroate synthase
+1469167	PF1294	hypothetical protein
+1469165	PF1292	hypothetical protein
+1469151	PF1278	hypothetical protein
+1469149	PF1276	hypothetical protein
+1469147	PF1274	urea amidolyase
+1469145	PF1272	LamB/YcsF family protein
+1469143	PF1270	hypothetical protein
+1469141	PF1268	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1469612	PF1735	adenine phosphoribosyltransferase
+1469610	PF1733	hypothetical protein
+1469608	PF1731	signal recognition particle protein Srp54
+1469606	PF1729	phospho-sugar mutase
+1469604	PF1727	hypothetical protein
+1469602	PF1725	DNA primase
+1469588	trpC	indole-3-glycerol phosphate synthase
+1469586	PF1709	anthranilate synthase component I
+1469584	PF1707	N-(5'-phosphoribosyl)anthranilate isomerase
+1469582	trpA	tryptophan synthase subunit alpha
+1469580	PF1703	prephenate dehydrogenase
+1469578	PF1701	chorismate mutase
+1469564	PF1687	hypothetical protein
+1469562	argD	acetylornithine/acetyl-lysine aminotransferase
+1469560	argC	N-acetyl-gamma-glutamyl-phosphate reductase
+1469558	PF1681	hypothetical protein
+1469556	PF1679	3-isopropylmalate dehydratase large subunit
+1469554	PF1677	hypothetical protein
+1469540	PF1663	imidazole glycerol phosphate synthase subunit HisF
+1469538	hisH	imidazole glycerol phosphate synthase subunit HisH
+1469536	hisD	histidinol dehydrogenase
+1469534	PF1657	histidyl-tRNA synthetase
+1469532	PF1655	ABC transporter
+1469530	PF1653	hypothetical protein
+1469954	PF2065	aminopeptidase
+1469938	PF2051	transcription regulator ArsR
+1469936	PF2049	hypothetical protein
+1469932	PF2047	l-asparaginase
+1469930	PF2045	hypothetical protein
+1469928	PF2043	hypothetical protein
+1469926	PF2041	hypothetical protein
+1469951	PF2062	hypothetical protein
+1469842	PF1960	aldose reductase
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1467882	PF0053	ATP dependent RNA helicase
+1468427	PF0585	DEXX-box atpase
+1467883	PF0054	AsnC family transcriptional regulator
+1468479	PF0635	DEXX-box atpase
+1467888	PF0059	fibrillarin
+1467836	PF0008	hit family protein
+1468797	PF0933	DNA repair helicase rad3
+1468848	PF0983	DNA polymerase sliding clamp
+1467921	PF0092	replication factor C large subunit
+1468478	PF0634	DEXX-box atpase
+1468103	PF0269	hypothetical protein
+1468136	PF0301	cobyric acid synthase
+1468138	PF0303	hypothetical protein
+1468140	PF0305	hypothetical protein
+1468142	PF0307	glycosyltransferase
+1468144	PF0309	ABC transporter
+1468146	PF0311	hypothetical protein
+1468160	PF0325	hypothetical protein
+1468162	PF0327	hypothetical protein
+1468164	PF0329	hypothetical protein
+1468166	PF0331	type II secretion system protein
+1468168	PF0333	flagella-related protein g
+1468170	PF0335	flagella-related protein D
+1468184	PF0349	hypothetical protein
+1468186	PF0351	hypothetical protein
+1468188	PF0353	hypothetical protein
+1468190	PF0355	hypothetical protein
+1468193	PF0357	dipeptide-binding protein
+1468195	PF0359	oligopeptide ABC transporter permease
+1468209	PF0373	ABC transporter periplasmic binding protein
+1468211	PF0375	prefoldin subunit alpha
+1468213	PF0377	translation initiation factor IF-6
+1468215	rpl39e	50S ribosomal protein L39
+1468217	PF0381	hypothetical protein
+1468219	PF0383	hypothetical protein
+1468538	PF0690	hypothetical protein
+1468540	PF0692	hydroxylamine reductase
+1468542	PF0694	flavoprotein
+1468544	PF0696	carbohydrate-binding protein
+1468546	PF0698	hypothetical protein
+1468548	PF0700	x-pro dipeptidase, N-terminal fragment
+1468563	PF0714	hypothetical protein
+1468565	PF0716	3-hydroxyisobutyrate dehydrogenase
+1468567	PF0718	hypothetical protein
+1468569	PF0720	hypothetical protein
+1468571	PF0722	alkyl hydroperoxide reductase
+1468573	PF0724	hypothetical protein
+1468590	PF0738	ubiquinone/menaquinone biosynthesis methyltransferase
+1468593	PF0740	heavy-metal transporting cpx-type atpase
+1468595	PF0742	ferritin
+1468597	PF0744	ABC transporter
+1468599	PF0746	hypothetical protein
+1468601	PF0748	hypothetical protein
+1468616	PF0763	hypothetical protein
+1468618	PF0765	NDP-sugar dehydrogenase
+1468620	PF0767	pleiotropic regulatory protein degT
+1468622	PF0769	glycosyl transferase family protein
+1468624	PF0771	NDP-sugar dehydrogenase
+1468626	PF0773	hypothetical protein
+1468949	PF1083	hypothetical protein
+1468951	PF1085	hypothetical protein
+1468954	PF1087	hypothetical protein
+1468956	PF1089	hypothetical protein
+1468958	PF1091	hypothetical protein
+1468960	PF1093	hypothetical protein
+1468975	PF1107	hit family protein
+1468977	PF1109	hypothetical protein
+1468979	PF1111	hypothetical protein
+1468982	PF1113	hypothetical protein
+1468984	PF1115	RNA-binding protein
+1468986	PF1117	hypothetical protein
+1469000	PF1131	hypothetical protein
+1469002	PF1133	hypothetical protein
+1469004	PF1135	heat shock protein HtpX
+1469006	PF1137	translation initiation factor IF-2
+1469008	PF1139	pseudouridylate synthase
+1469010	PF1141	H/ACA RNA-protein complex component Nop10p
+1469024	PF1155	hypothetical protein
+1469026	PF1157	hypothetical protein
+1469028	PF1159	L-tyrosine decarboxylase
+1469030	PF1161	hypothetical protein
+1469032	PF1163	hypothetical protein
+1469034	PF1165	hypothetical protein
+1469348	PF1472	aspartate/serine transaminase
+1469350	PF1474	hypothetical protein
+1469352	PF1476	hypothetical protein
+1469354	PF1478	hypothetical protein
+1469356	PF1480	formaldehyde:ferredoxin oxidoreductase wor5
+1469358	PF1482	hypothetical protein
+1469372	PF1496	hypothetical protein
+1469374	PF1498	hypothetical protein
+1469376	PF1500	hypothetical protein
+1469378	PF1502	hypothetical protein
+1469380	PF1504	large helicase-like protein
+1469382	PF1506	hypothetical protein
+1469396	PF1520	ABC transporter
+1469398	PF1522	ABC transporter
+1469400	PF1524	hypothetical protein
+1469402	PF1526	hypothetical protein
+1469404	PF1528	glutamine amidotransferase subunit PdxT
+1469406	PF1530	ribulose-1,5-biphosphate synthetase
+1469420	PF1544	hypothetical protein
+1469422	PF1546	hypothetical protein
+1469424	PF1548	hypothetical protein
+1469426	PF1550	hypothetical protein
+1469428	PF1552	hypothetical protein
+1469430	PF1554	hypothetical protein
+1469737	PF1858	cysteine synthase
+1469739	PF1860	archaemetzincin-like protein
+1469741	PF1862	DNA-binding protein
+1469744	PF1865	regulatory protein
+1469746	PF1867	hypothetical protein
+1469748	PF1869	hypothetical protein
+1469762	PF1883	small heat shock protein
+1469764	PF1885	glycosyl transferase family protein
+1469766	PF1887	hypothetical protein
+1469768	PF1889	daunorubicin resistance ATP-binding protein drrA
+1469770	PF1891	hypothetical protein
+1469772	PF1893	AsnC family transcriptional regulator
+1469787	PF1907	hypothetical protein
+1469789	PF1909	ferredoxin
+1469791	PF1911	ferredoxin-NADP reductase
+1469793	PF1913	hypothetical protein
+1469795	PF1915	hypothetical protein
+1469797	PF1917	dehydrogenase
+1469811	PF1931	hypothetical protein
+1469813	PF1933	sugar transport ATP-hydrolyzing
+1469815	PF1935	amylopullulanase
+1469817	PF1937	malf-like sugar transport inner membrane protein
+1469819	PF1939	neopullulanase (alpha-amylase II)
+1469823	PF1941	dihydropteroate synthase
+1467913	PF0084	hypothetical protein
+1467911	PF0082	hypothetical protein
+1467909	PF0080	molybdate ABC transporter periplasmic substrate-binding protein
+1467907	PF0078	2-phosphoglycerate kinase
+1467905	PF0076	endo-beta-1,3-glucanase
+1467903	PF0074	alcohol dehydrogenase
+1467889	PF0060	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+1467887	PF0058	dolichol monophosphate mannose synthase
+1467885	PF0056	carbohydrate binding protein
+1467883	PF0054	AsnC family transcriptional regulator
+1467881	PF0052	exosome complex RNA-binding protein Csl4
+1467879	PF0050	DNA-directed RNA polymerase subunit L
+1467865	PF0036	daunorubicin resistance membrane protein
+1467863	PF0034	hypothetical protein
+1467861	PF0032	permease
+1467859	PF0030	hypothetical protein
+1467857	PF0028	acetyl transferase
+1467855	PF0026	tRNA CCA-pyrophosphorylase
+1467840	PF0012	hypothetical protein
+1467838	PF0010	1-aminocyclopropane-1-carboxylate deaminase
+1467836	PF0008	hit family protein
+1467834	PF0006	ABC transporter
+1467832	PF0004	hypothetical protein
+1467830	PF0002	hypothetical protein
+1468312	PF0471	hypothetical protein
+1468310	PF0469	hypothetical protein
+1468308	PF0467	ATP-dependent protease LA
+1468306	PF0465	glycosyl transferase
+1468304	PF0463	hydrolase related to 2-haloalkanoic acid dehalogenase
+1468302	PF0461	tRNA 2'-O-methylase
+1468287	PF0446	NDP-sugar synthase
+1468285	PF0444	hydrolase
+1468283	PF0442	beta-glucosidase
+1468281	PF0440	ribonucleotide-diphosphate reductase subunit alpha
+1468278	PF0438	hypothetical protein
+1468275	PF0436	hypothetical protein
+1468259	PF0422	phosphoribosylamine--glycine ligase
+1468257	PF0420	hypothetical protein
+1468255	PF0418	methanol dehydrogenase regulatory protein
+1468253	PF0416	hypothetical protein
+1468251	PF0414	hypothetical protein
+1468249	PF0412	hypothetical protein
+1468233	PF0397	GTP-binding protein
+1468231	PF0395	oxetanocin-like protein
+1468229	PF0393	hypothetical protein
+1468227	PF0391	hypothetical protein
+1468224	PF0388	hypothetical protein
+1468222	PF0386	hypothetical protein
+1468723	PF0863	hypothetical protein
+1468720	glmM	phosphoglucosamine mutase
+1468718	PF0859	hypothetical protein
+1468716	PF0857	ferrous iron transport protein B
+1468713	PF0855	hypothetical protein
+1468711	PF0853	5'-methylthioadenosine phosphorylase
+1468695	PF0839	hypothetical protein
+1468693	PF0837	cobalamin (5'-phosphate) synthase, c-terminal fragment
+1468691	PF0835	daunorubicin resistance ATP-binding protein drrA
+1468689	PF0833	low temperature requirement C - like protein
+1468687	PF0831	hypothetical protein
+1468685	PF0829	hypothetical protein
+1468670	PF0814	hypothetical protein
+1468668	PF0812	hypothetical protein
+1468666	PF0810	hypothetical protein
+1468664	PF0808	hypothetical protein
+1468662	PF0806	hypothetical protein
+1468660	PF0804	methanol dehydrogenase regulator
+1468644	PF0788	glycosyl transferase family protein
+1468640	PF0786	transposase
+1468637	PF0783	hypothetical protein
+1468635	PF0781	hypothetical protein
+1468632	PF0778	hypothetical protein
+1468629	PF0776	hypothetical protein
+1469127	PF1254	sodium dependent transporter
+1469125	PF1252	hypothetical protein
+1469123	PF1250	hypothetical protein
+1469119	PF1247	hypothetical protein
+1469117	PF1245	d-nopaline dehydrogenase
+1469115	PF1243	hypothetical protein
+1469101	PF1229	glycosylase
+1469097	PF1225	hypothetical protein
+1469095	PF1223	hypothetical protein
+1469093	PF1221	dissimilatory sulfate adenylyltransferase
+1469090	PF1219	hypothetical protein
+1469088	PF1217	hypothetical protein
+1469073	PF1203	formaldehyde:ferredoxin oxidoreductase
+1469071	PF1201	hypothetical protein
+1469068	PF1198	sugar fermentation stimulation protein A
+1469066	PF1196	hypothetical protein
+1469064	PF1194	FUR family transcriptional regulator
+1469062	PF1192	hypothetical protein
+1469047	PF1178	Na-dependent transporter
+1469045	PF1176	hypothetical protein
+1469043	PF1174	hypothetical protein
+1469041	PF1172	RNA methyltransferase
+1469039	PF1170	hypothetical protein
+1469037	PF1168	hypothetical protein
+1469516	PF1639	threonine synthase
+1469514	PF1637	mevalonate kinase
+1469512	PF1635	ATP-dependent DNA ligase
+1469510	PF1633	hypothetical protein
+1469508	PF1631	NDP-sugar dehydrogenase
+1469506	PF1629	hypothetical protein
+1469492	PF1615	hypothetical protein
+1469490	PF1613	ribonuclease P protein component 4
+1469487	PF1611	cell division inhibitor minD
+1469485	PF1609	hypothetical protein
+1469483	PF1607	thymidine phosphorylase
+1469481	PF1605	hypothetical protein
+1469467	PF1591	dipeptide transport protein
+1469465	PF1589	hypothetical protein
+1469463	PF1587	hypothetical protein
+1469461	PF1585	hypothetical protein
+1469459	PF1583	endopeptidase IV
+1469457	PF1581	rio1 protein
+1469443	PF1567	exosome complex RNA-binding protein Rrp42
+1469441	rpoH	DNA-directed RNA polymerase subunit H
+1469439	PF1563	DNA-directed RNA polymerase subunit A'
+1469437	PF1561	50S ribosomal protein L30
+1469435	rps12P	30S ribosomal protein S12
+1469433	PF1557	hypothetical protein
+1469911	PF2026	polyferredoxin
+1469909	PF2024	transposase
+1469907	PF2022	hypothetical protein
+1469905	PF2020	replication factor A
+1469903	PF2018	hypothetical protein
+1469901	PF2016	preprotein translocase subunit SecG
+1469887	PF2002	sucrose transport protein
+1469884	PF2000	glycine dehydrogenase subunit 2
+1469882	PF1998	hypothetical protein
+1469880	dcd	deoxycytidine triphosphate deaminase
+1469878	rpl12p	50S ribosomal protein L12
+1469876	rpl1P	50S ribosomal protein L1
+1469860	PF1978	nicotinate-nucleotide pyrophosphorylase
+1469858	PF1976	L-aspartate oxidase
+1469856	PF1974	thermosome, single subunit
+1469854	PF1972	hypothetical protein
+1469852	PF1970	multiple sugar-binding transport ATP-binding protein
+1469850	PF1968	sugar transport membrane protein
+1469836	PF1954	molybdopterin-guanine dinucleotide biosynthesis protein MobB/FeS domain-containing protein
+1469834	PF1952	hypothetical protein
+1469832	PF1950	xanthine-guanine phosphoribosyltransferase
+1469830	PF1948	hypothetical protein
+1469828	PF1946	methylmalonyl-CoAmutase subunit alpha
+1469826	PF1944	hypothetical protein
+1469450	PF1574	hypothetical protein
+1469334	PF1458	sugar kinase
+1469317	PF1441	NADH dehydrogenase subunit I
+1469286	PF1410	dipeptide transport system permease
+1468880	PF1015	transposase b - like protein
+1468687	PF0831	hypothetical protein
+1468331	PF0490	hypothetical protein
+1468307	PF0466	hypothetical protein
+1468295	PF0454	bacteriochlorophyll synthase, 43 kDa subunit
+1468274	PF0435	DEXX-box atpase
+1468264	PF0427	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1468247	PF0410	hypothetical protein
+1469104	PF1232	4-aminobutyrate aminotransferase
+1469130	PF1257	nol1-nop2-sun family nucleolar protein III
+1469138	PF1265	nol1-nop2-sun family nucleolar protein II
+1469187	PF1313	DNA processing SMF protein
+1467952	PF0123	hypothetical protein
+1467953	PF0124	hypothetical protein
+1469487	PF1611	cell division inhibitor minD
+1469549	PF1672	hypothetical protein
+1469660	rnhB	ribonuclease HII
+1469670	PF1791	H/ACA RNA-protein complex component Gar1
+1469728	PF1849	cell division inhibitor minD
+1469747	PF1868	integrase-recombinase protein
+1468022	PF0190	hypothetical protein
+1468043	PF0211	hypothetical protein
+1468048	maf	Maf-like protein
+1467849	radB	DNA repair and recombination protein RadB
+1468083	PF0249	deoxyribonucleotide triphosphate pyrophosphatase
+1468092	PF0258	endonuclease IV
+1468246	PF0409	hypothetical protein
+1468274	PF0435	DEXX-box atpase
+1468315	PF0474	DNA mismatch repair protein
+1467872	PF0043	phosphoenolpyruvate synthase
+1468324	PF0483	hypothetical protein
+1468335	PF0494	DNA topoisomerase I
+1468038	PF0206	hypothetical protein
+1468040	PF0208	argininosuccinate lyase
+1468042	PF0210	oxidative cyclase
+1468044	PF0212	DNA-directed DNA polymerase
+1468046	PF0214	n-type ATP pyrophosphatase
+1468048	maf	Maf-like protein
+1468064	PF0230	ArsR family transcriptional regulator
+1468066	PF0232	ArsR family transcriptional regulator
+1468068	PF0234	hypothetical protein
+1468070	PF0236	ribose-phosphate pyrophosphokinase
+1468072	PF0238	hypothetical protein
+1468074	PF0240	hypothetical protein
+1468088	PF0254	hypothetical protein
+1468090	PF0256	DNA-directed RNA polymerase subunit E'
+1468092	PF0258	endonuclease IV
+1468094	PF0260	hypothetical protein
+1468096	PF0262	MFS family transporter
+1468098	hisS	histidyl-tRNA synthetase
+1468112	PF0278	hypothetical protein
+1468114	PF0280	hypothetical protein
+1468116	PF0282	hypothetical protein
+1468118	PF0284	hypothetical protein
+1468120	PF0286	hypothetical protein
+1468122	PF0288	hypothetical protein
+1468437	PF0594	ornithine carbamoyltransferase
+1468439	PF0596	mRNA 3'-end processing factor
+1468441	PF0598	aspartate carbamoyltransferase
+1468443	PF0600	hypothetical protein
+1468445	PF0602	hypothetical protein
+1468447	PF0604	hydrogenase expression/formation protein
+1468462	mobA	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1468464	PF0620	hypothetical protein
+1468466	PF0622	hypothetical protein
+1468468	PF0624	hypothetical protein
+1468470	PF0626	hypothetical protein
+1468472	PF0628	hypothetical protein
+1468486	PF0642	hypothetical protein
+1468488	PF0644	hypothetical protein
+1468490	PF0646	hypothetical protein
+1468492	PF0648	hypothetical protein
+1468494	PF0650	hypothetical protein
+1468496	PF0652	DEXX-box atpase
+1468511	PF0666	nol1-nop2-sun family nucleolar protein IV
+1468513	PF0668	hypothetical protein
+1468515	PF0670	ATPase RIL
+1468518	PF0672	hypothetical protein
+1468520	PF0674	ion gradient-generating decarboxylase subunit beta
+1468522	PF0676	carbamate kinase-like carbamoyl phosphate synthetase
+1468852	PF0987	hypothetical protein
+1468854	pheS	phenylalanyl-tRNA synthetase subunit alpha
+1468856	tdh	L-threonine 3-dehydrogenase
+1468858	PF0993	hypothetical protein
+1468860	PF0995	hypothetical protein
+1468862	PF0997	hypothetical protein
+1468876	PF1011	daunorubicin resistance ATP-binding protein drrA
+1468878	PF1013	hypothetical protein
+1468880	PF1015	transposase b - like protein
+1468883	PF1017	hypothetical protein
+1468885	PF1019	hypothetical protein
+1468887	PF1021	hypothetical protein
+1468902	PF1036	hypothetical protein
+1468904	PF1038	hypothetical protein
+1468906	PF1040	hypothetical protein
+1468908	PF1042	hypothetical protein
+1468910	PF1044	hypothetical protein
+1468912	PF1046	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+1468926	PF1060	hypothetical protein
+1468928	PF1062	hypothetical protein
+1468930	PF1064	hypothetical protein
+1468932	PF1066	aminotransferase
+1468934	PF1068	hypothetical protein
+1468936	PF1070	hypothetical protein
+1469253	tfb	transcription initiation factor IIB
+1469255	PF1379	cell division protein pelota
+1469257	PF1381	hypothetical protein
+1469259	PF1383	hypothetical protein
+1469261	PF1385	DNA polymerase
+1469263	PF1387	hypothetical protein
+1469277	PF1401	peptidyl-prolyl cis-trans isomerase
+1469279	PF1403	hypothetical protein
+1469281	PF1405	cleavage and polyadenylation specifity factor protein
+1469283	pyrH	uridylate kinase
+1469285	PF1409	dipeptide transport system permease
+1469287	PF1411	dipeptide transport ATP-binding protein
+1469301	PF1425	monovalent cation/H+ antiporter subunit G
+1469303	PF1427	hypothetical protein
+1469305	PF1429	monovalent cation/H+ antiporter subunit C
+1469307	PF1431	hypothetical protein
+1469309	PF1433	membrane bound hydrogenase beta
+1469311	PF1435	mbh13 NADH dehydrogenase subunit
+1469325	PF1449	monovalent cation/H+ antiporter subunit B
+1469327	PF1451	monovalent cation/H+ antiporter subunit G
+1469329	PF1453	monovalent cation/H+ antiporter subunit E
+1469331	PF1455	hypothetical protein
+1469333	PF1457	glutaredoxin/thioredoxin-like protein
+1469335	PF1459	hypothetical protein
+1469642	PF1763	gtp1/obg family GTP-binding protein
+1469644	PF1765	hypothetical protein
+1469646	PF1767	2-keto acid:ferredoxin oxidoreductase subunit delta
+1469648	PF1769	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1469650	PF1771	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1469652	PF1773	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1469666	PF1787	acetyl-CoA synthetase
+1469668	PF1789	hydrolase related to 2-haloalkanoic acid dehalogenase
+1469670	PF1791	H/ACA RNA-protein complex component Gar1
+1469672	PF1793	hypothetical protein
+1469674	PF1795	sarcosine oxidase subunit alpha
+1469676	PF1797	d-nopaline dehydrogenase
+1469690	rpl5p	50S ribosomal protein L5
+1469692	rpl24p	50S ribosomal protein L24
+1469694	rps17p	30S ribosomal protein S17
+1469696	PF1817	translation initiation factor Sui1
+1469698	rps3p	30S ribosomal protein S3
+1469700	rps19p	30S ribosomal protein S19
+1469714	PF1835	hypothetical protein
+1469716	PF1837	hypothetical protein
+1469718	pyrG	CTP synthase
+1469720	PF1841	hypothetical protein
+1469722	PF1843	chromosome segregation protein smc
+1469724	PF1845	murein hydrolase
+1468011	PF0179	V-type ATP synthase subunit E
+1468009	PF0177	V-type ATP synthase subunit I
+1468007	PF0175	trk system potassium uptake - like protein
+1468005	PF0173	preprotein translocase subunit SecF
+1468003	PF0171	hypothetical protein
+1468001	PF0169	nol1-nop2-sun family nucleolar protein III
+1467987	asnC	asparaginyl-tRNA synthetase
+1467985	PF0153	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1467983	PF0151	hypothetical protein
+1467981	PF0149	short chain dehydrogenase
+1467979	PF0147	potassium channel-like protein
+1467977	PF0145	hypothetical protein
+1467960	PF0131	hypothetical protein
+1467958	PF0129	hypothetical protein
+1467956	speE	spermidine synthase
+1467954	PF0125	hypothetical protein
+1467952	PF0123	hypothetical protein
+1467950	PF0121	aspartate aminotransferase
+1467936	PF0107	hypothetical protein
+1467934	PF0105	hypothetical protein
+1467932	PF0103	hypothetical protein
+1467930	PF0101	hypothetical protein
+1467928	PF0099	hypothetical protein
+1467926	PF0097	43 kDa subunit bacteriochlorophyll synthase-like protein
+1468409	PF0567	hypothetical protein
+1468407	PF0565	hypothetical protein
+1468405	PF0563	hypothetical protein
+1468402	PF0560	hypothetical protein
+1468400	PF0558	cation efflux system protein
+1468398	PF0556	hypothetical protein
+1468384	PF0542	molybdenum cofactor biosynthesis protein
+1468382	thyX	FAD-dependent thymidylate synthase
+1468379	PF0538	hypothetical protein
+1468377	PF0536	transposase
+1468375	PF0534	indolepyruvate oxidoreductase subunit beta
+1468373	PF0532	hypothetical protein
+1468359	PF0518	hypothetical protein
+1468357	PF0516	hypothetical protein
+1468355	PF0514	d-alanine glycine permease
+1468353	PF0512	transcription factor
+1468351	PF0510	nucleotide pyrophosphohydrolase
+1468349	PF0508	integral membrane glycosyltransferase
+1468335	PF0494	DNA topoisomerase I
+1468333	PF0492	hypothetical protein
+1468331	PF0490	hypothetical protein
+1468329	PF0488	30S ribosomal protein S6
+1468327	PF0486	hypothetical protein
+1468325	PF0484	GTPase
+1468825	PF0960	hypothetical protein
+1468822	PF0958	hypothetical protein
+1468820	PF0956	hypothetical protein
+1468818	PF0954	hypothetical protein
+1468816	PF0952	hypothetical protein
+1468814	PF0950	hypothetical protein
+1468799	PF0935	acetolactate synthase
+1468797	PF0933	DNA repair helicase rad3
+1468795	ndk	nucleoside diphosphate kinase
+1468793	PF0929	hypothetical protein
+1468791	PF0927	hypothetical protein
+1468789	PF0925	heme biosynthesis protein
+1468775	PF0911	iron (III) ABC transporter
+1468773	PF0909	ferric enterobactin transport ATP-binding protein
+1468771	PF0907	hypothetical protein
+1468769	PF0905	ABC transporter
+1468767	PF0903	hypothetical protein
+1468765	PF0901	hypothetical protein
+1468748	PF0886	hypothetical protein
+1468745	PF0884	hypothetical protein
+1468743	PF0882	hypothetical protein
+1468741	PF0880	DEXX-box atpase
+1468739	PF0878	hypothetical protein
+1468736	PF0876	50S ribosomal protein L15
+1469224	PF1349	translation initiation factor IF-2
+1469222	PF1347	hypothetical protein
+1469220	PF1345	ribonuclease Z
+1469218	PF1343	Xaa-Pro dipeptidase
+1469216	gcvT	glycine cleavage system aminomethyltransferase T
+1469214	PF1339	hypothetical protein
+1469200	PF1325	hypothetical protein
+1469198	PF1323	hypothetical protein
+1469196	PF1321	DEXX-box atpase
+1469193	PF1319	hypothetical protein
+1469191	PF1317	hypothetical protein
+1469189	PF1315	hypothetical protein
+1469174	PF1301	hypothetical protein
+1469172	PF1299	pyrrolidone-carboxylate peptidase
+1469170	PF1297	hypothetical protein
+1469168	PF1295	transcription factor
+1469166	PF1293	prolyl-tRNA synthetase
+1469164	PF1291	hypothetical protein
+1469150	PF1277	hypothetical protein
+1469148	PF1275	hypothetical protein
+1469146	PF1273	hypothetical protein
+1469144	PF1271	hypothetical protein
+1469142	PF1269	methionine synthase
+1469140	PF1267	hypothetical protein
+1469611	PF1734	AsnC family transcriptional regulator
+1469609	PF1732	AsnC family transcriptional regulator
+1469607	tmk	thymidylate kinase
+1469605	PF1728	NDP-sugar synthase
+1469603	PF1726	hypothetical protein
+1469601	PF1724	hypothetical protein
+1469587	trpD	anthranilate phosphoribosyltransferase
+1469585	PF1708	anthranilate synthase component II
+1469583	PF1706	tryptophan synthase subunit beta
+1469581	PF1704	hypothetical protein
+1469579	PF1702	aspartate aminotransferase
+1469577	PF1700	chorismate synthase
+1469563	PF1686	acetyl-lysine deacetylase
+1469561	PF1684	acetylglutamate/acetylaminoadipate kinase
+1469559	PF1682	ribosomal protein s6 modification protein
+1469557	leuD	3-isopropylmalate dehydratase small subunit
+1469555	PF1678	2-isopropylmalate synthase
+1469553	PF1676	biotin operon repressor/biotin--[acetyl CoA carboxylase] ligase
+1469539	PF1662	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1469537	hisB	imidazoleglycerol-phosphate dehydratase
+1469535	hisG	ATP phosphoribosyltransferase
+1469533	PF1656	NADH oxidase
+1469531	PF1654	ABC transporter
+1469529	PF1652	hypothetical protein
+1469953	PF2064	arylsulfatase
+1469937	PF2050	hypothetical protein
+1469934	PF2048	peptidase
+1469931	PF2046	hypothetical protein
+1469929	PF2044	glycogen synthase
+1469927	PF2042	hypothetical protein
+1469925	PF2040	hypothetical protein
+1469854	PF1972	hypothetical protein
+1469839	PF1957	agmatinase
+1468409	PF0567	hypothetical protein
+1468414	PF0572	dna2-nam7 helicase family protein
+1468435	PF0592	ATP-dependent RNA helicase
+1468460	PF0616	Mrp/NBP35 family nucleotide-binding protein
+1468480	PF0636	DEXX-box atpase
+1468493	PF0649	hypothetical protein
+1467914	PF0085	DNA helicase
+1468828	PF0963	cell division protein CDC48
+1468865	PF1000	oligopeptide transport system permease protein appc
+1467922	PF0093	replication factor C small subunit
+1467861	PF0032	permease
+1468103	PF0269	hypothetical protein
+1468137	PF0302	co-factor modifying protein
+1468139	PF0304	DEXX-box atpase
+1468141	PF0306	sua5 superfamily-like protein
+1468143	PF0308	adenylosuccinate synthetase
+1468145	PF0310	daunorubicin resistance ATP-binding protein drrA
+1468147	PF0312	ADP-dependent glucokinase
+1468161	PF0326	hypothetical protein
+1468163	PF0328	hypothetical protein
+1468165	PF0330	flagellar assembly protein J
+1468167	PF0332	flagellar accessory protein FlaH
+1468169	PF0334	flagella-like protein
+1468171	PF0336	hypothetical protein
+1468185	PF0350	cation antiporter
+1468187	PF0352	hypothetical protein
+1468189	PF0354	hypothetical protein
+1468192	PF0356	beta-galactosidase
+1468194	PF0358	oppbc family ABC transporter
+1468196	PF0360	oligopeptide ABC transporter
+1468210	PF0374	translation-associated GTPase
+1468212	rplX	50S ribosomal protein LX
+1468214	PF0378	50S ribosomal protein L31
+1468216	PF0380	hypothetical protein
+1468218	PF0382	prefoldin
+1468220	PF0384	hypothetical protein
+1468539	PF0691	hypothetical protein
+1468541	PF0693	hypothetical protein
+1468543	PF0695	hypothetical protein
+1468545	PF0697	multidrug resistance protein
+1468547	PF0699	hypothetical protein
+1468549	PF0701	x-pro dipeptidase, N-terminal fragment
+1468564	PF0715	NAD(P)H oxidase
+1468566	PF0717	methyltransferase
+1468568	PF0719	hypothetical protein
+1468570	PF0721	hypothetical protein
+1468572	PF0723	hypothetical protein
+1468574	PF0725	hypothetical protein
+1468592	PF0739	AsnC family transcriptional regulator
+1468594	PF0741	hypothetical protein
+1468596	PF0743	hypothetical protein
+1468598	PF0745	hypothetical protein
+1468600	PF0747	proline dipeptidase
+1468602	PF0749	hypothetical protein
+1468617	PF0764	DEXX-box atpase
+1468619	PF0766	dehydrogenase
+1468621	PF0768	acetyl / acyl transferase-like protein
+1468623	PF0770	glucose-1-phosphate uridylyltransferase
+1468625	PF0772	hypothetical protein
+1468627	PF0774	hypothetical protein
+1468950	PF1084	phosphopantetheine adenylyltransferase
+1468953	PF1086	hypothetical protein
+1468955	PF1088	hypothetical protein
+1468957	PF1090	ABC transporter
+1468959	PF1092	hypothetical protein
+1468961	PF1094	hypothetical protein
+1468976	PF1108	alpha-dextrin endo-1, 6-alpha-glucosidase
+1468978	PF1110	hypothetical protein
+1468980	PF1112	hypothetical protein
+1468983	PF1114	OMP decarboxylase; OMPDCase; OMPdecase
+1468985	PF1116	glycerol-3-phosphate cytidyltransferase
+1468987	PF1118	hypothetical protein
+1469001	PF1132	carbamoyl transferase
+1469003	PF1134	kinase
+1469005	PF1136	hypothetical protein
+1469007	PF1138	hypothetical protein
+1469009	PF1140	translation initiation factor IF-2
+1469011	PF1142	hypothetical protein
+1469025	rbcL	ribulose bisophosphate carboxylase
+1469027	PF1158	hypothetical protein
+1469029	PF1160	hypothetical protein
+1469031	PF1162	hypothetical protein
+1469033	PF1164	Na+/H+ antiporter
+1469035	PF1166	exonuclease
+1469349	PF1473	hypothetical protein
+1469351	rpl40e	50S ribosomal protein L40
+1469353	PF1477	methylmalonyl-CoA mutase
+1469355	PF1479	oxidoreductase, Fe-S subunit
+1469357	PF1481	hypothetical protein
+1469359	PF1483	hypothetical protein
+1469373	PF1497	alanine aminotransferase
+1469375	PF1499	30S ribosomal protein S19
+1469377	PF1501	hypothetical protein
+1469379	PF1503	hypothetical protein
+1469381	PF1505	hypothetical protein
+1469383	PF1507	cell division protein FtsZ
+1469397	PF1521	formate dehydrogenase subunit alpha
+1469399	PF1523	hypothetical protein
+1469401	PF1525	hypothetical protein
+1469403	PF1527	hypothetical protein
+1469405	PF1529	pyridoxal biosynthesis lyase PdxS
+1469407	PF1531	thiamine biosynthesis protein ThiC
+1469421	nac	nascent polypeptide-associated complex protein
+1469423	PF1547	endoglucanase
+1469425	PF1549	RNA 3'-terminal-phosphate cyclase
+1469427	PF1551	hypothetical protein
+1469429	PF1553	nol1-nop2-sun family nucleolar protein I
+1469431	truD	tRNA pseudouridine synthase D
+1469738	PF1859	hypothetical protein
+1469740	PF1861	endo-1,4-beta-glucanase-like protein
+1469742	ksgA	dimethyladenosine transferase
+1469745	PF1866	S-adenosylmethionine synthetase
+1469747	PF1868	integrase-recombinase protein
+1469749	PF1870	hypothetical protein
+1469763	PF1884	ABC transporter
+1469765	PF1886	sugar kinase
+1469767	PF1888	hypothetical protein
+1469769	PF1890	hypothetical protein
+1469771	PF1892	hypothetical protein
+1469773	PF1894	signal recognition particle protein Srp19
+1469788	PF1908	hypothetical protein
+1469790	PF1910	oxidoreductase
+1469792	PF1912	hypothetical protein
+1469794	PF1914	ribonuclease P protein component 3
+1469796	PF1916	hypothetical protein
+1469798	PF1918	hypothetical protein
+1469812	PF1932	hypothetical protein
+1469814	PF1934	hypothetical protein
+1469816	PF1936	malg-like sugar transport inner membrane protein
+1469818	PF1938	malE-like sugar binding protein
+1469821	PF1940	hypothetical protein
+1469824	PF1942	hypothetical protein
+1467912	PF0083	RNA 2'-phosphotransferase-like protein
+1467910	PF0081	sulfate/thiosulfate transport-like protein
+1467908	PF0079	cyclic 2,3-diphospoglycerate-synthetase
+1467906	PF0077	biotin--protein ligase
+1467904	PF0075	alcohol dehydrogenase
+1467902	PF0073	beta-glucosidase
+1467888	PF0059	fibrillarin
+1467886	PF0057	hypothetical protein
+1467884	PF0055	HTH transcription regulator
+1467882	PF0053	ATP dependent RNA helicase
+1467880	PF0051	hypothetical protein
+1467878	PF0049	cytosine-specific DNA-methyltransferase
+1467864	PF0035	daunorubicin resistance ATP-binding protein
+1467862	PF0033	hypothetical protein
+1467860	PF0031	threonine synthase
+1467858	PF0029	hypothetical protein
+1467856	PF0027	integral membrane transport protein
+1467854	PF0025	hypothetical protein
+1467839	PF0011	ABC transporter transmembrane component
+1467837	PF0009	hypothetical protein
+1467835	PF0007	hypothetical protein
+1467833	PF0005	ABC transporter ATP-binding protein
+1467831	PF0003	moeB-like protein
+1467852	PF0001	hypothetical protein
+1468311	PF0470	hypothetical protein
+1468309	PF0468	hypothetical protein
+1468307	PF0466	hypothetical protein
+1468305	PF0464	glyceraldehyde-3-phosphate:ferredoxin oxidoreductase
+1468303	PF0462	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1468301	PF0460	hypothetical protein
+1468286	PF0445	galactokinase
+1468284	PF0443	membrane transport protein
+1468282	PF0441	galactose-1-phosphate uridylyltransferase
+1468279	PF0439	hypothetical protein
+1468276	PF0437	hypothetical protein
+1468274	PF0435	DEXX-box atpase
+1468258	purP	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1468256	PF0419	hypothetical protein
+1468254	PF0417	hypothetical protein
+1468252	PF0415	dehydrogenase
+1468250	PF0413	hypothetical protein
+1468248	PF0411	protein-export membrane protein
+1468232	PF0396	hypothetical protein
+1468230	PF0394	UDP-n-acetylglucosamine-dolichyl-phosphate n-acetylglucosaminephosphotransferase
+1468228	PF0392	metalloprotease
+1468226	PF0390	hypothetical protein
+1468223	PF0387	carbohydrate-binding protein
+1468221	PF0385	hypothetical protein
+1468722	PF0862	tyrosyl-tRNA synthetase
+1468719	PF0860	btpA family protein
+1468717	PF0858	hypothetical protein
+1468714	PF0856	isopentenyl pyrophosphate isomerase
+1468712	PF0854	endo-1,4-beta-glucanase b
+1468710	PF0852	hypothetical protein
+1468694	PF0838	hypothetical protein
+1468692	PF0836	cobalamin synthase
+1468690	PF0834	hypothetical protein
+1468688	PF0832	hypothetical protein
+1468686	PF0830	hypothetical protein
+1468684	PF0828	n-type ATP pyrophosphatase superfamily protein
+1468669	PF0813	hypothetical protein
+1468667	PF0811	hypothetical protein
+1468665	PF0809	hypothetical protein
+1468663	PF0807	hypothetical protein
+1468661	PF0805	hypothetical protein
+1468659	PF0803	hypothetical protein
+1468641	PF0787	hypothetical protein
+1468638	PF0784	hypothetical protein
+1468636	PF0782	hypothetical protein
+1468633	PF0779	hypothetical protein
+1468630	PF0777	hypothetical protein
+1468628	PF0775	hypothetical protein
+1469126	PF1253	aspartate aminotransferase
+1469124	PF1251	hypothetical protein
+1469122	PF1249	ABC transporter
+1469118	PF1246	sarcosine oxidase subunit beta
+1469116	PF1244	hypothetical protein
+1469114	PF1242	dehydrogenase subunit alpha
+1469100	PF1228	hypothetical protein
+1469096	PF1224	hypothetical protein
+1469094	PF1222	hypothetical protein
+1469092	PF1220	sulfate adenylyltransferase
+1469089	PF1218	hypothetical protein
+1469087	PF1216	hypothetical protein
+1469072	PF1202	hypothetical protein
+1469069	PF1199	hypothetical protein
+1469067	PF1197	NADH oxidase /nitrite reductase
+1469065	PF1195	hypothetical protein
+1469063	PF1193	DNA protection protein DPS
+1469061	PF1191	hypothetical protein
+1469046	PF1177	gtp1/obg family GTP-binding protein
+1469044	PF1175	hypothetical protein
+1469042	PF1173	hypothetical protein
+1469040	PF1171	hypothetical protein
+1469038	PF1169	hypothetical protein
+1469036	PF1167	chromosome segregation protein
+1469515	PF1638	hypothetical protein
+1469513	PF1636	acetylglutamate kinase
+1469511	PF1634	hypothetical protein
+1469509	PF1632	hypothetical protein
+1469507	PF1630	UDP-n-acetylglucosamine 2-epimerase
+1469505	PF1628	molybdenum cofactor biosynthesis protein A
+1469491	PF1614	hypothetical protein
+1469488	PF1612	hypothetical protein
+1469486	PF1610	hypothetical protein
+1469484	PF1608	hypothetical protein
+1469482	PF1606	dolichol-phosphate mannose synthase
+1469480	PF1604	hypothetical protein
+1469466	PF1590	mutt
+1469464	PF1588	hypothetical protein
+1469462	PF1586	hydrogenase expression/formation protein
+1469460	PF1584	hypothetical protein
+1469458	PF1582	translation initiation factor IF-1
+1469456	PF1580	RNA-processing protein
+1469442	PF1566	hypothetical protein
+1469440	PF1564	DNA-directed RNA polymerase subunit B
+1469438	PF1562	DNA-directed RNA polymerase subunit A''
+1469436	nusA	transcription elongation factor NusA-like protein
+1469434	PF1558	30S ribosomal protein S7
+1469432	PF1556	peptidyl-tRNA hydrolase
+1469910	PF2025	hypothetical protein
+1469908	PF2023	DNA invertase
+1469906	PF2021	hypothetical protein
+1469904	PF2019	hypothetical protein
+1469902	PF2017	hypothetical protein
+1469900	PF2015	Hef nuclease
+1469886	PF2001	hypothetical protein
+1469883	PF1999	glycine dehydrogenase subunit 1
+1469881	PF1997	hypothetical protein
+1469879	PF1995	hypothetical protein
+1469877	rplP0	acidic ribosomal protein P0
+1469875	rpl11p	50S ribosomal protein L11
+1469859	PF1977	quinolinate synthetase
+1469857	PF1975	phosphoenolpyruvate carboxylase
+1469855	PF1973	hypothetical protein
+1469853	PF1971	anaerobic ribonucleoside triphosphate reductase
+1469851	PF1969	sugar ABC transporter permease
+1469849	PF1967	hypothetical protein
+1469835	PF1953	inosine-5'-monophosphate dehydrogenase
+1469833	PF1951	asparagine synthetase A
+1469831	PF1949	hypothetical protein
+1469829	PF1947	hypothetical protein
+1469827	PF1945	hypothetical protein
+1469825	PF1943	hypothetical protein
+1469413	PF1537	hypothetical protein
+1469328	PF1452	monovalent cation/H+ antiporter subunit F
+1469309	PF1433	membrane bound hydrogenase beta
+1469102	PF1230	atpase
+1468718	PF0859	hypothetical protein
+1468633	PF0779	hypothetical protein
+1468311	PF0470	hypothetical protein
+1468300	PF0459	hypothetical protein
+1468284	PF0443	membrane transport protein
+1468270	PF0432	sugar-catabolism phosphotransferase
+1468260	PF0423	hypothetical protein
+1468246	PF0409	hypothetical protein
+1467841	PF0013	transposase
+1467843	PF0015	hypothetical protein
+1467845	cdc6	cell division control protein 6
+1467847	PF0019	DNA polymerase II large subunit
+1467849	radB	DNA repair and recombination protein RadB
+1467851	PF0023	hypothetical protein
+1467866	PF0037	hypothetical protein
+1467868	PF0039	xanthine-guanine phosphoribosyltransferase
+1467870	PF0041	oxidative cyclase
+1467872	PF0043	phosphoenolpyruvate synthase
+1467874	PF0045	hypothetical protein
+1467876	PF0047	hypothetical protein
+1467890	PF0061	riboflavin synthase subunit alpha
+1467892	ribH	6,7-dimethyl-8-ribityllumazine synthase
+1467894	PF0065	hypothetical protein
+1467896	PF0067	cobalt transport ABC transporter integral membrane component
+1467898	PF0069	transposase
+1467900	PF0071	hypothetical protein
+1467914	PF0085	DNA helicase
+1467916	PF0087	inosine-5'-monophosphate dehydrogenase
+1467918	PF0089	met-10+ protein
+1467920	PF0091	hypothetical protein
+1467922	PF0093	replication factor C small subunit
+1467924	PF0095	hypothetical protein
+1468234	PF0398	hypothetical protein
+1468236	PF0400	hypothetical protein
+1468238	PF0402	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+1468240	PF0404	hypothetical protein
+1468242	PF0406	hypothetical protein
+1468246	PF0409	hypothetical protein
+1468260	PF0423	hypothetical protein
+1468262	PF0425	hypothetical protein
+1468264	PF0427	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1468266	PF0429	proline permease
+1468269	PF0431	phosphoribosylaminoimidazole synthetase
+1468271	PF0433	methyl-accepting chemotaxis-like protein
+1468289	PF0448	mannose-1-phosphate guanyltransferase
+1468291	PF0450	glutamine synthetase i
+1468293	PF0452	hypothetical protein
+1468295	PF0454	bacteriochlorophyll synthase, 43 kDa subunit
+1468297	PF0456	carboxypeptidase 1
+1468299	PF0458	nicotinamide-nucleotide adenylyltransferase
+1468313	PF0472	hypothetical protein
+1468315	PF0474	DNA mismatch repair protein
+1468317	PF0476	competence damage-inducible protein A
+1468319	PF0478	alpha-amylase
+1468321	PF0480	lysophospholipase
+1468323	PF0482	cell division control protein 21
+1468645	PF0789	hypothetical protein
+1468647	PF0791	hypothetical protein
+1468649	PF0793	hypothetical protein
+1468651	PF0795	capsular polysaccharide biosynthesis protein
+1468653	PF0797	hypothetical protein
+1468655	PF0799	hypothetical protein
+1468671	PF0815	hypothetical protein
+1468674	PF0818	aminohydrolase
+1468676	PF0820	cytidylate kinase
+1468678	PF0822	hypothetical protein
+1468680	PF0824	hypothetical protein
+1468682	PF0826	transport membrane protein
+1468696	PF0840	nucleotidyltransferase
+1468699	PF0842	hypothetical protein
+1468702	PF0844	hypothetical protein
+1468704	PF0846	hypothetical protein
+1468706	PF0848	hypothetical protein
+1468708	PF0850	hypothetical protein
+1468724	PF0864	AsnC family transcriptional regulator
+1468726	PF0866	hypothetical protein
+1468728	PF0868	NDP-sugar synthase
+1468730	PF0870	hypothetical protein
+1468732	PF0872	hypothetical protein
+1468734	PF0874	membrane dipeptidase
+1469048	PF1179	hypothetical protein
+1469050	PF1181	hypothetical protein
+1469053	PF1183	hypothetical protein
+1469055	PF1185	acetylornithine deacetylase
+1469057	PF1187	hypothetical protein
+1469059	PF1189	hypothetical protein
+1469074	PF1204	seryl-tRNA synthetase
+1469076	PF1206	hypothetical protein
+1469078	PF1208	beta-mannosidase
+1469080	PF1210	dipeptide ABC transporter permease
+1469082	PF1212	peptide ABC uptake protein
+1469084	nusA	transcription elongation factor NusA-like protein
+1469102	PF1230	atpase
+1469104	PF1232	4-aminobutyrate aminotransferase
+1469106	PF1234	chitinase
+1469108	PF1236	hypothetical protein
+1469110	PF1238	ABC transporter
+1469112	PF1240	purine permease
+1469128	PF1255	hypothetical protein
+1469130	PF1257	nol1-nop2-sun family nucleolar protein III
+1469132	PF1259	hypothetical protein
+1469134	PF1261	hypothetical protein
+1469136	PF1263	hypothetical protein
+1469138	PF1265	nol1-nop2-sun family nucleolar protein II
+1469444	PF1568	exosome complex exonuclease Rrp41
+1469446	PF1570	RNA-associated protein
+1469448	PF1572	hypothetical protein
+1469450	PF1574	hypothetical protein
+1469452	PF1576	hypothetical protein
+1469454	PF1578	DNA topoisomerase VI subunit A
+1469468	PF1592	tryptophan synthase subunit beta
+1469470	PF1594	dolichol-phosphate mannose synthase
+1469472	PF1596	hypothetical protein
+1469474	PF1598	dCMP deaminase
+1469476	PF1600	ferripyochelin binding protein
+1469478	PF1602	glutamate dehydrogenase
+1469493	PF1616	myo-inositol-1-phosphate synthase
+1469495	PF1618	ATP-binding protein phnp
+1469497	PF1620	hypothetical protein
+1469499	PF1622	n-type ATP pyrophosphatase superfamily protein
+1469501	PF1624	hypothetical protein
+1469503	PF1626	hypothetical protein
+1469517	rps2P	30S ribosomal protein S2
+1469519	rpoK	DNA-directed RNA polymerase subunit K
+1469521	rps9p	30S ribosomal protein S9
+1469523	PF1646	50S ribosomal protein L18
+1469525	rps11p	30S ribosomal protein S11
+1469527	rps13p	30S ribosomal protein S13
+1469837	PF1955	hypothetical protein
+1469839	PF1957	agmatinase
+1469841	PF1959	cofactor-independent phosphoglycerate mutase
+1469843	PF1961	tungsten-containing formaldehyde ferredoxin oxidoreductase wor4
+1469845	ubiA	prenyltransferase UbiA-like protein
+1469847	ef1B	elongation factor 1-beta
+1469861	PF1979	hypothetical protein
+1469863	PF1981	hypothetical protein
+1469865	PF1983	hypothetical protein
+1469867	PF1985	hypothetical protein
+1469871	PF1987	hypothetical protein
+1469873	secE	preprotein translocase subunit SecE
+1469888	PF2003	glycerophosphodiester phosphodiesterase
+1469890	PF2005	glycerol-3-phosphate dehydrogenase
+1469892	PF2007	hypothetical protein
+1469894	PF2009	DNA-directed RNA polymerase subunit P
+1469896	PF2011	hypothetical protein
+1469898	PF2013	hypothetical protein
+1469912	PF2027	hypothetical protein
+1469914	PF2029	nitrogenase reductase (c-terminus)
+1469916	PF2031	iron-sulfur cluster binding protein
+1469918	PF2033	hypothetical protein
+1469921	PF2036	magnesium and cobalt transporter
+1469923	PF2038	cob(I)yrinic acid a,c-diamide adenosyltransferase
+1467882	PF0053	ATP dependent RNA helicase
+1468026	PF0194	dipeptide ABC transporter ATP-binding protein
+1468129	PF0295	n-type ATP pyrophosphatase superfamily protein
+1468160	PF0325	hypothetical protein
+1468211	PF0375	prefoldin subunit alpha
+1468222	PF0386	hypothetical protein
+1468364	PF0523	hypothetical protein
+1468389	PF0547	hypothetical protein
+1468453	PF0609	hypothetical protein
+1468527	PF0681	hypothetical protein
+1468530	PF0684	hypothetical protein
+1468532	PF0686	hypothetical protein
+1469475	PF1599	undecaprenyl diphosphate synthase
+1469518	PF1641	hypothetical protein
+1469551	PF1674	hypothetical protein
+1469627	PF1749	sulfate transport integral membrane protein
+1469705	PF1826	hypothetical protein
+1469767	PF1888	hypothetical protein
+1469255	PF1379	cell division protein pelota
+1468741	PF0880	DEXX-box atpase
+1468710	PF0852	hypothetical protein
+1468617	PF0764	DEXX-box atpase
+1468561	PF0712	hypothetical protein
+1468511	PF0666	nol1-nop2-sun family nucleolar protein IV
+1468506	PF0661	hypothetical protein
+1468405	PF0563	hypothetical protein
+1467878	PF0049	cytosine-specific DNA-methyltransferase
+1468378	PF0537	hypothetical protein
+1468366	PF0525	cell division protein FtsZ
+1468352	PF0511	3-methyladenine DNA glycosylase
+1468345	PF0504	DNA helicase
+1468208	PF0372	molybdenum cofactor biosynthesis protein
+1468206	PF0370	2-hydroxyacid dehydrogenase
+1468204	PF0368	hypothetical protein
+1468202	PF0366	hypothetical protein
+1468200	PF0364	tyrosine-protein kinase
+1468198	PF0362	glucosamine-fructose-6-phosphate aminotransferase
+1468183	PF0348	transposase
+1468181	PF0346	aldehyde:ferredoxin oxidoreductase
+1468179	PF0344	tungsten-containing aldehyde ferredoxin oxidoreductase cofactor modifying protein
+1468177	PF0342	hypothetical protein
+1468175	PF0340	HTH transcription regulator
+1468173	PF0338	flagellin
+1468159	PF0324	hypothetical protein
+1468157	PF0322	nickel responsive regulator
+1468155	PF0320	hypothetical protein
+1468153	PF0318	acylaminoacyl peptidase
+1468151	PF0316	hypothetical protein
+1468149	PF0314	signal peptidase
+1468135	PF0300	hypothetical protein
+1468132	PF0298	hypothetical protein
+1468130	cobD	cobalamin biosynthesis protein
+1468128	PF0294	low temperature requirement C - like protein
+1468126	PF0292	deoxyhypusine synthase
+1468124	valS	valyl-tRNA synthetase
+1468615	PF0762	hypothetical protein
+1468613	PF0760	hypothetical protein
+1468611	PF0758	hypothetical protein
+1468608	PF0755	non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase
+1468606	PF0753	2-oxoacid:ferredoxin oxidoreductase subunit beta
+1468604	PF0751	flavoprotein
+1468589	PF0737	hypothetical protein
+1468586	PF0735	hypothetical protein
+1468584	PF0733	ABC transporter
+1468580	PF0731	copper-transporting atpase, p-type
+1468578	PF0729	mulitcopper oxidase domain-containing protein
+1468576	PF0727	hypothetical protein
+1468562	PF0713	hypothetical protein
+1468560	PF0711	hypothetical protein
+1468558	PF0709	hypothetical protein
+1468555	PF0707	hypothetical protein
+1468553	PF0705	cytochrome c-type biogenesis protein
+1468551	PF0703	hypothetical protein
+1468537	PF0689	hypothetical protein
+1468533	PF0687	transcription initiation factor IIB chain b
+1468531	PF0685	hypothetical protein
+1468528	PF0682	hypothetical protein
+1468526	PF0680	hypothetical protein
+1468524	PF0678	hypothetical protein
+1469023	PF1154	NAD-dependent deacetylase
+1469021	PF1152	monovalent cation/H+ antiporter subunit F
+1469019	PF1150	monovalent cation/H+ antiporter subunit B
+1469017	PF1148	monovalent cation/H+ antiporter subunit C
+1469015	PF1146	hypothetical protein
+1469013	PF1144	hypothetical protein
+1468999	PF1130	hypothetical protein
+1468997	PF1128	hypothetical protein
+1468995	PF1126	hypothetical protein
+1468993	PF1124	hypothetical protein
+1468991	PF1122	hypothetical protein
+1468989	PF1120	ATP-dependent RNA helicase
+1468974	PF1106	hypothetical protein
+1468972	PF1104	homoserine dehydrogenase
+1468970	PF1102	bifunctional short chain isoprenyl diphosphate synthase
+1468968	PF1100	hypothetical protein
+1468966	PF1098	hypothetical protein
+1468964	ileS	isoleucyl-tRNA synthetase
+1468948	PF1082	hypothetical protein
+1468946	PF1080	hypothetical protein
+1468944	PF1078	hypothetical protein
+1468942	PF1076	hypothetical protein
+1468940	PF1074	hypothetical protein
+1468938	PF1072	hypothetical protein
+1469419	PF1543	AsnC family transcriptional regulator
+1469417	rpl37e	50S ribosomal protein L37
+1469415	PF1539	dihydroorotate dehydrogenase 1B
+1469413	PF1537	hypothetical protein
+1469411	PF1535	alpha-glucan phosphorylase
+1469409	PF1533	nodulation protein nfeD
+1469395	PF1519	sugar-binding transport ATP-binding protein
+1469393	purP	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1469391	PF1515	GMP synthase
+1469389	PF1513	hypothetical protein
+1469387	PF1511	hypothetical protein
+1469385	PF1509	hypothetical protein
+1469371	PF1495	gtp1/obg family GTP-binding protein
+1469369	PF1493	hypothetical protein
+1469367	rps17E	30S ribosomal protein S17
+1469365	PF1489	hypothetical protein
+1469363	PF1487	thiamine biosynthesis protein ThiI
+1469361	PF1485	hypothetical protein
+1469347	PF1471	hypothetical protein
+1469345	PF1469	glutamate/aspartate transport protein
+1469343	PF1467	ABC transporter
+1469341	PF1465	hypothetical protein
+1469339	PF1463	hypothetical protein
+1469337	PF1461	glutamyl-tRNA(Gln) amidotransferase subunit D
+1469810	PF1930	S-adenosylmethionine decarboxylase
+1469808	PF1928	ATP-binding protein phnp
+1469806	radA	DNA repair and recombination protein RadA
+1469804	PF1924	d-aminopeptidase
+1469802	pcm	protein-L-isoaspartate O-methyltransferase
+1469800	PF1920	triosephosphate isomerase
+1469786	PF1906	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1469784	PF1904	nicotinate phosphoribosyltransferase
+1469782	PF1902	DNA repair helicase
+1469780	PF1900	hypothetical protein
+1469778	PF1898	hypothetical protein
+1469775	PF1896	l-isoaspartyl protein carboxyl methyltransferase
+1469761	PF1882	cell division protein CDC48
+1469759	PF1880	hypothetical protein
+1469757	PF1878	methylated-DNA--protein-cysteine methyltransferase
+1469755	PF1876	hypothetical protein
+1469753	PF1874	glyceraldehyde-3-phosphate dehydrogenase
+1469751	PF1872	50S ribosomal protein L35
+1469736	PF1857	cobalt transport ATP-binding protein cbio
+1469734	PF1855	transcription-associated protein TFIIS
+1469732	PF1853	glucose-1-dehydrogenase
+1469730	PF1851	hypothetical protein
+1469728	PF1849	cell division inhibitor minD
+1469726	PF1847	tbp-interacting protein tip49
+1467938	PF0109	hypothetical protein
+1467940	PF0111	DNA primase large subunit
+1467942	PF0113	hypothetical protein
+1467944	PF0115	proteasome-activating nucleotidase
+1467946	PF0117	sugar transport protein
+1467948	PF0119	perplasmic sugar binding protein
+1467965	PF0133	hypothetical protein
+1467967	lysK	lysyl-tRNA synthetase
+1467969	PF0137	methyltransferase
+1467971	PF0139	indolepyruvate oxidoreductase subunit B
+1467973	PF0141	hypothetical protein
+1467975	PF0143	quinolone resistance protein norA - like protein
+1467989	PF0157	glucosamine--fructose-6-phosphate aminotransferase
+1467991	PF0159	multicatalytic endopeptidase complex beta subunit
+1467993	PF0161	hypothetical protein
+1467995	PF0163	hypothetical protein
+1467997	PF0165	hydrolase related to 2-haloalkanoic acid dehalogenase
+1467999	PF0167	metalloprotease
+1468013	PF0181	V-type ATP synthase subunit F
+1468015	PF0183	V-type ATP synthase subunit B
+1468017	PF0185	hypothetical protein
+1468019	PF0187	cofactor synthesis protein
+1468021	PF0189	dihydroorotase
+1468023	PF0191	oligopeptide transport system permease
+1468337	PF0496	hypothetical protein
+1468339	PF0498	hypothetical protein
+1468341	PF0500	met-10+ protein
+1468343	PF0502	iron(III) dicitrate transport system permease fece
+1468345	PF0504	DNA helicase
+1468347	PF0506	hypothetical protein
+1468361	PF0520	hypothetical protein
+1468363	PF0522	aspartate aminotransferase
+1468365	PF0524	hypothetical protein
+1468367	PF0526	Soj family protein
+1468369	PF0528	cobalt transport ATP-binding protein
+1468371	PF0530	hypothetical protein
+1468386	PF0544	hypothetical protein
+1468388	PF0546	hypothetical protein
+1468390	PF0548	hydrogenase expression/formation protein
+1468392	PF0550	NADH oxidase
+1468394	PF0552	arsenical-resistance protein acr3
+1468396	PF0554	hypothetical protein
+1468411	PF0569	hypothetical protein
+1468413	PF0571	hypothetical protein
+1468415	PF0573	hypothetical protein
+1468417	PF0575	hypothetical protein
+1468419	PF0577	ATP-binding transport protein
+1468421	PF0579	hypothetical protein
+1468750	PF0888	hypothetical protein
+1468752	leuS	leucyl-tRNA synthetase
+1468754	PF0892	cytochrome-c3 hydrogenase subunit gamma
+1468756	PF0894	sulfhydrogenase subunit alpha
+1468758	PF0896	hypothetical protein
+1468762	PF0899	hypothetical protein
+1468777	PF0913	hypothetical protein
+1468779	PF0915	hypothetical protein
+1468781	PF0917	hypothetical protein
+1468783	PF0919	hypothetical protein
+1468785	PF0921	ABC transporter
+1468787	PF0923	hypothetical protein
+1468801	PF0937	2-isopropylmalate synthase
+1468803	leuD	3-isopropylmalate dehydratase small subunit
+1468805	PF0941	alpha-isopropylmalate/homocitrate synthase family transferase
+1468807	PF0943	hypothetical protein
+1468809	PF0945	hypothetical protein
+1468812	PF0948	hypothetical protein
+1468827	PF0962	hypothetical protein
+1468829	PF0964	hypothetical protein
+1468831	porA	pyruvate ferredoxin oxidoreductase subunit alpha
+1468833	PF0968	2-ketoisovalerate ferredoxin oxidoreductase subunit beta
+1468835	vorD	2-ketoisovalerate ferredoxin oxidoreductase subunit delta
+1468837	PF0972	hypothetical protein
+1469152	rpl10e	50S ribosomal protein L10
+1469154	PF1281	superoxide reductase
+1469156	PF1283	rubrerythrin
+1469158	PF1285	hypothetical protein
+1469160	PF1287	ABC transporter
+1469162	PF1289	molybdopterin biosynthesis protein moeb
+1469176	PF1303	hypothetical protein
+1469178	PF1305	hypothetical protein
+1469180	PF1307	hypothetical protein
+1469182	PF1309	hypothetical protein
+1469185	PF1311	hypothetical protein
+1469187	PF1313	DNA processing SMF protein
+1469202	PF1327	oxidoreductase
+1469204	PF1329	hydrogenase subunit beta
+1469206	PF1331	hydrogenase subunit delta
+1469208	PF1333	phosphomethylpyrimidine kinase
+1469210	PF1335	hydroxyethylthiazole kinase
+1469212	PF1337	transcriptional activator
+1469226	PF1351	threonyl-tRNA synthetase
+1469228	PF1353	hypothetical protein
+1469230	PF1355	NDP-sugar dehydrogenase
+1469232	PF1357	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+1469235	PF1359	glycosyl transferase family protein
+1469237	PF1361	glycosyl transferase family protein
+1469541	PF1664	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+1469543	PF1666	hypothetical protein
+1469545	PF1668	hypothetical protein
+1469547	PF1670	alkaline serine protease
+1469549	PF1672	hypothetical protein
+1469551	PF1674	hypothetical protein
+1469565	PF1688	transketolase
+1469567	PF1690	3-deoxy-7-phosphoheptulonate synthase
+1469569	aroD	3-dehydroquinate dehydratase
+1469571	PF1694	shikimate kinase
+1469573	PF1696	ABC sugar transporter
+1469575	PF1698	ribose ABC transporter
+1469589	PF1712	hypothetical protein
+1469591	carB	carbamoyl phosphate synthase large subunit
+1469593	PF1716	hypothetical protein
+1469595	PF1718	tRNA-modifying protein
+1469597	PF1720	hypothetical protein
+1469599	PF1722	histone a2
+1469615	PF1737	hypothetical protein
+1469617	PF1739	trehalose/maltose binding protein
+1469619	PF1741	trehalose/maltose transport inner membrane protein
+1469621	PF1743	hypothetical protein
+1469623	PF1745	hypothetical protein
+1469625	PF1747	hypothetical protein
+1469939	PF2052	regulatory protein
+1469941	PF2054	30S ribosomal protein S3
+1469944	rps15p	30S ribosomal protein S15
+1469946	PF2058	hypothetical protein
+1469948	PF2060	hypothetical protein
+1469951	PF2062	hypothetical protein
+1468533	PF0687	transcription initiation factor IIB chain b
+1468540	PF0692	hydroxylamine reductase
+1468542	PF0694	flavoprotein
+1468544	PF0696	carbohydrate-binding protein
+1468546	PF0698	hypothetical protein
+1468236	PF0400	hypothetical protein
+1468201	PF0365	hypothetical protein
+1468193	PF0357	dipeptide-binding protein
+1468176	PF0341	hypothetical protein
+1468165	PF0330	flagellar assembly protein J
+1468134	cobS	cobalamin synthase
+1469908	PF2023	DNA invertase
+1469900	PF2015	Hef nuclease
+1468001	PF0169	nol1-nop2-sun family nucleolar protein III
+1469812	PF1932	hypothetical protein
+1469782	PF1902	DNA repair helicase
+1469761	PF1882	cell division protein CDC48
+1469466	PF1590	mutt
+1469454	PF1578	DNA topoisomerase VI subunit A
+1469429	PF1553	nol1-nop2-sun family nucleolar protein I
+1469416	PF1540	ADP forming acetyl coenzyme A synthetase
+1469380	PF1504	large helicase-like protein
+1469290	PF1414	flap endonuclease-1
+1469079	PF1209	oligopeptide ABC transporter
+1469036	PF1167	chromosome segregation protein
+1469033	PF1164	Na+/H+ antiporter
+1469004	PF1135	heat shock protein HtpX
+1468975	PF1107	hit family protein
+1468938	PF1072	hypothetical protein
+1468110	PF0276	oxidoreductase
+1468108	PF0274	transposase
+1468106	PF0272	alpha-amylase
+1468104	alaS	alanyl-tRNA synthetase
+1468102	PF0268	Na+/H+ antiporter-like protein
+1468100	PF0266	tRNA-splicing endonuclease subunit alpha
+1468086	PF0252	30S ribosomal protein S27
+1468084	PF0250	Lrp family transcriptional regulator
+1468082	PF0248	hypothetical protein
+1468080	PF0246	hypothetical protein
+1468078	PF0244	hypothetical protein
+1468076	PF0242	transposase
+1468062	PF0228	hypothetical protein
+1468059	PF0226	hypothetical protein
+1468057	PF0224	hypothetical protein
+1468054	PF0222	hydrolase related to 2-haloalkanoic acid dehalogenase
+1468052	PF0220	hexulose-6-phosphate synthase
+1468050	rps27e	30S ribosomal protein S27
+1468036	PF0204	hypothetical protein
+1468034	PF0202	isocitrate dehydrogenase
+1468032	PF0200	hypothetical protein
+1468030	PF0198	phosphoribosylformylglycinamidine synthase I
+1468028	PF0196	glucose-6-phosphate isomerase
+1468026	PF0194	dipeptide ABC transporter ATP-binding protein
+1468509	PF0664	hypothetical protein
+1468507	PF0662	hypothetical protein
+1468505	PF0660	iron-sulfur cluster binding protein
+1468503	PF0658	hypothetical protein
+1468501	PF0656	hypothetical protein
+1468498	PF0654	hypothetical protein
+1468484	PF0640	ATP-dependent RNA helicase
+1468482	PF0638	hypothetical protein
+1468480	PF0636	DEXX-box atpase
+1468478	PF0634	DEXX-box atpase
+1468476	PF0632	hypothetical protein
+1468474	PF0630	hypothetical protein
+1468460	PF0616	Mrp/NBP35 family nucleotide-binding protein
+1468458	PF0614	inosine-5'-monophosphate dehydrogenase
+1468456	PF0612	hypothetical protein
+1468454	PF0610	hypothetical protein
+1468452	PF0608	alcohol dehydrogenase
+1468450	PF0606	hypothetical protein
+1468435	PF0592	ATP-dependent RNA helicase
+1468433	PF0590	mannosyl-3-phosphoglycerate phosphatase
+1468431	PF0588	phospho-sugar mutase
+1468428	PF0586	hypothetical protein
+1468426	PF0584	hypothetical protein
+1468424	PF0582	daunorubicin resistance membrane protein
+1468924	PF1058	hypothetical protein
+1468922	PF1056	aspartate-semialdehyde dehydrogenase
+1468920	PF1054	homoserine kinase
+1468918	PF1052	aspartate kinase
+1468916	PF1050	hypothetical protein
+1468914	PF1048	hypothetical protein
+1468900	pyrE	orotate phosphoribosyltransferase
+1468898	PF1032	hypothetical protein
+1468896	metG	methionyl-tRNA synthetase
+1468894	PF1028	hypothetical protein
+1468892	PF1026	malate oxidoreductase
+1468890	cysS	cysteinyl-tRNA synthetase
+1468874	PF1009	hypothetical protein
+1468872	PF1007	phosphate transport system permease psta
+1468870	PF1005	hypothetical protein
+1468868	PF1003	phosphate-binding periplasmic protein
+1468866	PF1001	oligopeptide transport system permease
+1468864	PF0999	oligopeptide transport system permease appc, c-terminal fragment
+1468850	PF0985	haloacid dehalogenase
+1468848	PF0983	DNA polymerase sliding clamp
+1468846	PF0981	efflux transport protein
+1468844	PF0979	hypothetical protein
+1468842	PF0977	hypothetical protein
+1468840	PF0975	hypothetical protein
+1469323	PF1447	NADH dehydrogenase subunit N
+1469321	PF1445	NADH dehydrogenase subunit
+1469319	PF1443	NADH dehydrogenase subunit C
+1469317	PF1441	NADH dehydrogenase subunit I
+1469315	PF1439	hypothetical protein
+1469313	PF1437	hypothetical protein
+1469299	PF1423	monovalent cation/H+ antiporter subunit E
+1469297	PF1421	4-aminobutyrate aminotransferase
+1469295	PF1419	phosphoglycolate phosphatase
+1469293	PF1417	hypothetical protein
+1469291	PF1415	met-10+ protein
+1469289	PF1413	hypothetical protein
+1469275	PF1399	ATPase, vanadate-sensitive
+1469273	PF1397	hypothetical protein
+1469271	PF1395	hypothetical protein
+1469269	PF1393	hypothetical protein
+1469267	PF1391	hypothetical protein
+1469265	PF1389	hypothetical protein
+1469251	PF1375	elongation factor 1-alpha
+1469249	PF1373	cation transporter
+1469247	PF1371	hypothetical protein
+1469245	PF1369	50S ribosomal protein L24
+1469243	rpl7ae	50S ribosomal protein L7
+1469240	PF1364	hypothetical protein
+1469712	PF1833	hypothetical protein
+1469710	PF1831	histone a1
+1469708	PF1829	nucleotidyltransferase
+1469706	PF1827	hypothetical protein
+1469704	rpl3p	50S ribosomal protein L3P
+1469702	rplW	50S ribosomal protein L23
+1469688	rps8p	30S ribosomal protein S8
+1469686	rpl32e	50S ribosomal protein L32
+1469684	rpl18p	50S ribosomal protein L18
+1469682	rpl30p	50S ribosomal protein L30
+1469680	PF1801	preprotein translocase subunit SecY
+1469678	PF1799	hypothetical protein
+1469664	PF1785	H/ACA RNA-protein complex component Cbf5p
+1469662	PF1783	molybdenum cofactor biosynthesis protein
+1469660	rnhB	ribonuclease HII
+1469658	PF1779	ABC transporter
+1469656	PF1777	hydrolase related to 2-haloalkanoic acid dehalogenase
+1469654	PF1775	small multidrug export protein
+1469640	PF1761	hypothetical protein
+1469638	PF1759	hypothetical protein
+1469636	PF1757	hypothetical protein
+1469633	PF1755	fumarate hydratase
+1469631	gltX	glutamyl-tRNA synthetase
+1469628	PF1750	sugar-binding transport ATP-binding protein
+1467842	PF0014	hypothetical protein
+1467844	PF0016	5'-methylthioadenosine phosphorylase
+1467846	PF0018	DNA polymerase II small subunit
+1467848	PF0020	hypothetical protein
+1467850	PF0022	RNase E
+1467853	PF0024	glycerate kinase
+1467867	PF0038	glyoxalase II
+1467869	PF0040	type II phosphatidic acid phosphatase
+1467871	PF0042	metal-dependent hydrolase
+1467873	PF0044	hypothetical protein
+1467875	PF0046	hypothetical protein
+1467877	PF0048	succinoglycan biosynthesis regulator
+1467891	PF0062	riboflavin-specific deaminase
+1467893	PF0064	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1467895	PF0066	hypothetical protein
+1467897	PF0068	cobalt transport ATP-binding protein
+1467899	PF0070	hypothetical protein
+1467901	PF0072	hypothetical protein
+1467915	PF0086	hypothetical protein
+1467917	PF0088	icc related protein
+1467919	moaA	molybdenum cofactor biosynthesis protein A
+1467921	PF0092	replication factor C large subunit
+1467923	PF0094	glutaredoxin-like protein
+1467925	PF0096	hypothetical protein
+1468235	PF0399	s1p family ribosomal protein
+1468237	PF0401	methyltransferase
+1468239	PF0403	hypothetical protein
+1468241	PF0405	methanol dehydrogenase regulatory protein
+1468244	PF0407	hypothetical protein
+1468247	PF0410	hypothetical protein
+1468261	PF0424	hypothetical protein
+1468263	PF0426	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1468265	PF0428	hypothetical protein
+1468268	purT	phosphoribosylglycinamide formyltransferase 2
+1468270	PF0432	sugar-catabolism phosphotransferase
+1468272	PF0434	hypothetical protein
+1468290	PF0449	hypothetical protein
+1468292	PF0451	hypothetical protein
+1468294	PF0453	hypothetical protein
+1468296	PF0455	hypothetical protein
+1468298	PF0457	metalloprotease
+1468300	PF0459	hypothetical protein
+1468314	PF0473	o-sialoglycoprotein endopeptidase
+1468316	PF0475	translation initiation factor IF-2
+1468318	PF0477	alpha-amylase
+1468320	PF0479	hypothetical protein
+1468322	PF0481	translation initiation factor IF-2
+1468324	PF0483	hypothetical protein
+1468646	PF0790	hypothetical protein
+1468648	PF0792	hypothetical protein
+1468650	PF0794	UDP-n-acetylglucosamine 2-epimerase
+1468652	PF0796	galactoside o-acetyltransferase
+1468654	PF0798	glycosyl transferase family protein
+1468658	PF0802	hypothetical protein
+1468672	PF0816	hypothetical protein
+1468675	PF0819	50S ribosomal protein L14
+1468677	rpl34e	50S ribosomal protein L34
+1468679	PF0823	hypothetical protein
+1468681	PF0825	prolyl endopeptidase
+1468683	PF0827	RNA methyltransferase
+1468697	PF0841	hypothetical protein
+1468701	PF0843	hypothetical protein
+1468703	PF0845	2-keto acid:ferredoxin oxidoreductase subunit alpha
+1468705	PF0847	hypothetical protein
+1468707	PF0849	hypothetical protein
+1468709	PF0851	iron-dependent repressor
+1468725	PF0865	aromatic acid decarboxylase
+1468727	PF0867	hypothetical protein
+1468729	aspC	aspartyl-tRNA synthetase
+1468731	PF0871	hypothetical protein
+1468733	PF0873	hypothetical protein
+1468735	PF0875	hypothetical protein
+1469049	PF1180	threonine synthase
+1469051	PF1182	hypothetical protein
+1469054	PF1184	hypothetical protein
+1469056	PF1186	NADH oxidase
+1469058	PF1188	pyruvate kinase
+1469060	PF1190	hypothetical protein
+1469075	PF1205	hypothetical protein
+1469077	PF1207	hypothetical protein
+1469079	PF1209	oligopeptide ABC transporter
+1469081	PF1211	dipeptide ABC transporter permease
+1469083	PF1213	oligopeptide ABC transporter
+1469086	PF1215	hypothetical protein
+1469103	PF1231	AsnC family transcriptional regulator
+1469105	PF1233	chitinase
+1469107	ccrB	camphor resistance protein CrcB
+1469109	PF1237	hypothetical protein
+1469111	PF1239	hypothetical protein
+1469113	upp	uracil phosphoribosyltransferase
+1469129	PF1256	hypothetical protein
+1469131	PF1258	ribose-5-phosphate isomerase A
+1469133	PF1260	hypothetical protein
+1469135	PF1262	ribosome biogenesis protein
+1469137	PF1264	translation initiation factor IF-5A
+1469139	PF1266	cystathionine gamma-synthase
+1469445	PF1569	exosome complex RNA-binding protein Rrp4
+1469447	PF1571	proteasome subunit alpha
+1469449	PF1573	hypothetical protein
+1469451	PF1575	hypothetical protein
+1469453	PF1577	hypothetical protein
+1469455	PF1579	DNA topoisomerase VI subunit B
+1469469	PF1593	peptide chain release factor 1
+1469471	PF1595	hypothetical protein
+1469473	PF1597	heat shock protein x
+1469475	PF1599	undecaprenyl diphosphate synthase
+1469477	PF1601	AsnC family transcriptional regulator
+1469479	PF1603	Na antiporter
+1469494	PF1617	hypothetical protein
+1469496	PF1619	hypothetical protein
+1469498	PF1621	hypothetical protein
+1469500	PF1623	pyruvoyl-dependent arginine decarboxylase
+1469502	PF1625	hypothetical protein
+1469504	PF1627	glycyl-tRNA synthetase
+1469518	PF1641	hypothetical protein
+1469520	PF1643	DNA-directed RNA polymerase subunit N
+1469522	rpl13p	50S ribosomal protein L13
+1469524	PF1647	DNA-directed RNA polymerase subunit D
+1469526	rps4p	30S ribosomal protein S4
+1469528	PF1651	hypothetical protein
+1469838	PF1956	fructose-bisphosphate aldolase
+1469840	PF1958	hypothetical protein
+1469842	PF1960	aldose reductase
+1469844	PF1962	hypothetical protein
+1469846	PF1964	hypothetical protein
+1469848	PF1966	hypothetical protein
+1469862	PF1980	hypothetical protein
+1469864	PF1982	hypothetical protein
+1469866	PF1984	hypothetical protein
+1469870	PF1986	hypothetical protein
+1469872	PF1988	cell division protein FtsZ
+1469874	nusG	transcription antitermination protein NusG
+1469889	glpK	glycerol kinase
+1469891	PF2006	NADH oxidase
+1469893	rpl37ae	50S ribosomal protein L37
+1469895	PF2010	ribosomal biogenesis protein
+1469897	PF2012	elongation factor EF-2
+1469899	PF2014	bifunctional inositol-1 monophosphatase/fructose-1,6-bisphosphatase
+1469913	PF2028	nitrogenase reductase (n-terminus)
+1469915	PF2030	ferredoxin-family protein
+1469917	PF2032	hypothetical protein
+1469919	PF2034	hypothetical protein
+1469922	PF2037	hypothetical protein
+1469924	PF2039	hypothetical protein
+1467994	PF0162	hypothetical protein
+1468027	PF0195	hypothetical protein
+1468154	PF0319	glyoxylate reductase
+1468175	PF0340	HTH transcription regulator
+1468218	PF0382	prefoldin
+1468241	PF0405	methanol dehydrogenase regulatory protein
+1468369	PF0528	cobalt transport ATP-binding protein
+1468406	PF0564	ATP-dependent RNA helicase hepa
+1468472	PF0628	hypothetical protein
+1468528	PF0682	hypothetical protein
+1468531	PF0685	hypothetical protein
+1468600	PF0747	proline dipeptidase
+1469488	PF1612	hypothetical protein
+1469539	PF1662	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1469615	PF1737	hypothetical protein
+1469628	PF1750	sugar-binding transport ATP-binding protein
+1469706	PF1827	hypothetical protein
+1469781	PF1901	oxygen-independent coproporphyrinogen III oxidase
+1469031	PF1162	hypothetical protein
+1469741	PF1862	DNA-binding protein
+1467907	PF0078	2-phosphoglycerate kinase
+1468658	PF0802	hypothetical protein
+1467894	PF0065	hypothetical protein
+1468523	PF0677	ski2-like helicase
+1468508	PF0663	hypothetical protein
+1468496	PF0652	DEXX-box atpase
+1468400	PF0558	cation efflux system protein
+1468384	PF0542	molybdenum cofactor biosynthesis protein
+1468374	PF0533	indolepyruvate ferredoxin oxidoreductase subunit a
+1468360	PF0519	hypothetical protein
+1468346	PF0505	hypothetical protein
+1469722	PF1843	chromosome segregation protein smc
+1468207	PF0371	transporter
+1468205	PF0369	endoglucanase
+1468203	PF0367	hypothetical protein
+1468201	PF0365	hypothetical protein
+1468199	PF0363	beta-galactosidase
+1468197	PF0361	oligopeptide ABC transporter
+1468180	PF0345	molybdopterin converting factor subunit 1
+1468178	PF0343	S-adenosyl-L-homocysteine hydrolase
+1468176	PF0341	hypothetical protein
+1468174	PF0339	methyltransferase
+1468172	PF0337	flagellin
+1468158	PF0323	hypothetical protein
+1468156	PF0321	inosine monophosphate dehydrogenase-like protein
+1468154	PF0319	glyoxylate reductase
+1468152	PF0317	hypothetical protein
+1468150	PF0315	hypothetical protein
+1468148	PF0313	signal sequence peptidase I
+1468134	cobS	cobalamin synthase
+1468131	PF0297	hypothetical protein
+1468129	PF0295	n-type ATP pyrophosphatase superfamily protein
+1468127	PF0293	aminotransferase
+1468125	PF0291	prephenate dehydratase
+1468123	PF0289	phosphoenolpyruvate carboxykinase
+1468614	PF0761	hypothetical protein
+1468612	PF0759	hypothetical protein
+1468610	PF0757	hypothetical protein
+1468607	PF0754	2-keto acid:ferredoxin oxidoreductase subunit alpha
+1468605	PF0752	thioredoxin peroxidase
+1468603	PF0750	NADH oxidase
+1468587	PF0736	hypothetical protein
+1468585	PF0734	hypothetical protein
+1468582	PF0732	daunorubicin resistance ATP-binding protein
+1468579	PF0730	hypothetical protein
+1468577	PF0728	hypothetical protein
+1468575	PF0726	hypothetical protein
+1468561	PF0712	hypothetical protein
+1468559	PF0710	hypothetical protein
+1468557	PF0708	hypothetical protein
+1468554	PF0706	hypothetical protein
+1468552	PF0704	hypothetical protein
+1468550	PF0702	x-pro dipeptidase
+1468536	PF0688	subtilisin-like protease
+1468532	PF0686	hypothetical protein
+1468530	PF0684	hypothetical protein
+1468527	PF0681	hypothetical protein
+1468525	PF0679	hypothetical protein
+1468523	PF0677	ski2-like helicase
+1469022	PF1153	monovalent cation/H+ antiporter subunit E
+1469020	PF1151	monovalent cation/H+ antiporter subunit G
+1469018	PF1149	monovalent cation/H+ antiporter subunit B
+1469016	PF1147	monovalent cation/H+ antiporter subunit D
+1469014	PF1145	Mrp/Nbp35 family ATP-binding protein
+1469012	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1468998	PF1129	hypothetical protein
+1468996	PF1127	hypothetical protein
+1468994	PF1125	hypothetical protein
+1468992	PF1123	hypothetical protein
+1468990	PF1121	hypothetical protein
+1468988	PF1119	hypothetical protein
+1468973	PF1105	pyrazinamidase/nicotinamidase pxnc
+1468971	ppnK	inorganic polyphosphate/ATP-NAD kinase
+1468969	PF1101	hypothetical protein
+1468967	PF1099	formamidase (formamide amidohydrolase)
+1468965	PF1097	hypothetical protein
+1468963	PF1095	hypothetical protein
+1468947	PF1081	hypothetical protein
+1468945	PF1079	hypothetical protein
+1468943	PF1077	hypothetical protein
+1468941	PF1075	hypothetical protein
+1468939	PF1073	hypothetical protein
+1468937	PF1071	asparagine synthetase
+1469418	PF1542	small nuclear ribonucleoprotein
+1469416	PF1540	ADP forming acetyl coenzyme A synthetase
+1469414	PF1538	N-ethylammeline chlorohydrolase
+1469412	PF1536	hypothetical protein
+1469410	PF1534	stomatin
+1469408	PF1532	NADH oxidase
+1469394	PF1518	thiamin-binding periplasmic protein
+1469392	PF1516	GMP synthase
+1469390	PF1514	hypothetical protein
+1469388	PF1512	hypothetical protein
+1469386	PF1510	hypothetical protein
+1469384	PF1508	hypothetical protein
+1469370	PF1494	hypothetical protein
+1469368	PF1492	glycine cleavage system protein H
+1469366	PF1490	hypothetical protein
+1469364	PF1488	hypothetical protein
+1469362	PF1486	hypothetical protein
+1469360	PF1484	hypothetical protein
+1469346	PF1470	hypothetical protein
+1469344	PF1468	hypothetical protein
+1469342	PF1466	hypothetical protein
+1469340	PF1464	hypothetical protein
+1469338	PF1462	glutamyl-tRNA(Gln) amidotransferase subunit E
+1469336	PF1460	hypothetical protein
+1469809	PF1929	hypothetical protein
+1469807	PF1927	hypothetical protein
+1469805	PF1925	hypothetical protein
+1469803	PF1923	hypothetical protein
+1469801	PF1921	phosphoserine phosphatase
+1469799	PF1919	dehydrogenase
+1469785	PF1905	protease
+1469783	PF1903	translation initiation factor IF-2
+1469781	PF1901	oxygen-independent coproporphyrinogen III oxidase
+1469779	PF1899	2-deoxy-d-gluconate 3-dehydrogenase
+1469776	PF1897	hypothetical protein
+1469774	PF1895	biotin synthetase
+1469760	PF1881	DNA/RNA-binding protein albA
+1469758	PF1879	o-linked GlcNAc transferase
+1469756	PF1877	thiamine monophosphate kinase
+1469754	PF1875	hypothetical protein
+1469752	PF1873	hypothetical protein
+1469750	PF1871	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+1469735	PF1856	trk system potassium uptake protein
+1469733	moaC	molybdenum cofactor biosynthesis protein MoaC
+1469731	PF1852	glutamate synthase subunit beta
+1469729	PF1850	damage-inducible protein DinF
+1469727	PF1848	3-hydroxy-3-methylglutaryl-CoA reductase
+1469725	PF1846	hypothetical protein
+1467939	PF0110	DNA primase small subunit
+1467941	PF0112	hypothetical protein
+1467943	PF0114	GTP-binding protein
+1467945	PF0116	multiple sugar transport protein
+1467947	PF0118	ABC transporter permease
+1467949	PF0120	hypothetical protein
+1467966	PF0134	hypothetical protein
+1467968	PF0136	hypothetical protein
+1467970	PF0138	hypothetical protein
+1467972	PF0140	sugar transporter protein
+1467974	PF0142	asparaginase
+1467976	PF0144	hypothetical protein
+1467990	PF0158	hypothetical protein
+1467992	PF0160	TLDD - like protein
+1467994	PF0162	hypothetical protein
+1467996	PF0164	nifS protein
+1467998	PF0166	oxidoreductase
+1468000	PF0168	hypothetical protein
+1468014	PF0182	V-type ATP synthase subunit A
+1468016	PF0184	V-type ATP synthase subunit D
+1468018	PF0186	n-type ATP pyrophosphatase superfamily protein
+1468020	PF0188	dihydroorotate dehydrogenase electron transfer subunit
+1468022	PF0190	hypothetical protein
+1468024	PF0192	oligopeptide transporter permease appc
+1468338	PF0497	hypothetical protein
+1468340	PF0499	arginase
+1468342	PF0501	NTPase
+1468344	PF0503	iron ABC transporter
+1468346	PF0505	hypothetical protein
+1468348	PF0507	hypothetical protein
+1468362	PF0521	hypothetical protein
+1468364	PF0523	hypothetical protein
+1468366	PF0525	cell division protein FtsZ
+1468368	PF0527	hypothetical protein
+1468370	PF0529	hypothetical protein
+1468372	PF0531	cobalamin biosynthesis protein m
+1468387	PF0545	hypothetical protein
+1468389	PF0547	hypothetical protein
+1468391	PF0549	hydrogenase expression/formation protein
+1468393	PF0551	hypothetical protein
+1468395	PF0553	arsenate reductase
+1468397	PF0555	hypothetical protein
+1468412	PF0570	hypothetical protein
+1468414	PF0572	dna2-nam7 helicase family protein
+1468416	PF0574	hypothetical protein
+1468418	PF0576	hypothetical protein
+1468420	PF0578	hypothetical protein
+1468422	PF0580	hypothetical protein
+1468751	PF0889	hypothetical protein
+1468753	PF0891	sulfhydrogenase subunit beta
+1468755	PF0893	sulfhydrogenase subunit delta
+1468757	PF0895	ABC transporter
+1468759	PF0897	hypothetical protein
+1468763	PF0900	hypothetical protein
+1468778	PF0914	hypothetical protein
+1468780	PF0916	hypothetical protein
+1468782	truA	tRNA pseudouridine synthase A
+1468784	PF0920	nucleotidyltransferase
+1468786	PF0922	hypothetical protein
+1468788	PF0924	hypothetical protein
+1468802	PF0938	3-isopropylmalate dehydratase large subunit
+1468804	PF0940	3-isopropylmalate dehydrogenase
+1468806	PF0942	dihydroxy-acid dehydratase
+1468808	PF0944	hypothetical protein
+1468811	PF0947	hypothetical protein
+1468813	PF0949	hypothetical protein
+1468828	PF0963	cell division protein CDC48
+1468830	PF0965	pyruvate ferredoxin oxidoreductase subunit beta
+1468832	porD	pyuvate ferredoxin oxidoreductase subunit delta
+1468834	vorA	2-ketoisovalerate ferredoxin oxidoreductase subunit alpha
+1468836	PF0971	pyruvate/ketoisovalerate ferredoxin oxidoreductase subunit gamma
+1468838	PF0973	acetyl-CoA acetyltransferase
+1469153	PF1280	hypothetical protein
+1469155	PF1282	rubredoxin
+1469157	PF1284	hypothetical protein
+1469159	PF1286	hypothetical protein
+1469161	PF1288	thiamin biosynthesis protein thiI
+1469163	PF1290	hypothetical protein
+1469177	PF1304	hypothetical protein
+1469179	PF1306	hypothetical protein
+1469181	PF1308	hypothetical protein
+1469184	PF1310	hypothetical protein
+1469186	PF1312	hypothetical protein
+1469188	PF1314	hypothetical protein
+1469203	PF1328	ferredoxin-NADP reductase
+1469205	PF1330	cytochrome-c3 hydrogenase subunit gamma
+1469207	PF1332	hydrogenase subunit alpha
+1469209	thiE	thiamine-phosphate pyrophosphorylase
+1469211	PF1336	cytosine permease
+1469213	PF1338	transcriptional activator
+1469227	PF1352	hypothetical protein
+1469229	PF1354	oligosaccharide transporter
+1469231	PF1356	glucose-1-phosphate uridylyltransferase
+1469234	PF1358	glycosyl transferase family protein
+1469236	PF1360	hypothetical protein
+1469238	PF1362	hypothetical protein
+1469542	PF1665	histidinol-phosphate aminotransferase
+1469544	PF1667	hypothetical protein
+1469546	PF1669	hypothetical protein
+1469548	PF1671	hypothetical protein
+1469550	PF1673	protoporphyrinogen oxidase
+1469552	PF1675	aspartate racemase
+1469566	PF1689	transketolase
+1469568	aroB	3-dehydroquinate synthase
+1469570	aroE	shikimate 5-dehydrogenase
+1469572	PF1695	lipoprotein
+1469574	PF1697	ribose/galactose ABC transporter
+1469576	PF1699	3-phosphoshikimate 1-carboxyvinyltransferase
+1469590	PF1713	carbamoyl phosphate synthase small subunit
+1469592	PF1715	pyrroline-5-carboxylate reductase
+1469594	PF1717	translation initiation factor IF-2
+1469596	PF1719	intracellular protease
+1469598	PF1721	hypothetical protein
+1469600	PF1723	hypothetical protein
+1469616	PF1738	sugar kinase
+1469618	PF1740	trehalose/maltose transport inner membrane protein
+1469620	PF1742	trehalose synthase
+1469622	PF1744	trehalose/maltose transport ATP-hydrolyzing
+1469624	PF1746	hypothetical protein
+1469626	PF1748	sulfate transport system permease, ABC transporter
+1469940	PF2053	AsnC family transcriptional regulator
+1469943	PF2055	hypothetical protein
+1469945	PF2057	hypothetical protein
+1469947	PF2059	aminopeptidase
+1469950	PF2061	ABC transporter
+1469952	PF2063	aminopeptidase
+1468539	PF0691	hypothetical protein
+1468541	PF0693	hypothetical protein
+1468543	PF0695	hypothetical protein
+1468545	PF0697	multidrug resistance protein
+1468207	PF0371	transporter
+1468199	PF0363	beta-galactosidase
+1468192	PF0356	beta-galactosidase
+1468174	PF0339	methyltransferase
+1468139	PF0304	DEXX-box atpase
+1468100	PF0266	tRNA-splicing endonuclease subunit alpha
+1469905	PF2020	replication factor A
+1469865	PF1983	hypothetical protein
+1469818	PF1938	malE-like sugar binding protein
+1469806	radA	DNA repair and recombination protein RadA
+1467845	cdc6	cell division control protein 6
+1469757	PF1878	methylated-DNA--protein-cysteine methyltransferase
+1469455	PF1579	DNA topoisomerase VI subunit B
+1467969	PF0137	methyltransferase
+1469418	PF1542	small nuclear ribonucleoprotein
+1469383	PF1507	cell division protein FtsZ
+1469379	PF1503	hypothetical protein
+1467955	PF0126	DNA repair protein rad25
+1467939	PF0110	DNA primase small subunit
+1469035	PF1166	exonuclease
+1469014	PF1145	Mrp/Nbp35 family ATP-binding protein
+1468992	PF1123	hypothetical protein
+1468941	PF1075	hypothetical protein
+1468917	PF1051	ATP-dependent helicase
+1468109	PF0275	Na+/H+ antiporter
+1468107	PF0273	n-type ATP pyrophosphatase superfamily protein
+1468105	PF0271	hypothetical protein
+1468103	PF0269	hypothetical protein
+1468101	PF0267	ribosomal protein s18 alanine acetyltransferase
+1468099	PF0265	2-amino-3-ketobutyrate CoA ligase
+1468085	PF0251	hypothetical protein
+1468083	PF0249	deoxyribonucleotide triphosphate pyrophosphatase
+1468081	PF0247	HTH transcription regulator
+1468079	PF0245	hypothetical protein
+1468077	PF0243	DEXX-box atpase
+1468075	PF0241	tryptophanyl-tRNA synthetase
+1468061	PF0227	hypothetical protein
+1468058	PF0225	N-acetyltransferase
+1468056	PF0223	hypothetical protein
+1468053	PF0221	hypothetical protein
+1468051	PF0219	6-pyruvoyl tetrahydrobiopterin synthase
+1468049	rpl44e	50S ribosomal protein L44
+1468035	PF0203	citrate synthase
+1468033	PF0201	aconitate hydratase
+1468031	PF0199	phosphoribosylformylglycinamidine synthase II
+1468029	PF0197	phosphoribosylformylglycinamidine synthase subunit PurS
+1468027	PF0195	hypothetical protein
+1468025	PF0193	ABC transport ATP binding protein
+1468508	PF0663	hypothetical protein
+1468506	PF0661	hypothetical protein
+1468504	PF0659	hypothetical protein
+1468502	PF0657	dihydrodipicolinate synthase
+1468499	PF0655	serine/threonine-protein kinase
+1468497	PF0653	hypothetical protein
+1468483	PF0639	hypothetical protein
+1468481	PF0637	hypothetical protein
+1468479	PF0635	DEXX-box atpase
+1468477	PF0633	flavodoxin
+1468475	PF0631	hypothetical protein
+1468473	PF0629	hypothetical protein
+1468459	hypA	hydrogenase nickel incorporation protein
+1468457	PF0613	hypothetical protein
+1468455	PF0611	hypothetical protein
+1468453	PF0609	hypothetical protein
+1468451	PF0607	hypothetical protein
+1468448	PF0605	transposase
+1468434	PF0591	mannosyl-3-phosphoglycerate synthase
+1468432	PF0589	mannose-6-phosphate isomerase
+1468429	PF0587	hypothetical protein
+1468427	PF0585	DEXX-box atpase
+1468425	PF0583	daunorubicin resistance ATP-binding protein
+1468423	PF0581	hypothetical protein
+1468923	pgk	phosphoglycerate kinase
+1468921	PF1055	threonine synthase
+1468919	PF1053	aspartate kinase
+1468917	PF1051	ATP-dependent helicase
+1468915	PF1049	hypothetical protein
+1468913	PF1047	hypothetical protein
+1468899	PF1033	peroxiredoxin
+1468897	PF1031	divalent cation tolerance protein
+1468895	PF1029	hypothetical protein
+1468893	PF1027	hypothetical protein
+1468891	PF1025	hypothetical protein
+1468888	PF1022	AsnC family transcriptional regulator
+1468873	PF1008	phosphate ABC transporter ATP-binding protein
+1468871	PF1006	phosphate transport system permease C
+1468869	PF1004	alkaline phosphatase
+1468867	PF1002	hypothetical protein
+1468865	PF1000	oligopeptide transport system permease protein appc
+1468863	PF0998	GTP-binding protein
+1468849	PF0984	hypothetical protein
+1468847	PF0982	hypothetical protein
+1468845	PF0980	aspartate racemase
+1468843	PF0978	hypothetical protein
+1468841	PF0976	transmembrane protein
+1468839	PF0974	hypothetical protein
+1469322	PF1446	NADH dehydrogenase subunit M
+1469320	PF1444	NADH dehydrogenase subunit B
+1469318	PF1442	NADH dehydrogenase subunit D
+1469316	PF1440	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1469314	PF1438	hypothetical protein
+1469312	PF1436	NADH-plastoquinone oxidoreductase subunit
+1469298	PF1422	thioredoxin reductase
+1469296	PF1420	hypothetical protein
+1469294	PF1418	hypothetical protein
+1469292	PF1416	hypothetical protein
+1469290	PF1414	flap endonuclease-1
+1469288	PF1412	dipeptide transport ATP-binding protein
+1469274	PF1398	hypothetical protein
+1469272	PF1396	2-dehydropantoate 2-reductase
+1469270	PF1394	phosphoglycerate dehydrogenase
+1469268	PF1392	hypothetical protein
+1469266	PF1390	hypothetical protein
+1469264	PF1388	hypothetical protein
+1469250	PF1374	lipoate-protein ligase A
+1469248	PF1372	hypothetical protein
+1469246	PF1370	hypothetical protein
+1469244	rps28e	30S ribosomal protein S28
+1469241	PF1365	hypothetical protein
+1469239	PF1363	glycosyl transferase family protein
+1469711	PF1832	GTP cyclohydrolase
+1469709	PF1830	regulatory protein
+1469707	PF1828	hypothetical protein
+1469705	PF1826	hypothetical protein
+1469703	rpl4lp	50S ribosomal protein L4
+1469701	rpl2p	50S ribosomal protein L2
+1469687	rpl6p	50S ribosomal protein L6
+1469685	rpl19e	50S ribosomal protein L19
+1469683	rps5p	30S ribosomal protein S5
+1469681	rpl15p	50S ribosomal protein L15
+1469679	PF1800	adenylate kinase
+1469677	PF1798	sarcosine oxidase subunit beta
+1469663	PF1784	ADP-specific phosphofructokinase
+1469661	PF1782	hypothetical protein
+1469659	PF1780	ABC transporter
+1469657	glyA	serine hydroxymethyltransferase
+1469655	PF1776	hypothetical protein
+1469653	PF1774	iron ABC transporter ATP-binding protein
+1469639	PF1760	hypothetical protein
+1469637	PF1758	n-type ATP pyrophosphatase superfamily protein
+1469635	PF1756	hypothetical protein
+1469632	PF1754	fumarate hydratase
+1469629	PF1751	solute binding lipoprotein
+1469627	PF1749	sulfate transport integral membrane protein

@@ -1,14 +1,15 @@
 #takes the raw data file and creates 4 text files that can each be loaded into a table in mySQL
+
 #!/usr/bin/python
 
-# step 1. open the data file
-dataset = 'GDS4479_full.soft'
+#step 1. open the data file
+dataset='GDS2469_full.soft'
 fh = open(dataset) #don't quite understand why this line doesn't work when I open 'dataset'
 
 
 #step 2. read the first line and then read more lines while the line doesn't match a specific pattern
 line = fh.readline()
-while line[:20] != 'dataset_table_begin': #need to complete this
+while line[:20] != '!dataset_table_begin': #need to complete this
     line=fh.readline()
 
 header = fh.readline().strip()
@@ -41,6 +42,7 @@ def buildrow(row, fields):
     '''
     newrow=[]
     for f in fields:
+        print(str(colnames[f])+" "+row[int(colnames[f])])
         newrow.append(row[int(colnames[f])])
     return "\t".join(newrow)+"\n"
 
@@ -68,13 +70,18 @@ for line in fh.readlines():
     try:
         if line[0]=='!':
             continue
-        row=line.strip().split('\t')
+        row=line.replace('\n','').split('\t')
+        if row[int(colnames['Gene ID'])] =='':
+            continue
+        print(line)
+        textout=buildrow(row, genefields)
+        print(":"+textout)
         genefile.write(buildrow(row, genefields))
         probefile.write(buildrow(row,probefields))
         expressionfile.write(build_expression(row, samples))
         rows = rows +1 #increment the row counter
-    except:
-        pass
+    except Exception, e:
+        print e
 
     #close the created files after the data has been writen to them
 genefile.close()
