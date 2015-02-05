@@ -1,0 +1,9 @@
+fh=open('samples.txt','a')
+samples="GSM567670,GSM567671,GSM567680,GSM567681,GSM567690,GSM567691".split(",")
+experiment="in vitro biofilm (control)"
+for s in samples:
+   fh.write("%s\t%s\n"%(s,experiment))
+
+
+
+

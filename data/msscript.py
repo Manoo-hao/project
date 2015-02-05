@@ -1,6 +1,9 @@
-fh=open('samples.txt','w')
-samples="GSM567668,GSM567669,GSM567670,GSM567671,GSM567666,GSM567667,GSM567674,GSM567675,GSM567672,GSM567673".split(",")
-experiment="PBCLOp10"
+fh=open('samples.txt','a')
+samples="GSM567686,GSM567687,GSM567676,GSM567677,GSM567666,GSM567667".split(",")
+experiment="in vitro planktonic (control)"
 for s in samples:
    fh.write("%s\t%s\n"%(s,experiment))
+
+
+
 
