@@ -3,7 +3,7 @@
 #!/usr/bin/python
 
 #step 1. open the data file
-dataset='GDS2469_full.soft'
+dataset='GDS4479_full.soft'
 fh = open(dataset) #don't quite understand why this line doesn't work when I open 'dataset'
 
 
