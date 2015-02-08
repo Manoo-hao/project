@@ -34,12 +34,6 @@ GSM567678	burn wound
 GSM567679	burn wound
 GSM567688	burn wound
 GSM567689	burn wound
-GSM567668	burn wound
-GSM567669	burn wound
-GSM567678	burn wound
-GSM567679	burn wound
-GSM567688	burn wound
-GSM567689	burn wound
 GSM567672	murine tumor model
 GSM567673	murine tumor model
 GSM567682	murine tumor model
