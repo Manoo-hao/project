@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Digital restriction digest</title>
+</head>
+<body>
+
+<form id=myform name=myform method=POST action=formprocess.py>
+    <table>
+	<tr>
+		<td>Accession:</td>
+		<td><input type=text size=20 name=title value='Write a title'/></td>
+	</tr>
+	<tr>
+		<td>Sequence:</td>
+		<td><textarea rows=5 col=40 name=description>Write a description here</textarea></td>
+	</tr>
+	<tr>
+		<td>Restriction Enzyme:</td>
+		<td><select name='restriction_enzyme' multiple>
+			<option value=0>None</option>
+			<option value='EcoRI'>G^AATTC</option>
+			<option value='SmaI'>GGG^CCC</option>
+			<option value='HindIII'>A^AGCTT</option>
+			<option value='PstI'>CTGCA^G</option>
+		</select></td>
+	</tr>
+        <tr>
+		<td></td>
+		<td><input type=submit name=submit value='Digest!'/></td>
+	</tr>
+    </table>
+</form>
+
+
+</body>
+</html>

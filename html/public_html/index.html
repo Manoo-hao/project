@@ -49,6 +49,7 @@
 	<p><a href='studies.html'>List of modules in Y3S2</a></p>
 	<p><a href='document_fragment.html'> testing stylesheets</a></p>
 	<p><a href='result.html'> Result.html - stylesheet exercise</a></p>
+	<p><a href='reexercise.html'>Digital restriction digest</a></p>
 
 	<h5>testing internal links with anchors and h5 headers</5>
 
@@ -88,16 +89,48 @@
 		</tr>
 	</table>
 
-	<h1> Copied information from CGI tutorial </h1>
+	<h1> Google search button </h1>
 
+	<form action="http://www.google.com/search" method="get">
+		<label>Google here: <input type="search" name="q"></label>
+		<input type="submit" value="Activate self-destruction">
+	</form>
+
+	<h1>Form with and without table (from CGI tutorial) </h1>
+
+	<p>
+	<form id=myform name=myform method=POST action=formprocess.py>
+		<input type=text size=20 name=title value='Write a title'/>
+		<textarea rows=5 col=40 name=description>Write a description here</textarea>
+		<input type=submit name=submit value='Do something' />
+	</form>
+	</p>
+
+	<p>
 	<form id=myform name=myform method=POST action=formprocess.py>
 	    <table>
-	        <tr><td>Title:</td>
-	        <td><input type=text size=20 name=title value='Write a title'/></td></tr>
-	        <tr><td>Description</td>
-	        <td><textarea rows=5 col=40 name=description>Write a description here</textarea></td></tr>
-	        <tr><td></td><td><input type=submit name=submit value='Do something' /></td></tr>
+	        <tr>
+			<td>Title:</td>
+		        <td><input type=text size=20 name=title value='Write a title'/></td>
+		</tr>
+	        <tr>
+			<td>Description</td>
+		        <td><textarea rows=5 col=40 name=description>Write a description here</textarea></td>
+		</tr>
+	        <tr>
+			<td></td>
+			<td><input type=submit name=submit value='Do something' /></td>
+		</tr>
 	    </table>
+	</form>
+	</p>
+
+	<h1>Playing around</h1>
+
+	<form id=myform name=random_name method='post' action='http://ts-ug-dev.lifesci.dundee.ac.uk/~mblank/index.html'>
+		<input type=text size=20 name=title value='Write a title'/>
+		<textarea rows=5 col=40 name=description>I don't quite understand the difference between get and post...</textarea>
+		<input type=submit name=submit value='Explain' />
 	</form>
 
 	<h1>Restriction enzyme cutting sites in dropdown list </h1>
