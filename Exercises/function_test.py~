@@ -1,6 +1,5 @@
 from __future__ import division
 def get_percentage(sequence, amino_acid_list=['A','I','L','M','F','W','Y','V']): #sets a default for amino_acid_list
-'''This function was created as an independent test-file of the unresolved function_exercise2.'''
     length = len(sequence)
     amino_acid_count = 0 #sequence.count(amino_acid)
     for aa in amino_acid_list: # go through the list one at a time, each time putting it in aa

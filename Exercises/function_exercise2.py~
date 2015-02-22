@@ -1,10 +1,5 @@
 from __future__ import division
 def get_percentage(sequence, amino_acids):
-'''This is a more flexible version of function_exercise1 which can return the percentage of a list of amino acids
-as specified in the argument 'amino_acids' above.
-It will also work when entering an empty string, a single amino acid, and an amino acid that is not actually present in the argument'sequence'
-
-This function is as yet unresolved!'''
     length = len(sequence) #calculates length of sequences and stores it in variable length
     #hydrophobic = ['A','I','L','M','F','W','Y','V']
     #not_hydrophobic = ['G','P','C','H','K','R','Q','N','E','D','S','T']
