@@ -18,7 +18,7 @@ class DBHandler():
     def cursor(self):
         return DBHandler.connection.cursor()
 
-class Gene():
+class Genes():
     '''A class that describes an individual gene'''
     Gene_Symbol=''
     Gene_Title=''
@@ -43,6 +43,7 @@ class Gene():
         #fill in the blanks yourself
         for result in cursor.fetchall():
             self.probelist.append(result[0])
+
     def get_expression(self, Sample_ID):
         db=DBHandler()
         cursor=db.cursor()

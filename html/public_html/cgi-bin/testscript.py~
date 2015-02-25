@@ -14,6 +14,6 @@ print "<table><tr><th>Key</th><th>Value</th></tr>"
 for k in form.keys():
         print "<tr><td>%s</td><td>%s</td></tr>"%(k, form[k])
 
-print "<table>"
+print "</table>"
 
 print "</body></html>"
