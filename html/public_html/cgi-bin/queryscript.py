@@ -5,14 +5,16 @@ cgitb.enable()
 form = cgi.FieldStorage()
 
 
-form = cgi.FieldStorage() #stores information submitted to the form
+form = cgi.FieldStorage() #stores information submitted to the form #DM duplicate of line 5
+
+#DM what happens if you try printing out the value of Pseudomonas_table?
 import MySQLdb #import SQL database
 sql="SELECT * FROM Strains WHERE Strain= %s" #query
 db=MySQLdb.connect(db='mblank', user='mblank', passwd='PRXUyh03') #establish connection with SQL database
 cursor=db.cursor() #define cursor
 cursor.execute(sql,form['Pseudomonas_table'].value) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
 result=cursor.fetchall() #fetches results
-result
+result # takes the value in result but does nothing with it. Try printing it so it gets returned to the calling page.
 
 #The code repeats from here on with the only difference that the 'isolates' condition changes.
 
