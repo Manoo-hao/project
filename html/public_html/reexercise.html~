@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form id=myform name=myform method=POST action=testscript.py>
+<form id=myform name=myform method=POST action=formprocess.py>
     <table>
 	<tr>
 		<td>Accession:</td>

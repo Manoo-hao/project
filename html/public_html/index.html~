@@ -9,25 +9,9 @@
     <body>
 
         <h1>Manu's Home Page</h1>
+        Hi, I'm Manu. This webiste is primarily made for the BS32011,
 
-	<h1>Query GEO database here</h1>
-
-	<p>
-	<form id=PA name=PA action="/~mblank/cgi-bin/queryscript.py" method=POST>
-		<input type="text" name="title" value="Enter Strain"/>
-		<input type="Submit" name="Submit" value="Submit"/>
-	</form>
-	</p>
-
-	<p>Three different strains were used in this study, PBCLOp10, PBCLOp11, and 
-	PBCLOp17. Enter either of these names into the search-field above and you will get the most 
-	highly expressed genes respectively.</p>
-
-	<h1>Practice and Tutorials</h1>
-
-	<p>Hi, I'm Manu. This webiste is primarily made for the BS32011,
-
-        but also for practise purposes. Once I get used to all this it might be a the location for some of my private projects I don't quite have the skills for just yet. Come back in a year or so.</p>
+        but also for practise purposes. Once I get used to all this it might be a the location for some of my private projects I don't quite have the skills for just yet. Come back in a year or so.
 
     <div>
 	This is some normal text.
@@ -66,7 +50,6 @@
 	<p><a href='document_fragment.html'> testing stylesheets</a></p>
 	<p><a href='result.html'> Result.html - stylesheet exercise</a></p>
 	<p><a href='reexercise.html'>Digital restriction digest</a></p>
-	<p><a href='testscript.py'>Testscript</a></p>
 
 	<h5>testing internal links with anchors and h5 headers</5>
 
@@ -85,12 +68,12 @@
 
 	<img src='/BS32011/cgi/image2.jpg' height=120 width=80 alt='Is that what comes when mousing over the picture?' />
 
-	<h1>Tables</h1>
+	<h1> playing around with tables </h1>
 
 
 	<table border='1' style='width:100%'>
 		<tr>
-		<caption>Random stuff</caption>
+		<caption>Random shit</caption>
 			<th>First Name</th>
 			<th>Last Name</th>
 			<th>Points</th>
@@ -113,7 +96,15 @@
 		<input type="submit" value="Activate self-destruction">
 	</form>
 
-	<h1>Forms (from CGI tutorial) </h1>
+	<h1>Form with and without table (from CGI tutorial) </h1>
+
+	<p>
+	<form id=myform name=myform method=POST action=formprocess.py>
+		<input type=text size=20 name=title value='Write a title'/>
+		<textarea rows=5 col=40 name=description>Write a description here</textarea>
+		<input type=submit name=submit value='Do something' />
+	</form>
+	</p>
 
 	<p>
 	<form id=myform name=myform method=POST action=formprocess.py>
@@ -134,6 +125,13 @@
 	</form>
 	</p>
 
+	<h1>Playing around</h1>
+
+	<form id=myform name=random_name method='post' action='http://ts-ug-dev.lifesci.dundee.ac.uk/~mblank/index.html'>
+		<input type=text size=20 name=title value='Write a title'/>
+		<textarea rows=5 col=40 name=description>I don't quite understand the difference between get and post...</textarea>
+		<input type=submit name=submit value='Explain' />
+	</form>
 
 	<h1>Restriction enzyme cutting sites in dropdown list </h1>
 
