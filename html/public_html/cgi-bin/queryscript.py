@@ -1,24 +1,27 @@
-#!/usr/local/bin/python
+#!/usr/bin/python
 import cgi
 import cgitb
 cgitb.enable()
 form = cgi.FieldStorage()
-
+value='879245'
 #DM what happens if you try printing out the value of Pseudomonas_table?
 #A key error is the result, indicating that the value entered in the form doesn't come through.
 #How though can I make it come through?
 #If I enter a value manually instead of form['PA'].form, it does work,
 #and I don't quite see the missing link.
 import MySQLdb #import SQL database
+
 sql="SELECT Gene_ID, Gene_Title FROM Genes WHERE Gene_ID= %s" #query
 db=MySQLdb.connect(db='mblank', user='mblank', passwd='PRXUyh03') #establish connection with SQL database
 cursor=db.cursor() #define cursor
-cursor.execute(sql,form['PA'].value) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
+if form.has_key('title'):
+   value=form['title'].value
+cursor.execute(sql,(value,)) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
 #This is where the entered value in the form connects to the cgi form. If I enter values here manually, it works. But the value does not seem to come through to populate the dictionary.
 result=cursor.fetchall() #fetches results
 print result # takes the value in result but does nothing with it. Try printing it so it gets returned to the calling page.
-
-#The code repeats from here on with the only difference that the 'isolates' condition changes.
+exit()
+#Th code repeats from here on with the only difference that the 'isolates' condition changes.
 
 #query for isolate 'burn wound'
 exprsqlbw="SELECT DISTINCT Genes.Gene_ID, Gene_Title, Strain, Isolate, Expression_value FROM Expression INNER JOIN Isolates ON Expression.Sample_ID=Isolates.Sample_ID INNER JOIN Strains ON Isolates.Sample_ID=Expression.Sample_ID INNER JOIN Probes ON Probes.ID_REF=Expression.ID_REF INNER JOIN Genes ON Genes.Gene_ID=Probes.Gene_ID WHERE Strain=%s AND Isolate='burn wound' AND Expression_value>'13' ORDER BY Expression_value DESC LIMIT 30"
