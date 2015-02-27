@@ -3,7 +3,7 @@ import cgi
 import cgitb
 cgitb.enable()
 form = cgi.FieldStorage()
-value='879245'
+#value='879245'
 #DM what happens if you try printing out the value of Pseudomonas_table?
 #A key error is the result, indicating that the value entered in the form doesn't come through.
 #How though can I make it come through?
@@ -19,7 +19,18 @@ if form.has_key('title'):
 cursor.execute(sql,(value,)) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
 #This is where the entered value in the form connects to the cgi form. If I enter values here manually, it works. But the value does not seem to come through to populate the dictionary.
 result=cursor.fetchall() #fetches results
+
+def start_html():
+    print("Content-type: text/html")
+    print
+    print("<html><head></head><body>")
+def end_html():
+    print("</body></html>")
+
+start_html()
 print result # takes the value in result but does nothing with it. Try printing it so it gets returned to the calling page.
+
+end_html()
 exit()
 #Th code repeats from here on with the only difference that the 'isolates' condition changes.
 

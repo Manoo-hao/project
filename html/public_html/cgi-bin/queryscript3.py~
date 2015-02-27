@@ -11,17 +11,16 @@ form = cgi.FieldStorage()
 #and I don't quite see the missing link.
 import MySQLdb #import SQL database
 
-sql="SELECT DISTINCT Genes.Gene_ID, Gene_Title, Strain, Isolate, Expression_value FROM Expression INNER JOIN Isolates ON Expression.Sample_ID=Isolates.Sample_ID INNER JOIN Strains ON Isolates.Sample_ID=Expression.Sample_ID INNER JOIN Probes ON Probes.ID_REF=Expression.ID_REF INNER JOIN Genes ON Genes.Gene_ID=Probes.Gene_ID WHERE Genes.Gene_ID=%s AND Isolate='burn wound' AND Expression_value>13 ORDER BY Expression_value DESC LIMIT 30" #query
+sql="SELECT DISTINCT Genes.Gene_ID, Gene_Title, Strain, Isolate, Expression_value FROM Expression INNER JOIN Isolates ON Expression.Sample_ID=Isolates.Sample_ID INNER JOIN Strains ON Isolates.Sample_ID=Expression.Sample_ID INNER JOIN Probes ON Probes.ID_REF=Expression.ID_REF INNER JOIN Genes ON Genes.Gene_ID=Probes.Gene_ID LIMIT 10" #query
 db=MySQLdb.connect(db='mblank', user='mblank', passwd='PRXUyh03') #establish connection with SQL database
 cursor=db.cursor() #define cursor
 if form.has_key('title'):
-    value=form[title].value
+    value=form['title'].value
 else:
-    print 'Form does not have key: title'
+    #cursor.execute(sql,(%s,))
+    cursor.execute(sql)
 
-exit()
-
-cursor.execute(sql,(value,)) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
+#cursor.execute(sql,(value,)) #cursor queries using form value ('Pseudomonas_table' is the name of the form in html)
 #This is where the entered value in the form connects to the cgi form. If I enter values here manually, it works. But the value does not seem to come through to populate the dictionary.
 result=cursor.fetchall() #fetches results
 print result # takes the value in result but does nothing with it. Try printing it so it gets returned to the calling page.
