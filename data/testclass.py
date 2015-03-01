@@ -2,6 +2,10 @@
 import MySQLdb
 #Incomplete outline script for a database interacting class to represent a gene.
 
+#A non-functional working version of models.py in order to test its functionality
+#This file is the intermediate between an HTML form an an SQL query. If it was functional, I would be incorporated
+#in the python CGI script. Since this script is currently not functional, the queries were hardcoded into the CGI script
+
 class DBHandler():
     '''The static database connection - avoids overuse of resources'''
     connection=None
