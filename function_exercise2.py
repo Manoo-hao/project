@@ -6,11 +6,15 @@ def get_percentage(sequence, amino_acids):
     #non hydrophobic aa: or amino_acid == 'G' or amino_acid == 'P' or amino_acid == 'C' or amino_acid == 'H' or amino_acid == 'K' or amino_acid == 'R' or amino_acid == 'Q' or amino_acid == 'N' or amino_acid == 'E' or amino_acid == 'D' or amino_acid == 'S' or amino_acid == 'T'
     #DMAM 30/1 amino_acids is a list. You have to count each element in the list separately
 
+#This script is not functional at the moment.
+
+# initiate counter for hydrophobic amino acids and add 1 to the count if the amino acid is from the list specified after the if-statement.
     hydrophobic_amino_acid_count = 0
     for amino_acids in sequence:
         if amino_acid == 'A' or amino_acid == 'I' or amino_acid == 'L' or amino_acid == 'M' or amino_acid == 'F' or amino_acid == 'W' or amino_acid == 'Y' or amino_acid == 'V':
             hydrophobic_amino_acid_count = hydrophobic_amino_acid_count +1
 
+# initiate counter for non-hydrophobic amino acids and add 1 to the count if the amino acid is from the list specified after the if-statement.
     non_hydrophobic_amino_acid_count = 0
     for amino_acids in amino_acids:
         if amino_acid == 'G' or amino_acid == 'P' or amino_acid == 'C' or amino_acid == 'H' or amino_acid == 'K' or amino_acid == 'R' or amino_acid == 'Q' or amino_acid == 'N' or amino_acid == 'E' or amino_acid == 'D' or amino_acid == 'S' or amino_acid == 'T'
