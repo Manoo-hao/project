@@ -1,4 +1,5 @@
-from __future__ import division
+#This little script is part of function_exercise2.py and was created to find the reason for its not being functional
+from __future__ import division #imports division-module from python 3 to python 2
 def get_percentage(sequence, amino_acid_list=['A','I','L','M','F','W','Y','V']): #sets a default for amino_acid_list
     length = len(sequence)
     amino_acid_count = 0 #sequence.count(amino_acid)
