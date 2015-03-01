@@ -3,13 +3,13 @@
 #!/usr/bin/python
 
 #step 1. open the data file
-dataset='GDS4479_full.soft'
-fh = open(dataset) #don't quite understand why this line doesn't work when I open 'dataset'
+dataset='GDS4479_full.soft' #stores file content in variable §dataset"
+fh = open(dataset) #stores content of dataset in filehandle
 
 
 #step 2. read the first line and then read more lines while the line doesn't match a specific pattern
 line = fh.readline()
-while line[:20] != '!dataset_table_begin': #check first 20 characters, if it doesn't match this, read next line.
+while line[:20] != '!dataset_table_begin': #check first 20 characters, if it doesn't match the specified "!dataset_table_begin", read next line.
     line=fh.readline()
 
 header = fh.readline().strip()
@@ -18,7 +18,7 @@ header = fh.readline().strip()
 colnames={}
 
 index=0
-for title in header.split('\t'):
+for title in header.split('\t'): #separate the headers by a tab (effectively creating columns)
     colnames[title]=index
     print '%s\t%s'%(title,index)
     index=index+1
@@ -70,7 +70,7 @@ for line in fh.readlines():
         if line[0]=='!':
             continue
         row=line.replace('\n','').split('\t')
-        if row[int(colnames['Gene ID'])] =='': #genes originally spat out a lot of empty lines. This statement gets rid of lines that contain nothing.
+        if row[int(colnames['Gene ID'])] =='': #genes originally returned a lot of empty lines. This statement gets rid of lines that contain nothing.
             continue
         genefile.write(buildrow(row,genefields))
         probefile.write(buildrow(row,probefields))
