@@ -2,6 +2,8 @@
 
 #!/usr/bin/python
 
+#Working version of parser - non functional - refer to attached README.md for more information
+
 #step 1. open the data file
 dataset='GDS2469_full.soft'
 fh = open(dataset) #don't quite understand why this line doesn't work when I open 'dataset'
