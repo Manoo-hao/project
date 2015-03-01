@@ -15,7 +15,7 @@ digital restriction digest initiated. Not functional since not connected to a CG
 ##styles
 The file result.html is a provided table that was modified via different style options, e.g. a cascading style sheet
 (result.css). The file style.css is an independent css-file which can be called from other html-scripts in order to
-modify the style different segments of the site, in this case <div>, <p>, and <h1>. Similarly the file warning.css.
+modify the style different segments of the site. The file warning.css is akin to that.
 
 ##studies.html
 list of current modules indexed by internal anchors. Can also be accessed through index.html and refers to the
