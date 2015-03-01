@@ -27,6 +27,13 @@ purpose as the above files, but were created manually. samples.txt is a
 combined table of isolates.txt, and strains.txt and was also created 
 manually. samples.txt is not used for building a relational database.
 
+##Classes
+
+models, and testclass are versions of a python class used as an intermediate
+between a CGI script and the SQL database. All versions in this folder
+are limited in their functionality. Even though models2.py allegedly
+works, I could not incorporate it into the pipeline successfully.
+
 ##Other files
 
 msscript and testfile are files that were created by Dr Martin and 
